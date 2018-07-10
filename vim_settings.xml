@@ -33,7 +33,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1531204040251">
         <mark key="[" line="110" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorMapper.xml" timestamp="1531206616200" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorMapper.xml" timestamp="1531207659277">
+        <mark key="[" line="151" column="78" />
+      </file>
       <file name="/JavaScript Console" timestamp="1531190775834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -71,7 +73,7 @@
         <mark key="]" line="7" column="39" />
         <mark key="." line="7" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/Doctor.java" timestamp="1531206139895" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorInfoMapper.xml" timestamp="1531207751447" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/UserService.java" timestamp="1531194101935">
         <mark key="[" line="65" column="33" />
         <mark key="]" line="53" column="48" />
@@ -96,7 +98,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorMapper.java" timestamp="1531205985853">
         <mark key="]" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorInfo.java" timestamp="1531206185892" />
       <file name="/fragment.java" timestamp="1531201857177">
         <mark key="[" line="0" column="0" />
       </file>
