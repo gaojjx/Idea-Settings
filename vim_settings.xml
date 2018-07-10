@@ -27,8 +27,8 @@
         <mark key="." line="231" column="36" />
         <mark key="^" line="40" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorService.java" timestamp="1531209755526">
-        <mark key="[" line="52" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorService.java" timestamp="1531213706782">
+        <mark key="[" line="61" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/README.md" timestamp="1531188505221">
         <mark key="[" line="0" column="0" />
@@ -59,7 +59,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/.git/info/exclude" timestamp="1531045949900">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531195374831">
+      <file name="/Dummy.txt" timestamp="1531213584292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserMapper.java" timestamp="1531207430912">
@@ -86,10 +86,10 @@
         <mark key="^" line="53" column="48" />
         <mark key="." line="53" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorServiceImpl.java" timestamp="1531211032466">
-        <mark key="[" line="93" column="15" />
-        <mark key="]" line="93" column="15" />
-        <mark key="." line="93" column="15" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorServiceImpl.java" timestamp="1531213730975">
+        <mark key="[" line="110" column="5" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1531187104676">
         <mark key="[" line="9" column="0" />
@@ -110,7 +110,13 @@
         <mark key="[" line="33" column="111" />
         <mark key="]" line="37" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1531201857177">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/DoctorController.java" timestamp="1531213596238">
+        <mark key="[" line="142" column="5" />
+        <mark key="]" line="138" column="7" />
+        <mark key="^" line="138" column="7" />
+        <mark key="." line="138" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1531213119844">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -127,25 +133,28 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25maWctbG9jYXRpb246IGNsYXNzcGF0aDpteWJhdGlzLWNvbmZpZy54bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2NvZGUuZ2VuZXJhdG9yLmRhdGFzb3VyY2UucGFzc3dvcmQ9IHJvb3QK</text>
+        <text encoding="base64">ICBjb25maWctbG9jYXRpb246IGNsYXNzcGF0aDpteWJhdGlzLWNvbmZpZy54bWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29kZS5nZW5lcmF0b3IuZGF0YXNvdXJjZS5wYXNzd29yZD0gcm9vdAo=</text>
+        <text encoding="base64">I2NvZGUuZ2VuZXJhdG9yLmRhdGFzb3VyY2UucGFzc3dvcmQ9IHJvb3QK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Y29kZS5nZW5lcmF0b3IuZGF0YXNvdXJjZS5wYXNzd29yZD0gcm9vdAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Y29kZS5nZW5lcmF0b3IuZGF0YXNvdXJjZS51cmw9IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MTMzMDYvYmhoeD9jaGFyYWN0ZXJFbmNvZGluZz11dGY4JnVzZVNTTD1mYWxzZQo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>`bhhx`.
 `bhhx`.
 `bhhx`.
@@ -178,7 +187,7 @@
 `bhhx`.
 `bhhx`.`</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>bhhx`.
 bhhx`.
 bhhx`.
@@ -210,9 +219,6 @@ bhhx`.
 bhhx`.
 bhhx`.
 bhhx`.</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEBhdXRob3IgamxvbgogKi8K</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
