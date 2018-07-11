@@ -91,6 +91,11 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/UserServiceImplTest.java" timestamp="1531271698306">
+        <mark key="[" line="26" column="16" />
+        <mark key="]" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1531187104676">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -116,7 +121,10 @@
         <mark key="^" line="138" column="7" />
         <mark key="." line="138" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1531213119844">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/UserMapperTest.java" timestamp="1531271393755">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1531271443123">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -133,8 +141,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -221,7 +229,7 @@ bhhx`.
 bhhx`.</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
