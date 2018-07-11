@@ -33,10 +33,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorService.java" timestamp="1531213706782">
         <mark key="[" line="61" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorServiceImplTest.java" timestamp="1531277299034">
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="79" column="5" />
-        <mark key="." line="79" column="5" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorServiceImplTest.java" timestamp="1531279227550">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorTaskPlanMapper.xml" timestamp="1531274787393" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/README.md" timestamp="1531188505221">
@@ -154,7 +154,7 @@
         <text encoding="base64">CUBUZXN0Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>After</text>
+        <text>Test</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CUBUZXN0Cg==</text>
@@ -181,7 +181,7 @@
         <text encoding="base64">Y29kZS5nZW5lcmF0b3IuZGF0YXNvdXJjZS5wYXNzd29yZD0gcm9vdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>After</text>
+        <text>Test</text>
       </register>
     </registers>
     <search>
