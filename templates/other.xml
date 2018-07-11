@@ -4,7 +4,18 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="ise" value="if ($VAR$ != null &amp;&amp; !StringUtils.isEmpty($VAR$)) {&#10;    $END$&#10;}" description="if not null &amp;&amp; not empty" toReformat="false" toShortenFQNames="true">
+  <template name="ise" value="if ($VAR$ == null || StringUtils.isEmpty($VAR$)) {&#10;    $END$&#10;}" description="if null || empty" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="var" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_DECLARATION" value="false" />
+      <option name="JAVA_EXPRESSION" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="isne" value="if ($VAR$ != null &amp;&amp; !StringUtils.isEmpty($VAR$)) {&#10;    $END$&#10;}" description="if not null &amp;&amp; not empty" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="var" alwaysStopAt="true" />
     <context>
       <option name="COMPLETION" value="false" />
