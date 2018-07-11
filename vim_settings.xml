@@ -33,10 +33,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorService.java" timestamp="1531213706782">
         <mark key="[" line="61" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorServiceImplTest.java" timestamp="1531281570229">
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="28" column="5" />
-        <mark key="." line="28" column="5" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorServiceImplTest.java" timestamp="1531289878020">
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="26" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorTaskPlanMapper.xml" timestamp="1531274787393" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/README.md" timestamp="1531188505221">
@@ -76,7 +77,7 @@
         <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorTaskRecordMapper.xml" timestamp="1531274920954" />
-      <file name="/Dummy.txt" timestamp="1531276412762">
+      <file name="/Dummy.txt" timestamp="1531290109772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/MethodSorters.java" timestamp="1531277500852" />
@@ -105,8 +106,8 @@
         <mark key="]" line="95" column="9" />
         <mark key="." line="95" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/UserServiceImplTest.java" timestamp="1531272245751">
-        <mark key="[" line="20" column="12" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/UserServiceImplTest.java" timestamp="1531290074445">
+        <mark key="[" line="29" column="26" />
         <mark key="]" line="31" column="16" />
         <mark key="." line="31" column="16" />
       </file>
@@ -157,37 +158,38 @@
         <text encoding="base64">Y29kZS5nZW5lcmF0b3IuZGF0YXNvdXJjZS51cmw9IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MTMzMDYvYmhoeD9jaGFyYWN0ZXJFbmNvZGluZz11dGY4JnVzZVNTTD1mYWxzZQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ZiAobG9naW5OYW1lICE9IG51bGwgJiYgIVN0cmluZ1V0aWxzLmlzRW1wdHkobG9naW5OYW1lKSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9</text>
+        <text>getId());
+	}</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZiAobG9naW5OYW1lICE9IG51bGwgJiYgIVN0cmluZ1V0aWxzLmlzRW1wdHkobG9naW5OYW1lKSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9</text>
+        <text>getId());</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobG9naW5OYW1lICE9IG51bGwgJiYgIVN0cmluZ1V0aWxzLmlzRW1wdHkobG9naW5OYW1lKSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQlEb2N0b3IgZG9jdG9yID0gZG9jdG9yU2VydmljZS5nZXRCeUxvZ2luTmFtZShsb2dpbk5hbWUpOwoJCWFzc2VydFRydWUoZG9jdG9ySWQgPT0gZG9jdG9yLmdldElkKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBUZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBUZXN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0iQmFzZV9Db2x1bW5fTGlzdCIvPgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZiAobG9naW5OYW1lICE9IG51bGwgJiYgIVN0cmluZ1V0aWxzLmlzRW1wdHkobG9naW5OYW1lKSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobG9naW5OYW1lICE9IG51bGwgJiYgIVN0cmluZ1V0aWxzLmlzRW1wdHkobG9naW5OYW1lKSkgewogICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBUZXN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text>getId());</text>
       </register>
     </registers>
     <search>
