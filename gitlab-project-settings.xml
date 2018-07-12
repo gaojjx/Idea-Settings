@@ -1,0 +1,18 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="" />
+    <option name="token" value="" />
+    <option name="servers">
+      <list>
+        <ServerDto>
+          <option name="host" value="http://115.28.19.117:9380" />
+          <option name="token" value="hQBoC8NBvyRHFcRtn8RP" />
+        </ServerDto>
+        <ServerDto>
+          <option name="host" value="http://115.28.19.117/yirdoc/bhhx.git" />
+          <option name="token" value="hQBoC8NBvyRHFcRtn8RP" />
+        </ServerDto>
+      </list>
+    </option>
+  </component>
+</application>
