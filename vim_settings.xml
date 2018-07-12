@@ -40,6 +40,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/TestController.java" timestamp="1531288380601">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/User.java" timestamp="1531364341061">
+        <mark key="[" line="72" column="12" />
+        <mark key="]" line="72" column="12" />
+        <mark key="." line="72" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1531272322231">
         <mark key="[" line="129" column="37" />
       </file>
@@ -61,6 +66,11 @@
         <mark key="[" line="188" column="72" />
         <mark key="]" line="187" column="0" />
         <mark key="." line="187" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/util/TableUtil.java" timestamp="1531364617887">
+        <mark key="[" line="427" column="30" />
+        <mark key="]" line="427" column="30" />
+        <mark key="." line="427" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/Generator.java" timestamp="1531141635294">
         <mark key="[" line="144" column="37" />
@@ -143,7 +153,7 @@
         <text encoding="base64">PC9odG1sPgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>newsys4weilai</text>
+        <text>Byte</text>
       </register>
       <register name="2" type="4">
         <text>getId());
@@ -171,7 +181,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>newsys4weilai</text>
+        <text>Byte</text>
       </register>
     </registers>
     <search>
