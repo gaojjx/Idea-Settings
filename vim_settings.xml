@@ -134,8 +134,10 @@
       <file name="/Dummy.txt" timestamp="1531383321986">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1531386936943">
-        <mark key="[" line="52" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1531400137191">
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="54" column="31" />
+        <mark key="." line="54" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/DoctorCardModel.java" timestamp="1531388785998">
         <mark key="[" line="8" column="28" />
@@ -201,7 +203,7 @@
         <text encoding="base64">QFJlcG9zaXRvcnkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>model</text>
+        <text>CardId</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">QENvbXBvbmVudAo=</text>
@@ -228,7 +230,7 @@
         <text encoding="base64">QVZHX1JPV19MRU5HVEggPSAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>model</text>
+        <text>CardId</text>
       </register>
     </registers>
     <search>
