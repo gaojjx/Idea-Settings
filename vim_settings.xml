@@ -24,11 +24,6 @@
       <file name="/a.dummy" timestamp="1531272354692">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bhhx.sql" timestamp="1531378568942">
-        <mark key="]" line="402" column="60" />
-        <mark key="^" line="402" column="60" />
-        <mark key="." line="402" column="60" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorServiceImplTest.java" timestamp="1531289878020">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="19" />
@@ -71,10 +66,7 @@
         <mark key="." line="71" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/UserService.java" timestamp="1531194101935">
-        <mark key="[" line="65" column="33" />
-        <mark key="]" line="53" column="48" />
-        <mark key="^" line="53" column="48" />
-        <mark key="." line="53" column="48" />
+        <mark key="[" line="85" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1531367932627">
         <mark key="[" line="6" column="65" />
@@ -139,6 +131,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1531383321986">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1531386936943">
+        <mark key="[" line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/demo/pom.xml" timestamp="1531046430877">
         <mark key="[" line="23" column="0" />
