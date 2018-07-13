@@ -148,8 +148,8 @@
         <mark key="]" line="60" column="61" />
         <mark key="." line="60" column="61" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorCardServiceImpl.java" timestamp="1531453561330">
-        <mark key="[" line="124" column="18" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorCardServiceImpl.java" timestamp="1531453935646">
+        <mark key="[" line="153" column="90" />
         <mark key="]" line="120" column="29" />
         <mark key="." line="120" column="29" />
         <mark key="^" line="120" column="29" />
@@ -213,7 +213,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/.gitignore" timestamp="1531045569810">
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1531453685214">
+      <file name="/fragment.java" timestamp="1531453964900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/DoctorCardServiceModel.java" timestamp="1531388686429">
