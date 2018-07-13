@@ -36,8 +36,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyService.java" timestamp="1531194092888">
         <mark key="[" line="52" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorCardServiceImplTest.java" timestamp="1531460218337">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorCardServiceImplTest.java" timestamp="1531460861896">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/util/TableUtil.java" timestamp="1531373949365">
         <mark key="[" line="427" column="30" />
@@ -241,35 +243,41 @@
       <register name="0" type="2">
         <text encoding="base64">Y29kZS5nZW5lcmF0b3IuZGF0YXNvdXJjZS51cmw9IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MTMzMDYvYmhoeD9jaGFyYWN0ZXJFbmNvZGluZz11dGY4JnVzZVNTTD1mYWxzZQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3QgPGluY2x1ZGUgcmVmaWQ9IkJhc2VfQ29sdW1uX0xpc3QiIC8+Cg==</text>
+      <register name="1" type="4">
+        <text>@Autowired
+	public DoctorCardServiceImplTest(DoctorCardServiceImpl doctorCardService) {
+		this.doctorCardService = doctorCardService;
+	}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>count(id)</text>
+        <text>@Autowired
+	public DoctorCardServiceImplTest(DoctorCardServiceImpl doctorCardService) {
+		this.doctorCardService = doctorCardService;
+	}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENhcmQK</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3QgPGluY2x1ZGUgcmVmaWQ9IkJhc2VfQ29sdW1uX0xpc3QiIC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbXBvbmVudFNjYW4oYmFzZVBhY2thZ2VzID0gImNvbS55aXJkb2MuKiIpCg==</text>
+        <text encoding="base64">ICAgIENhcmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oYmFzZVBhY2thZ2VzID0gImNvbS55aXJkb2MuKiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuQmVhblV0aWxzOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuQmVhblV0aWxzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>count(id)</text>
