@@ -19,12 +19,6 @@
       <file name="/a.dummy" timestamp="1531452096567">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/bhhx.sql" timestamp="1531469558400">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="114" column="41" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorServiceImplTest.java" timestamp="1531469797407">
         <mark key="[" line="20" column="29" />
         <mark key="]" line="26" column="19" />
@@ -43,9 +37,7 @@
         <mark key="." line="32" column="9" />
         <mark key="^" line="32" column="9" />
       </file>
-      <file name="$USER_HOME$/Untitled.sql" timestamp="1531463011204">
-        <mark key="[" line="63" column="11" />
-      </file>
+      <file name="$USER_HOME$/Untitled.sql" timestamp="1531547961526" />
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/util/TableUtil.java" timestamp="1531373949365">
         <mark key="[" line="427" column="30" />
         <mark key="]" line="427" column="30" />
@@ -62,6 +54,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/.git/info/exclude" timestamp="1531045949900">
         <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/bhhx.sql" timestamp="1531548274684">
+        <mark key="[" line="16" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/service.ftl" timestamp="1531379943006">
         <mark key="[" line="4" column="27" />
