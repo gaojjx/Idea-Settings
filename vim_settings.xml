@@ -32,6 +32,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/README.md" timestamp="1531188505221">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardServiceTimeMapper.xml" timestamp="1531706536050">
+        <mark key="[" line="128" column="56" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyService.java" timestamp="1531194092888">
         <mark key="[" line="52" column="34" />
       </file>
@@ -50,23 +53,20 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/README.md" timestamp="1531045885896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1531561959952">
-        <mark key="[" line="204" column="79" />
-        <mark key="]" line="154" column="34" />
-        <mark key="^" line="146" column="46" />
-        <mark key="." line="154" column="34" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1531707323452">
+        <mark key="[" line="214" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/.git/info/exclude" timestamp="1531045949900">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardMapper.xml" timestamp="1531561794475">
-        <mark key="[" line="166" column="79" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardMapper.xml" timestamp="1531707513454">
+        <mark key="[" line="172" column="77" />
       </file>
       <file name="$USER_HOME$/bhhx.sql" timestamp="1531548274684">
         <mark key="[" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardModel.java" timestamp="1531549978455">
-        <mark key="[" line="65" column="32" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardModel.java" timestamp="1531707231733">
+        <mark key="[" line="63" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CardServiceController.java" timestamp="1531374292178">
         <mark key="[" line="71" column="76" />
@@ -90,6 +90,12 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/UserMapperTest.java" timestamp="1531271393755">
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardServiceModel.java" timestamp="1531706526726">
+        <mark key="[" line="2" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1531706020781">
+        <mark key="[" line="51" column="66" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/target/classes/application.properties" timestamp="1531145318873">
         <mark key="[" line="8" column="54" />
         <mark key="]" line="12" column="0" />
@@ -106,7 +112,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorService.java" timestamp="1531213706782">
         <mark key="[" line="61" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientCard.java" timestamp="1531549714354" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/time/LocalDate.java" timestamp="1531553136292">
         <mark key="'" line="1305" column="14" />
       </file>
@@ -132,8 +137,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/Test.java" timestamp="1531558125071">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardMapper.java" timestamp="1531561763411">
-        <mark key="[" line="30" column="73" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardMapper.java" timestamp="1531707456951">
+        <mark key="[" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/Application.java" timestamp="1531450009843">
         <mark key="[" line="12" column="0" />
@@ -158,7 +163,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531555881864">
+      <file name="/Dummy.txt" timestamp="1531706032905">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -184,6 +189,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/DoctorInfoController.java" timestamp="1531208853458">
         <mark key="[" line="113" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceTimeServiceImpl.java" timestamp="1531706930027">
+        <mark key="[" line="95" column="104" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/InvestigationQuestionMapper.java" timestamp="1531380328951">
         <mark key="[" line="13" column="0" />
@@ -234,10 +242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Date.from(expireTime.atZone(ZoneId.systemDefault()).toInstant())</text>
+        <text>getByPatientCardServiceTimeId(patientCardId);</text>
       </register>
       <register name="-" type="4">
-        <text>Date.from(expireTime.atZone(ZoneId.systemDefault()).toInstant())</text>
+        <text>getByPatientCardServiceTimeId(patientCardId);</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
