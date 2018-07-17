@@ -60,11 +60,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/README.md" timestamp="1531045885896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1531813216045">
-        <mark key="[" line="373" column="34" />
-        <mark key="]" line="373" column="34" />
-        <mark key="^" line="407" column="59" />
-        <mark key="." line="373" column="34" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1531814727942">
+        <mark key="[" line="329" column="13" />
+        <mark key="]" line="374" column="34" />
+        <mark key="^" line="408" column="59" />
+        <mark key="." line="374" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/.git/info/exclude" timestamp="1531045949900">
         <mark key="[" line="6" column="0" />
@@ -78,8 +78,10 @@
       <file name="$USER_HOME$/bhhx.sql" timestamp="1531548274684">
         <mark key="[" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1531799265552">
-        <mark key="[" line="137" column="42" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1531814619895">
+        <mark key="[" line="137" column="61" />
+        <mark key="]" line="137" column="61" />
+        <mark key="." line="137" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardModel.java" timestamp="1531707231733">
         <mark key="[" line="63" column="32" />
@@ -302,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>before</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>before</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
