@@ -19,7 +19,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1531452096567">
+      <file name="/a.dummy" timestamp="1531799193235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/bhhx.sql" timestamp="1531798915443">
@@ -54,11 +54,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/README.md" timestamp="1531045885896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1531791429086">
-        <mark key="[" line="318" column="8" />
-        <mark key="]" line="384" column="59" />
-        <mark key="^" line="384" column="59" />
-        <mark key="." line="384" column="59" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1531800135347">
+        <mark key="[" line="334" column="35" />
+        <mark key="]" line="334" column="35" />
+        <mark key="^" line="406" column="59" />
+        <mark key="." line="334" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/.git/info/exclude" timestamp="1531045949900">
         <mark key="[" line="6" column="0" />
@@ -72,8 +72,8 @@
       <file name="$USER_HOME$/bhhx.sql" timestamp="1531548274684">
         <mark key="[" line="16" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1531798549673">
-        <mark key="[" line="136" column="13" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1531799265552">
+        <mark key="[" line="137" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardModel.java" timestamp="1531707231733">
         <mark key="[" line="63" column="32" />
@@ -86,8 +86,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ServiceChatMapper.java" timestamp="1531798469637">
         <mark key="[" line="32" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ServiceChatServiceImpl.java" timestamp="1531797043542">
-        <mark key="[" line="90" column="5" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ServiceChatServiceImpl.java" timestamp="1531799500191">
+        <mark key="[" line="95" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/UserService.java" timestamp="1531194101935">
         <mark key="[" line="85" column="33" />
@@ -246,8 +246,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/pojo.ftl" timestamp="1531379960609">
         <mark key="[" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceChatModel.java" timestamp="1531798575966">
-        <mark key="[" line="6" column="31" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceChatModel.java" timestamp="1531799298330">
+        <mark key="[" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/.gitignore" timestamp="1531045569810">
         <mark key="[" line="26" column="0" />
@@ -273,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>card_service_id</text>
+        <text encoding="base64">TG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>card_service_id</text>
+        <text encoding="base64">TG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUsIA==</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
