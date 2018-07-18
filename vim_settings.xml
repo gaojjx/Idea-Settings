@@ -171,10 +171,10 @@
         <mark key="[" line="96" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientCardController.java" timestamp="1531896468408">
-        <mark key="[" line="185" column="5" />
-        <mark key="]" line="134" column="12" />
-        <mark key="^" line="134" column="12" />
-        <mark key="." line="134" column="12" />
+        <mark key="[" line="186" column="5" />
+        <mark key="]" line="135" column="12" />
+        <mark key="^" line="135" column="12" />
+        <mark key="." line="135" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ChatMapper.xml" timestamp="1531793165212">
         <mark key="[" line="114" column="13" />
@@ -244,11 +244,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531886300787">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1531897774624" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1531894696052">
         <mark key="[" line="74" column="10" />
         <mark key="]" line="56" column="31" />
@@ -312,13 +308,14 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/pojo.ftl" timestamp="1531379960609">
         <mark key="[" line="0" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceChatModel.java" timestamp="1531799298330">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceChatModel.java" timestamp="1531897277044">
+        <mark key="'" line="5" column="13" />
         <mark key="[" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/.gitignore" timestamp="1531045569810">
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/ServiceChatService.java" timestamp="1531896356233">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/ServiceChatService.java" timestamp="1531897269993">
         <mark key="[" line="61" column="106" />
       </file>
       <file name="/fragment.java" timestamp="1531884166485">
@@ -347,6 +344,7 @@
       <jump line="1305" column="14" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_172.jdk/Contents/Home/src.zip!/java/time/LocalDate.java" />
       <jump line="33" column="104" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ChatMapper.java" />
       <jump line="101" column="0" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceTimeServiceImpl.java" />
+      <jump line="5" column="13" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceChatModel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
