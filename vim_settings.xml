@@ -129,7 +129,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/ChatLogController.java" timestamp="1531883399257">
         <mark key="[" line="113" column="5" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weahan/core/weahan-core-cloud/1.1.2/weahan-core-cloud-1.1.2.pom" timestamp="1532076664371" />
+      <file name="$MAVEN_REPOSITORY$/com/weahan/core/weahan-core-cloud/1.1.2/weahan-core-cloud-1.1.2.pom" timestamp="1532078559302" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/.gitignore" timestamp="1531188437520">
         <mark key="[" line="5" column="7" />
       </file>
@@ -258,9 +258,10 @@
         <mark key="]" line="56" column="31" />
         <mark key="." line="56" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532074692113">
+      <file name="/Dummy.txt" timestamp="1532078645963">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-boot/1.0.0/yirdoc-core-boot-1.0.0.pom" timestamp="1532078065320" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserMapper.java" timestamp="1531807850232">
         <mark key="[" line="32" column="53" />
         <mark key="]" line="32" column="53" />
@@ -279,13 +280,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/DoctorCardModel.java" timestamp="1531539237463">
         <mark key="[" line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/demo/pom.xml" timestamp="1531046430877">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1531971833753">
-        <mark key="[" line="28" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1532077854671">
+        <mark key="[" line="9" column="18" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
