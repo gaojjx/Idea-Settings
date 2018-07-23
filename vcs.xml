@@ -14,6 +14,10 @@
           <option name="url" value="git@115.28.19.117:gaocunbin/bhhx.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@115.28.19.117:gaocunbin/weixinlib.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Projects/yirdoc" />
