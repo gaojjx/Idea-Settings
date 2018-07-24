@@ -61,6 +61,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/Test.java" timestamp="1531727060867">
         <mark key="[" line="0" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WexinMenuRedirectController.java" timestamp="1532402596862">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/README.md" timestamp="1531045885896">
         <mark key="[" line="0" column="0" />
       </file>
@@ -364,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user_port</text>
+        <text encoding="base64">V2V4aW5NZW51UmVkaXJlY3RDb250cm9sbGVyIA==</text>
       </register>
       <register name="-" type="4">
-        <text>user_port</text>
+        <text encoding="base64">V2V4aW5NZW51UmVkaXJlY3RDb250cm9sbGVyIA==</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
