@@ -2,5 +2,13 @@
   <component name="SettingsState">
     <option name="host" value="git@115.28.19.117:yirdoc/bhhx.git" />
     <option name="token" value="hQBoC8NBvyRHFcRtn8RP" />
+    <option name="servers">
+      <list>
+        <ServerDto>
+          <option name="host" value="http://115.28.19.117:9380/" />
+          <option name="token" value="Gc5Nwge8jv_vxvrZheZM" />
+        </ServerDto>
+      </list>
+    </option>
   </component>
 </application>
