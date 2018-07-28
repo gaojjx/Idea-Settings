@@ -2,7 +2,11 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1532746033441">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
     <jumps>
       <jump line="12" column="35" filename="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/CardServiceService.java" />
