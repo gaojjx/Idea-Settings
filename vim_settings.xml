@@ -3,8 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1532746033441">
+      <file name="/Dummy.txt" timestamp="1532746834798">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorCardMapper.xml" timestamp="1532746612449">
+        <mark key="[" line="177" column="79" />
+        <mark key="]" line="141" column="14" />
+        <mark key="." line="141" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/sqlXml.ftl" timestamp="1532746416152" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/DoctorCardModel.java" timestamp="1532746482573">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="19" />
+        <mark key="." line="14" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorCardServiceImpl.java" timestamp="1532746539196">
+        <mark key="[" line="175" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1532746582690">
+        <mark key="[" line="199" column="67" />
       </file>
     </filemarks>
     <jumps>
@@ -20,10 +38,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>com</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
