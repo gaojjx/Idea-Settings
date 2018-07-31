@@ -21,6 +21,9 @@
       <file name="/a.dummy" timestamp="1533007374053">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/jiawa/jiawayun/src/main/java/com/jiawa/modules/line/entity/BranchLine.java" timestamp="1533005710059" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerProperties.java" timestamp="1533007367667">
         <mark key="[" line="4" column="20" />
@@ -40,11 +43,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientMedicalHistoryServiceImpl.java" timestamp="1532748456867">
         <mark key="[" line="36" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1533006511709">
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="21" column="2" />
-        <mark key="^" line="21" column="2" />
-        <mark key="." line="21" column="2" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1533009587564">
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="22" column="2" />
+        <mark key="^" line="22" column="2" />
+        <mark key="." line="22" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/spring4all/swagger-spring-boot-starter/1.7.1.RELEASE/swagger-spring-boot-starter-1.7.1.RELEASE.jar!/com/spring4all/swagger/SwaggerProperties.class" timestamp="1533007017394" />
       <file name="$USER_HOME$/code/bhhx3/.gitignore" timestamp="1533000072229">
