@@ -19,10 +19,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientMedicalHistoryServiceImpl.java" timestamp="1532748456867">
         <mark key="[" line="36" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1532944824698">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1533005771566">
         <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/code/bhhx3/.gitignore" timestamp="1533000072229">
@@ -36,6 +33,7 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/jiawa/jiawayun/src/main/java/com/thinkgem/jeesite/modules/logistics/domain/LogisticsCompanyDomain.java" timestamp="1533005657933" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorCardServiceImpl.java" timestamp="1532746539196">
         <mark key="[" line="175" column="44" />
       </file>
@@ -45,6 +43,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1532746582690">
         <mark key="[" line="199" column="67" />
       </file>
+      <file name="$USER_HOME$/Projects/jiawa/jiawayun/src/main/java/com/jiawa/modules/line/entity/BranchLine.java" timestamp="1533005710059" />
     </filemarks>
     <jumps>
       <jump line="12" column="35" filename="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" />
@@ -59,7 +58,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBiYXNlLXBhdGg6IGFwaQo=</text>
+        <text encoding="base64">ICBkb2NrZXQ6CiAgICBiYXNlCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -71,31 +70,31 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiYXNlLXBhdGg6IGFwaQo=</text>
+        <text encoding="base64">ICBkb2NrZXQ6CiAgICBiYXNlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiYXNlLXBhdGg6IGFwaQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXItY2xhc3MtbmFtZTogY29tLm15c3FsLmpkYmMuRHJpdmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogcm9vdAo=</text>
+        <text encoding="base64">ICAgICAgICBkcml2ZXItY2xhc3MtbmFtZTogY29tLm15c3FsLmpkYmMuRHJpdmVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogcm9vdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
