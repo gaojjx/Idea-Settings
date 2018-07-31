@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1533000226893">
+      <file name="/Dummy.txt" timestamp="1533018046651">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorCardMapper.java" timestamp="1532748447848">
@@ -24,16 +24,19 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/jiawa/jiawayun/src/main/java/com/jiawa/modules/line/entity/BranchLine.java" timestamp="1533005710059" />
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerProperties.java" timestamp="1533007367667">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1533017707695">
+        <mark key="[" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfig.java" timestamp="1533009753114">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="25" column="5" />
-        <mark key="." line="25" column="5" />
+      <file name="$USER_HOME$/Projects/jiawa/jiawayun/src/main/java/com/jiawa/modules/line/entity/BranchLine.java" timestamp="1533005710059" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerProperties.java" timestamp="1533016795171">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfig.java" timestamp="1533017822177">
+        <mark key="[" line="23" column="69" />
+        <mark key="]" line="23" column="69" />
+        <mark key="." line="23" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorCardMapper.xml" timestamp="1532746612449">
         <mark key="[" line="177" column="79" />
@@ -43,11 +46,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientMedicalHistoryServiceImpl.java" timestamp="1532748456867">
         <mark key="[" line="36" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1533009587564">
-        <mark key="[" line="18" column="42" />
-        <mark key="]" line="22" column="2" />
-        <mark key="^" line="22" column="2" />
-        <mark key="." line="22" column="2" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1533017997360">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="20" column="2" />
+        <mark key="^" line="20" column="2" />
+        <mark key="." line="20" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/spring4all/swagger-spring-boot-starter/1.7.1.RELEASE/swagger-spring-boot-starter-1.7.1.RELEASE.jar!/com/spring4all/swagger/SwaggerProperties.class" timestamp="1533007017394" />
       <file name="$USER_HOME$/code/bhhx3/.gitignore" timestamp="1533000072229">
@@ -55,8 +58,10 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/Application.java" timestamp="1533008758534">
-        <mark key="[" line="10" column="2" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/Application.java" timestamp="1533016308912">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/jiawa/jiawayun/src/main/java/com/thinkgem/jeesite/modules/logistics/domain/LogisticsCompanyDomain.java" timestamp="1533005657933" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorCardServiceImpl.java" timestamp="1532746539196">
@@ -85,10 +90,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Resource</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Resource</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -97,31 +102,31 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEVuYWJsZVN3YWdnZXIyRG9jCg==</text>
+        <text encoding="base64">Ly9ARW5hYmxlU3dhZ2dlcjJEb2MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkb2NrZXQ6CiAgICBiYXNlCg==</text>
+        <text encoding="base64">QEVuYWJsZVN3YWdnZXIyRG9jCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYXNlLXBhdGg6IGFwaQo=</text>
+        <text encoding="base64">ICBkb2NrZXQ6CiAgICBiYXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiYXNlLXBhdGg6IGFwaQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXItY2xhc3MtbmFtZTogY29tLm15c3FsLmpkYmMuRHJpdmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogcm9vdAo=</text>
+        <text encoding="base64">ICAgICAgICBkcml2ZXItY2xhc3MtbmFtZTogY29tLm15c3FsLmpkYmMuRHJpdmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogcm9vdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
       </register>
     </registers>
     <search>
