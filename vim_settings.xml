@@ -11,7 +11,6 @@
         <mark key="]" line="23" column="64" />
         <mark key="." line="23" column="64" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/spring4all/swagger-spring-boot-starter/1.7.1.RELEASE/swagger-spring-boot-starter-1.7.1.RELEASE-sources.jar!/com/spring4all/swagger/SwaggerProperties.java" timestamp="1533008377100" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/DoctorCardModel.java" timestamp="1532746482573">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="20" />
@@ -21,13 +20,13 @@
       <file name="/a.dummy" timestamp="1533007374053">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/bhhx.sql" timestamp="1533091172337" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1533017707695">
         <mark key="[" line="39" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/jiawa/jiawayun/src/main/java/com/jiawa/modules/line/entity/BranchLine.java" timestamp="1533005710059" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerProperties.java" timestamp="1533016795171">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="29" column="20" />
@@ -52,7 +51,6 @@
         <mark key="^" line="20" column="2" />
         <mark key="." line="20" column="2" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/spring4all/swagger-spring-boot-starter/1.7.1.RELEASE/swagger-spring-boot-starter-1.7.1.RELEASE.jar!/com/spring4all/swagger/SwaggerProperties.class" timestamp="1533007017394" />
       <file name="$USER_HOME$/code/bhhx3/.gitignore" timestamp="1533000072229">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="25" column="0" />
@@ -63,7 +61,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/jiawa/jiawayun/src/main/java/com/thinkgem/jeesite/modules/logistics/domain/LogisticsCompanyDomain.java" timestamp="1533005657933" />
+      <file name="$USER_HOME$/Untitled.sql" timestamp="1533091810491">
+        <mark key="[" line="433" column="72" />
+        <mark key="]" line="437" column="0" />
+        <mark key="^" line="555" column="18" />
+        <mark key="." line="433" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorCardServiceImpl.java" timestamp="1532746539196">
         <mark key="[" line="175" column="44" />
       </file>
@@ -89,8 +92,8 @@
       <jump line="5" column="13" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceChatModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U1RBVFNfU0FNUExFX1BBR0VTID0gMDsK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -102,31 +105,39 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9ARW5hYmxlU3dhZ2dlcjJEb2MK</text>
+        <text encoding="base64">U1RBVFNfU0FNUExFX1BBR0VTID0gMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEVuYWJsZVN3YWdnZXIyRG9jCg==</text>
+        <text encoding="base64">S0VZX0JMT0NLX1NJWkUgPSAwCk1BWF9ST1dTID0gMApNSU5fUk9XUyA9IDAKUk9XX0ZPUk1BVCA9IER5bmFtaWMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkb2NrZXQ6CiAgICBiYXNlCg==</text>
+        <text encoding="base64">QVVUT19JTkNSRU1FTlQgPSAwCkFWR19ST1dfTEVOR1RIID0gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiYXNlLXBhdGg6IGFwaQo=</text>
+        <text encoding="base64">QVVUT19JTkNSRU1FTlQgPSAxCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>AUTO_INCREMENT = 1
+AVG_ROW_LENGTH = 0
+DEFAULT CHARACTER SET = utf8
+COLLATE = utf8_general_ci
+KEY_BLOCK_SIZE = 0
+MAX_ROWS = 0
+MIN_ROWS = 0
+ROW_FORMAT = Dynamic
+STATS_SAMPLE_PAGES = 0;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVZHX1JPV19MRU5HVEggPSAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXItY2xhc3MtbmFtZTogY29tLm15c3FsLmpkYmMuRHJpdmVyCg==</text>
+        <text encoding="base64">QVVUT19JTkNSRU1FTlQgPSAxCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VybmFtZTogcm9vdAo=</text>
+        <text encoding="base64">Ly9ARW5hYmxlU3dhZ2dlcjJEb2MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmdpdGlnbm9yZQo=</text>
+        <text encoding="base64">QEVuYWJsZVN3YWdnZXIyRG9jCg==</text>
       </register>
     </registers>
     <search>
