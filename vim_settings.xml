@@ -6,7 +6,7 @@
       <file name="/Maven Profiles.txt.ft" timestamp="1533109066535">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1533007374053">
+      <file name="/a.dummy" timestamp="1533189234511">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
@@ -53,8 +53,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/ServiceChat.java" timestamp="1533180975534" />
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1533182437851">
-        <mark key="[" line="166" column="8" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1533189273850">
+        <mark key="[" line="164" column="33" />
+        <mark key="]" line="164" column="33" />
+        <mark key="." line="164" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1533176137714">
         <mark key="[" line="0" column="0" />
@@ -83,6 +85,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/ServiceChatService.java" timestamp="1533189322021">
+        <mark key="[" line="71" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1533109097448">
         <mark key="[" line="0" column="0" />
       </file>
@@ -99,11 +104,11 @@
       <jump line="5" column="13" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceChatModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">YW5kIHNjLmV4cGlyZV90aW1lID49IG5vdygp</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">YW5kIHNjLmV4cGlyZV90aW1lID49IG5vdygp</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
