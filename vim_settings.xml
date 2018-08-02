@@ -56,8 +56,7 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1533109025400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ServiceChatServiceImpl.java" timestamp="1533201570439">
-        <mark key="[" line="108" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ServiceChatServiceImpl.java" timestamp="1533202886337">
         <mark key="]" line="108" column="3" />
         <mark key="^" line="108" column="3" />
         <mark key="." line="108" column="3" />
@@ -69,9 +68,6 @@
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1533191196471">
-        <mark key="[" line="68" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorCardMapper.java" timestamp="1532748447848">
         <mark key="[" line="23" column="64" />
@@ -141,11 +137,11 @@
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardService.java" timestamp="1533191304211">
-        <mark key="[" line="109" column="79" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceTimeServiceImpl.java" timestamp="1533192831020">
         <mark key="[" line="107" column="107" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/WeixinQRModel.java" timestamp="1533203093713">
+        <mark key="[" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorCardMapper.xml" timestamp="1532746612449">
         <mark key="[" line="177" column="79" />
@@ -154,9 +150,6 @@
       </file>
       <file name="/Maven Settings.txt.ft" timestamp="1533109068149">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceChatModel.java" timestamp="1533192070837">
-        <mark key="[" line="14" column="28" />
       </file>
       <file name="/ServiceChatMapper.xml" timestamp="1533191951761" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
