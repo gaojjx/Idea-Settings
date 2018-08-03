@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" timestamp="1533289612064">
+        <mark key="[" line="9" column="43" />
+      </file>
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1533109031658">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,6 +155,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserDocMapper.xml" timestamp="1533286284477">
         <mark key="[" line="152" column="68" />
       </file>
+      <file name="$USER_HOME$/Projects/weahan/ejiaren-logic/src/main/java/com/weahan/medical/ejiaren/logic/controller/WechatMenuRedirectController.java" timestamp="1533289961520" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
         <mark key="[" line="5" column="0" />
       </file>
