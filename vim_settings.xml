@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1533523776445">
+      <file name="/a.dummy" timestamp="1533526850193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
@@ -46,10 +46,8 @@
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1533109025400">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ServiceChatServiceImpl.java" timestamp="1533202886337">
-        <mark key="]" line="108" column="3" />
-        <mark key="^" line="108" column="3" />
-        <mark key="." line="108" column="3" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ServiceChatServiceImpl.java" timestamp="1533527204325">
+        <mark key="[" line="111" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/UserService.java" timestamp="1533265211079">
         <mark key="[" line="72" column="38" />
@@ -65,9 +63,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/.git/info/exclude" timestamp="1533523055377">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardServiceModel.java" timestamp="1533191094328">
-        <mark key="[" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/DoctorController.java" timestamp="1533201663066">
         <mark key="[" line="57" column="0" />
@@ -121,25 +116,14 @@
       <file name="/HTML File.txt.ft" timestamp="1533109016819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533523789965">
+      <file name="/Dummy.txt" timestamp="1533526744675">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserMapper.java" timestamp="1533265262728">
         <mark key="[" line="33" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientCardServiceImplTest.java" timestamp="1533201206030">
-        <mark key="[" line="57" column="105" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1533108488190">
         <mark key="[" line="71" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceModel.java" timestamp="1533190802754">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="12" />
-        <mark key="." line="10" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardService.java" timestamp="1533191304211">
-        <mark key="[" line="109" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceTimeServiceImpl.java" timestamp="1533192831020">
         <mark key="[" line="107" column="107" />
@@ -170,10 +154,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/ServiceChatService.java" timestamp="1533201452069">
-        <mark key="[" line="73" column="6" />
-      </file>
-      <file name="/fragment.java" timestamp="1533523269959">
+      <file name="/fragment.java" timestamp="1533526858227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/UserController.java" timestamp="1533201617852">
@@ -181,7 +162,6 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1533523383714" />
     </filemarks>
     <jumps>
       <jump line="12" column="35" filename="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" />
@@ -259,6 +239,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
