@@ -89,11 +89,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/Jenkinsfile" timestamp="1533880337596">
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="27" column="20" />
-        <mark key="." line="27" column="20" />
-      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/Jenkinsfile" timestamp="1533892816278" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ServiceChatMapper.java" timestamp="1533792272027">
         <mark key="[" line="40" column="81" />
         <mark key="]" line="36" column="53" />
@@ -126,6 +122,11 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="24" column="64" />
         <mark key="." line="24" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/controller.ftl" timestamp="1533891453473">
+        <mark key="[" line="61" column="45" />
+        <mark key="]" line="61" column="45" />
+        <mark key="." line="61" column="45" />
       </file>
       <file name="/Maven Profiles.txt.ft" timestamp="1533109066535">
         <mark key="[" line="0" column="0" />
@@ -176,7 +177,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorTodoServiceImplTest.java" timestamp="1533542767687">
         <mark key="[" line="30" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533882266145">
+      <file name="/Dummy.txt" timestamp="1533892064177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1533636103043">
@@ -264,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bm8g</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm8g</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -275,32 +276,33 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdzc2ggcm9vdEAxNzIuMzEuMy42MiBzaCBzcHJpbmdib290LnNoIGJoaHggYmhoeCBkZXYnCg==</text>
+      <register name="1" type="4">
+        <text>@PathVariable Long patientCardId,
+                                                       @PathVariable Long serviceTypeId,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIG9yZGVyTm87Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICdzc2ggcm9vdEAxNzIuMzEuMy42MiBzaCBzcHJpbmdib290LnNoIGJoaHggYmhoeCBkZXYnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIG9yZGVyTm87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB1cGRhdGUgPSBwYXRpZW50Q2FyZFNlcnZpY2VUaW1lU2VydmljZS51cGRhdGUocGF0aWVudENhcmRTZXJ2aWNlVGltZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB1cGRhdGUgPSBwYXRpZW50Q2FyZFNlcnZpY2VUaW1lU2VydmljZS51cGRhdGUocGF0aWVudENhcmRTZXJ2aWNlVGltZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">TG9uZwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlMb25nIGNhcmRTZXJ2aWNlVHlwZUlkID0gTG9uZy52YWx1ZU9mKDEpOwo=</text>
+        <text encoding="base64">TG9uZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlMb25nIGNhcmRTZXJ2aWNlVHlwZUlkID0gTG9uZy52YWx1ZU9mKDEpOwo=</text>
       </register>
     </registers>
     <search>
