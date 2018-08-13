@@ -41,8 +41,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceLogServiceImpl.java" timestamp="1533192369778">
         <mark key="[" line="93" column="117" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PayNotifyController.java" timestamp="1534131380030">
-        <mark key="[" line="23" column="29" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PayNotifyController.java" timestamp="1534132522648">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardServiceTimeMapper.xml" timestamp="1533798701446">
         <mark key="[" line="126" column="49" />
@@ -212,8 +214,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserMapper.java" timestamp="1533265262728">
         <mark key="[" line="33" column="57" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1534131295082">
-        <mark key="[" line="32" column="61" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1534132740558">
+        <mark key="[" line="37" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientCardServiceImplTest.java" timestamp="1533785658483">
         <mark key="[" line="55" column="27" />
@@ -302,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
