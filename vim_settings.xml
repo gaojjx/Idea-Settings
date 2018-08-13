@@ -165,10 +165,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorCard.java" timestamp="1533105715562">
         <mark key="[" line="54" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BillOrder.java" timestamp="1533976073096">
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="72" column="25" />
-        <mark key="." line="72" column="25" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BillOrder.java" timestamp="1534123965225">
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="12" />
+        <mark key="." line="66" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorCardServiceImpl.java" timestamp="1533636245923">
         <mark key="[" line="226" column="9" />
@@ -238,11 +238,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserDocMapper.xml" timestamp="1533286284477">
         <mark key="[" line="152" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/BillOrderServiceImpl.java" timestamp="1534121381324">
-        <mark key="[" line="142" column="42" />
-        <mark key="]" line="140" column="46" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/BillOrderServiceImpl.java" timestamp="1534124137883">
+        <mark key="[" line="130" column="8" />
+        <mark key="]" line="143" column="46" />
         <mark key="^" line="129" column="52" />
-        <mark key="." line="140" column="46" />
+        <mark key="." line="143" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
         <mark key="[" line="5" column="0" />
@@ -278,10 +278,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.getCardName());</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="-" type="4">
-        <text>.getCardName());</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
