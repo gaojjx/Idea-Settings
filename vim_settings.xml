@@ -7,7 +7,7 @@
       <file name="/a.dummy" timestamp="1534154154354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-pay/3.1.4.BETA/weixin-java-pay-3.1.4.BETA-sources.jar!/com/github/binarywang/wxpay/service/impl/BaseWxPayServiceImpl.java" timestamp="1534212165951" />
+      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-pay/3.1.4.BETA/weixin-java-pay-3.1.4.BETA-sources.jar!/com/github/binarywang/wxpay/service/impl/BaseWxPayServiceImpl.java" timestamp="1534217484394" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
         <mark key="[" line="1" column="0" />
       </file>
@@ -26,10 +26,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceLogServiceImpl.java" timestamp="1533192369778">
         <mark key="[" line="93" column="117" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PayNotifyController.java" timestamp="1534152522495">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PayNotifyController.java" timestamp="1534219058419">
+        <mark key="[" line="30" column="56" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserDocMapper.java" timestamp="1533286274840">
         <mark key="[" line="28" column="41" />
@@ -52,10 +52,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PayNotifyService.java" timestamp="1534129951577">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/WeixinPayServiceImplTest.java" timestamp="1534215955742">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PayNotifyService.java" timestamp="1534218666216">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ServiceChatMapper.java" timestamp="1533792272027">
         <mark key="[" line="40" column="81" />
@@ -77,6 +80,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1533799614986">
         <mark key="[" line="30" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.9/xstream-1.4.9-sources.jar!/com/thoughtworks/xstream/XStream.java" timestamp="1534216975349" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Application_localhost.http" timestamp="1534212870497">
         <mark key="[" line="15" column="39" />
         <mark key="]" line="19" column="0" />
@@ -90,8 +94,8 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BillOrder.java" timestamp="1534123965225">
-        <mark key="[" line="66" column="12" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BillOrder.java" timestamp="1534218506875">
+        <mark key="[" line="64" column="40" />
         <mark key="]" line="66" column="12" />
         <mark key="." line="66" column="12" />
       </file>
@@ -115,6 +119,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceModel.java" timestamp="1533609095450">
         <mark key="[" line="10" column="31" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-pay/3.1.4.BETA/weixin-java-pay-3.1.4.BETA-sources.jar!/com/github/binarywang/wxpay/bean/notify/WxPayOrderNotifyResult.java" timestamp="1534216858220">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceTimeServiceImpl.java" timestamp="1533799686980">
         <mark key="[" line="117" column="5" />
@@ -234,10 +241,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/Test.java" timestamp="1533974411987">
         <mark key="[" line="5" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PayOrderService.java" timestamp="1534153343511">
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PayOrderService.java" timestamp="1534218549103">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/XML Properties File.txt.ft" timestamp="1533109034838">
         <mark key="[" line="0" column="0" />
@@ -285,17 +292,15 @@
         <mark key="[" line="90" column="50" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-pay/3.1.4.BETA/weixin-java-pay-3.1.4.BETA-sources.jar!/com/github/binarywang/wxpay/bean/request/BaseWxPayRequest.java" timestamp="1534212267819" />
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1534215028797">
-        <mark key="[" line="167" column="33" />
-        <mark key="]" line="104" column="24" />
-        <mark key="." line="104" column="24" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1534218630863">
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientCardServiceImplTest.java" timestamp="1534153294806">
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1534130447647">
-        <mark key="[" line="80" column="21" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1534218074796">
+        <mark key="[" line="84" column="23" />
+        <mark key="]" line="84" column="23" />
+        <mark key="." line="84" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/WeixinQRModel.java" timestamp="1533203093713">
         <mark key="[" line="2" column="28" />
@@ -318,6 +323,12 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorAccountServiceImpl.java" timestamp="1534150983947">
         <mark key="[" line="109" column="9" />
       </file>
+      <file name="/fragment.java" timestamp="1534217642063">
+        <mark key="'" line="0" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="12" column="35" filename="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" />
@@ -339,11 +350,11 @@
       <jump line="29" column="19" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/BillOrderServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>userIP</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>userIP</text>
+        <text>processNotify</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -352,31 +363,31 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyJsb2dpbk5hbWUiOgo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
+        <text encoding="base64">CQl0cnkgewoJCQlTdHJpbmcgeG1sUmVzdWx0ID0gSU9VdGlscy50b1N0cmluZyhyZXF1ZXN0LmdldElucHV0U3RyZWFtKCksIHJlcXVlc3QuZ2V0Q2hhcmFjdGVyRW5jb2RpbmcoKSk7CgkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQlsb2dnZXIuZXJyb3IoIuW+ruS/oeWbnuiwg+e7k+aenOW8guW4uCzlvILluLjljp/lm6B7fSIsIGUuZ2V0TWVzc2FnZSgpKTsKCQkJcmV0dXJuIFd4UGF5Tm90aWZ5UmVzcG9uc2UuZmFpbChlLmdldE1lc3NhZ2UoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlwYXlDb25maWcuc2V0U3ViQXBwSWQoU3RyaW5nVXRpbHMudHJpbVRvTnVsbCh0aGlzLnByb3BlcnRpZXMuZ2V0U3ViQXBwSWQoKSkpOwoJCXBheUNvbmZpZy5zZXRTdWJNY2hJZChTdHJpbmdVdGlscy50cmltVG9OdWxsKHRoaXMucHJvcGVydGllcy5nZXRTdWJNY2hJZCgpKSk7CgkJcGF5Q29uZmlnLnNldEtleVBhdGgoU3RyaW5nVXRpbHMudHJpbVRvTnVsbCh0aGlzLnByb3BlcnRpZXMuZ2V0S2V5UGF0aCgpKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIFdlaXhpblBheUNvbmZpZ3VyYXRpb24gewp9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlQYXlEb2N0b3JDYXJkTW9kZWwgbW9kZWwgPSBuZXcgUGF5RG9jdG9yQ2FyZE1vZGVsKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CVN0cmluZyBwYXJzZU9yZGVyTm90aWZ5KFN0cmluZyB4bWxEYXRhKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJcmV0dXJuIHd4UGF5T3JkZXJOb3RpZnlSZXN1bHQudG9TdHJpbmcoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">eyJsb2dpbk5hbWUiOgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTdHJpbmcgdXNlcklQID0gVXNlcklQVXRpbHMuZ2V0VXNlcklQKHJlcXVlc3QpOwo=</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYmlsbE9yZGVyU2VydmljZS5wYXlEb2N0b3JDYXJkKHBheURvY3RvckNhcmRNb2RlbCk7Cg==</text>
+        <text encoding="base64">CQlwYXlDb25maWcuc2V0U3ViQXBwSWQoU3RyaW5nVXRpbHMudHJpbVRvTnVsbCh0aGlzLnByb3BlcnRpZXMuZ2V0U3ViQXBwSWQoKSkpOwoJCXBheUNvbmZpZy5zZXRTdWJNY2hJZChTdHJpbmdVdGlscy50cmltVG9OdWxsKHRoaXMucHJvcGVydGllcy5nZXRTdWJNY2hJZCgpKSk7CgkJcGF5Q29uZmlnLnNldEtleVBhdGgoU3RyaW5nVXRpbHMudHJpbVRvTnVsbCh0aGlzLnByb3BlcnRpZXMuZ2V0S2V5UGF0aCgpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFdlaXhpblBheUNvbmZpZ3VyYXRpb24gewp9Cg==</text>
       </register>
     </registers>
     <search>
