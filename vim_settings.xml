@@ -285,8 +285,8 @@
         <mark key="[" line="90" column="50" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-pay/3.1.4.BETA/weixin-java-pay-3.1.4.BETA-sources.jar!/com/github/binarywang/wxpay/bean/request/BaseWxPayRequest.java" timestamp="1534212267819" />
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1534214273454">
-        <mark key="[" line="177" column="47" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1534215028797">
+        <mark key="[" line="167" column="33" />
         <mark key="]" line="104" column="24" />
         <mark key="." line="104" column="24" />
       </file>
