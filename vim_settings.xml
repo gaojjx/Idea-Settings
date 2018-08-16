@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientGroupController.java" timestamp="1534402095377">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientGroupController.java" timestamp="1534403277817">
+        <mark key="[" line="41" column="117" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1534154154354">
         <mark key="[" line="0" column="0" />
@@ -195,8 +197,8 @@
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1533109031658">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorPatientGroupServiceImpl.java" timestamp="1534402021982">
-        <mark key="[" line="225" column="36" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorPatientGroupServiceImpl.java" timestamp="1534402403018">
+        <mark key="[" line="151" column="48" />
         <mark key="]" line="225" column="36" />
         <mark key="." line="225" column="36" />
       </file>
@@ -389,8 +391,8 @@
       <jump line="54" column="15" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlkb2N0b3JQYXRpZW50R3JvdXAuZ2V0T3duZXJJZCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>=</text>
@@ -402,34 +404,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQsIGZhbWlseV9pZCwgbmFtZSwgc2V4LCBiaXJ0aGRheSwgaGVpZ2h0LCB3ZWlnaHQsIGNhcmRfbm8sIHRlbF9ubywgZGF0YV9zdGF0dXMsIGNyZWF0ZV90aW1lLCB1cGRhdGVfdGltZQo=</text>
+        <text encoding="base64">CQlkb2N0b3JQYXRpZW50R3JvdXAuZ2V0T3duZXJJZCgpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWQsIGZhbWlseV9pZCwgbmFtZSwgc2V4LCBiaXJ0aGRheSwgaGVpZ2h0LCB3ZWlnaHQsIGNhcmRfbm8sIHRlbF9ubywgZGF0YV9zdGF0dXMsIGNyZWF0ZV90aW1lLCB1cGRhdGVfdGltZQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0iQmFzZV9Db2x1bW5fTGlzdCIvPgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>DoctorPatientGroup param = new DoctorPatientGroup();
         param.setOwnerId(DoctorId);
         param.setOwnerIdType((short) 1);
         return this.doctorPatientGroupMapper.getByGroup(param)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgam9pbiBwYXRpZW50X2NhcmQgcGMgb24gcC5pZCA9IHBjLnBhdGllbnRfaWQgYW5kIHBjLmRvY3Rvcl9jYXJkX2lkCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8aW5jbHVkZSByZWZpZD0iY29tLnlpcmRvYy5iaGh4Lm1hcHBlci5QYXRpZW50TWFwcGVyLkJhc2VfQ29sdW1uX0xpc3QiLz4K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">PGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci1iYXRjaDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4yLjEuUkVMRUFTRTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+CgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItdGVzdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5iYXRjaDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJhdGNoLXRlc3Q8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">QE1vY2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QE1vY2sK</text>
       </register>
     </registers>
     <search>
