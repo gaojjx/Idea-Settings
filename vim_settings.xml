@@ -38,6 +38,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorMapper.xml" timestamp="1534213036943">
         <mark key="[" line="159" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorPatientGroupMapper.java" timestamp="1534384180032">
+        <mark key="[" line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Untitled.sql" timestamp="1534322318458">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="13" column="57" />
