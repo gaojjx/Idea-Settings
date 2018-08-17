@@ -273,6 +273,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/CardServiceMapper.xml" timestamp="1533614457483">
         <mark key="[" line="120" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/ServiceChatController.java" timestamp="1534490424691">
+        <mark key="[" line="120" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorCardMapper.java" timestamp="1533636175653">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="24" column="64" />
@@ -300,8 +303,8 @@
       <file name="/XML Properties File.txt.ft" timestamp="1533109034838">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientCardController.java" timestamp="1534485338860">
-        <mark key="[" line="160" column="18" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientCardController.java" timestamp="1534490569300">
+        <mark key="[" line="188" column="7" />
         <mark key="]" line="154" column="37" />
         <mark key="." line="154" column="37" />
       </file>
@@ -344,7 +347,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorTodoServiceImplTest.java" timestamp="1533542767687">
         <mark key="[" line="30" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534485497437">
+      <file name="/Dummy.txt" timestamp="1534490600235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
