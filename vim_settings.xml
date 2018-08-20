@@ -54,7 +54,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/util/TableUtil.java" timestamp="1534499718069">
         <mark key="[" line="412" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1534726457301" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1534729752412">
+        <mark key="[" line="421" column="81" />
+        <mark key="]" line="421" column="81" />
+        <mark key="." line="421" column="81" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardMapper.xml" timestamp="1534388982542">
         <mark key="[" line="184" column="62" />
         <mark key="]" line="184" column="62" />
@@ -224,8 +228,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/basicPayModel.java" timestamp="1534140709610">
         <mark key="[" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardServiceTimeMapper.xml" timestamp="1533798701446">
-        <mark key="[" line="126" column="49" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardServiceTimeMapper.xml" timestamp="1534728411928">
+        <mark key="[" line="139" column="110" />
         <mark key="]" line="126" column="49" />
         <mark key="." line="126" column="49" />
       </file>
@@ -286,6 +290,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/ServiceChatController.java" timestamp="1534490424691">
         <mark key="[" line="120" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardServiceModel.java" timestamp="1534728384726">
+        <mark key="[" line="8" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorCardMapper.java" timestamp="1533636175653">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="24" column="64" />
@@ -305,10 +312,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorService.java" timestamp="1534383028484">
         <mark key="[" line="64" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientCard.java" timestamp="1534501040619">
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="22" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientCard.java" timestamp="1534728908134">
+        <mark key="[" line="111" column="11" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PayOrderService.java" timestamp="1534218549103">
         <mark key="[" line="12" column="0" />
@@ -362,7 +369,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorTodoServiceImplTest.java" timestamp="1533542767687">
         <mark key="[" line="30" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534498589692">
+      <file name="/Dummy.txt" timestamp="1534728841237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientWeeklyReport.java" timestamp="1534499126529">
@@ -438,10 +445,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>plusDays</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>plusDays</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
