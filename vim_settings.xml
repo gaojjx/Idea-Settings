@@ -8,7 +8,7 @@
         <mark key="]" line="66" column="41" />
         <mark key="." line="66" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1534727486789">
+      <file name="/a.dummy" timestamp="1534729935072">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
@@ -54,11 +54,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/util/TableUtil.java" timestamp="1534499718069">
         <mark key="[" line="412" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1534729752412">
-        <mark key="[" line="421" column="81" />
-        <mark key="]" line="421" column="81" />
-        <mark key="." line="421" column="81" />
-      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1534730035673" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardMapper.xml" timestamp="1534388982542">
         <mark key="[" line="184" column="62" />
         <mark key="]" line="184" column="62" />
@@ -118,6 +114,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1533799614986">
         <mark key="[" line="30" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/task/ScheduleTask.java" timestamp="1534730798119">
+        <mark key="[" line="76" column="15" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Application_localhost.http" timestamp="1534212870497">
         <mark key="[" line="15" column="39" />
         <mark key="]" line="19" column="0" />
@@ -163,6 +162,9 @@
       </file>
       <file name="/RegExp Fragment (WeixinPayServiceImpl.java:1668).regexp" timestamp="1534146709579">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientWeeklyReportService.java" timestamp="1534731018066">
+        <mark key="[" line="51" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceModel.java" timestamp="1533609095450">
         <mark key="[" line="10" column="31" />
@@ -369,7 +371,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorTodoServiceImplTest.java" timestamp="1533542767687">
         <mark key="[" line="30" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534728841237">
+      <file name="/Dummy.txt" timestamp="1534730301750">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientWeeklyReport.java" timestamp="1534499126529">
@@ -416,7 +418,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorAccountServiceImpl.java" timestamp="1534150983947">
         <mark key="[" line="109" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1534498589686">
+      <file name="/fragment.java" timestamp="1534730301755">
         <mark key="'" line="0" column="5" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -445,10 +447,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">KCkpKSA=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">KCkpKSA=</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
