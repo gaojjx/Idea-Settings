@@ -17,10 +17,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" timestamp="1534834230786">
-        <mark key="[" line="180" column="5" />
-        <mark key="]" line="85" column="27" />
-        <mark key="." line="85" column="27" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" timestamp="1534834664647">
+        <mark key="[" line="205" column="5" />
+        <mark key="]" line="139" column="47" />
+        <mark key="." line="139" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/BillOrderMapper.java" timestamp="1534145518410">
         <mark key="[" line="28" column="41" />
@@ -330,6 +330,7 @@
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-utils-weixin/1.0.0/yirdoc-utils-weixin-1.0.0-sources.jar!/util/WechatUtil.java" timestamp="1534834226898" />
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-utils-weixin/1.0.0/yirdoc-utils-weixin-1.0.0-sources.jar!/com/yirdoc_utils_weixin/wxpay/utils/WeChatUtils.java" timestamp="1534834661904" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1533109025400">
         <mark key="[" line="0" column="0" />
       </file>
@@ -504,10 +505,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>create_timestamp();</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>create_timestamp();</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
