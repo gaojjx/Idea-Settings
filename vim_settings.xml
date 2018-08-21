@@ -11,16 +11,16 @@
       <file name="$USER_HOME$/code/test/demo/src/main/resources/application.properties" timestamp="1534754654948">
         <mark key="[" line="0" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1534834080076">
+      <file name="/a.dummy" timestamp="1534835693127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" timestamp="1534834664647">
-        <mark key="[" line="205" column="5" />
-        <mark key="]" line="139" column="47" />
-        <mark key="." line="139" column="47" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" timestamp="1534835919147">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/BillOrderMapper.java" timestamp="1534145518410">
         <mark key="[" line="28" column="41" />
@@ -84,6 +84,11 @@
         <mark key="[" line="228" column="14" />
         <mark key="]" line="25" column="32" />
         <mark key="." line="25" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/TokenThread.java" timestamp="1534836041806">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PayDoctorCardModel.java" timestamp="1534145790200">
         <mark key="[" line="8" column="0" />
@@ -282,6 +287,7 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-utils-weixin/1.0.0/yirdoc-utils-weixin-1.0.0-sources.jar!/thread/TokenThread.java" timestamp="1534836015732" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientMapper.java" timestamp="1534388701655">
         <mark key="[" line="33" column="66" />
       </file>
@@ -329,7 +335,7 @@
       <file name="$USER_HOME$/code/test/demo/src/main/java/com/example/demo/HelloController.java" timestamp="1534753355036">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-utils-weixin/1.0.0/yirdoc-utils-weixin-1.0.0-sources.jar!/util/WechatUtil.java" timestamp="1534834226898" />
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-utils-weixin/1.0.0/yirdoc-utils-weixin-1.0.0-sources.jar!/util/WechatUtil.java" timestamp="1534835578431" />
       <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-utils-weixin/1.0.0/yirdoc-utils-weixin-1.0.0-sources.jar!/com/yirdoc_utils_weixin/wxpay/utils/WeChatUtils.java" timestamp="1534834661904" />
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1533109025400">
         <mark key="[" line="0" column="0" />
@@ -411,6 +417,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardServiceTimeMapper.java" timestamp="1533798692121">
         <mark key="[" line="39" column="66" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/util/WeChatUtil.java" timestamp="1534835877848" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorCard.java" timestamp="1533105715562">
         <mark key="[" line="54" column="29" />
       </file>
@@ -504,11 +511,11 @@
       <jump line="0" column="7" filename="/fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFRva2VuVGhyZWFkIHsKfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -517,32 +524,32 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIFRva2VuVGhyZWFkIHsKfQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CglwdWJsaWMgQWNjZXNzVG9rZW4gZ2V0QWNjZXNzVG9rZW4oKSB7CgkJQWNjZXNzVG9rZW4gYWNjZXNzVG9rZW4gPSBudWxsOwoJCVN0cmluZyByZXF1ZXN0VXJsID0gImh0dHBzOi8vYXBpLndlaXhpbi5xcS5jb20vY2dpLWJpbi90b2tlbj9ncmFudF90eXBlPWNsaWVudF9jcmVkZW50aWFsJmFwcGlkPUFQUElEJnNlY3JldD1BUFBTRUNSRVQiOwoJCXJlcXVlc3RVcmwgPSByZXF1ZXN0VXJsLnJlcGxhY2UoIkFQUElEIiwgd2VjaGF0UHJvcGVydGllcy5nZXRBcHBJZCgpKS5yZXBsYWNlKCJBUFBTRUNSRVQiLCB3ZWNoYXRQcm9wZXJ0aWVzLmdldEFwcFNlY3JldCgpKTsKCQlKU09OT2JqZWN0IGpzb25PYmplY3QgPSBIdHRwVXRpbHMuaHR0cFJlcXVlc3QocmVxdWVzdFVybCwgU3RyaW5nLnZhbHVlT2YoUmVxdWVzdFR5cGUuR0VUKSwgbnVsbCk7CgkJbG9nZ2VyLmluZm8oanNvbk9iamVjdC50b1N0cmluZygpKTsKCQlpZiAobnVsbCAhPSBqc29uT2JqZWN0KSB7CgkJCWlmICgganNvbk9iamVjdC5jb250YWluc0tleSgiZXJyY29kZSIpCgkJCQkJJiYganNvbk9iamVjdC5nZXRJbnRlZ2VyKCJlcnJjb2RlIikgIT0gMCkKCQkJCXJldHVybiBudWxsOwoJCQl0cnkgewoJCQkJYWNjZXNzVG9rZW4gPSBuZXcgQWNjZXNzVG9rZW4oKTsKCQkJCWFjY2Vzc1Rva2VuLnNldEFjY2Vzc1Rva2VuKGpzb25PYmplY3QuZ2V0U3RyaW5nKCJhY2Nlc3NfdG9rZW4iKSk7CgkJCQlhY2Nlc3NUb2tlbi5zZXRFeHBpcmVzSW4oanNvbk9iamVjdC5nZXRJbnRlZ2VyKCJleHBpcmVzX2luIikpOwoJCQkJbG9nZ2VyLmluZm8oU3RyaW5nLnZhbHVlT2YoYWNjZXNzVG9rZW4pKTsKCQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJCWxvZ2dlci5lcnJvcigi6I635Y+WYWNjZXNzX3Rva2Vu5aSx6LSlIGVycmNvZGU6e30gZXJybXNnOnt9IiwganNvbk9iamVjdC5nZXRJbnRlZ2VyKCJlcnJjb2RlIiksIGpzb25PYmplY3QuZ2V0U3RyaW5nKCJlcnJtc2ciKSk7CgkJCX0KCQl9CgkJcmV0dXJuIGFjY2Vzc1Rva2VuOwoJ</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4yLjAuNC5SRUxFQVNFPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>BillOrderService billOrderService) {
 	                              DoctorTodoService doctorTodoService</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5zdW4uaXN0YWNrLmludGVybmFsLk5vdE51bGw7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGphdmF4LnZhbGlkYXRpb24uY29uc3RyYWludHMuTm90TnVsbDsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlEYXRlIGV4cGlyZVRpbWUgPSBwYXRpZW50Q2FyZC5nZXRFeHBpcmVUaW1lKCk7Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBqYXZhLnRpbWUuTG9jYWxEYXRlVGltZS47Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlEYXRlIGV4cGlyZVRpbWUgPSBwYXRpZW50Q2FyZC5nZXRFeHBpcmVUaW1lKCk7Cg==</text>
       </register>
     </registers>
     <search>
