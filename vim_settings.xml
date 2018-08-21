@@ -169,6 +169,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientInvestigation.java" timestamp="1533720920508">
         <mark key="[" line="40" column="60" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-cp/3.1.0/weixin-java-cp-3.1.0-sources.jar!/me/chanjar/weixin/cp/api/WxCpMediaService.java" timestamp="1534823061404" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserMapper.java" timestamp="1533265262728">
         <mark key="[" line="33" column="57" />
       </file>
@@ -429,8 +430,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientTagService.java" timestamp="1534398926518">
         <mark key="[" line="60" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1534752900257">
-        <mark key="[" line="9" column="15" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1534822819086">
+        <mark key="[" line="85" column="21" />
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
