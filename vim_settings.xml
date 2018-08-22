@@ -255,10 +255,10 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/main/java/com/example/demo/controller/Hello.java" timestamp="1534918582080">
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="20" />
-        <mark key="." line="28" column="20" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/main/java/com/example/demo/controller/Hello.java" timestamp="1534920044729">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1533866050589">
         <mark key="[" line="189" column="27" />
@@ -463,7 +463,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534917961051">
+      <file name="/Dummy.txt" timestamp="1534919765064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientWeeklyReport.java" timestamp="1534735672207">
@@ -551,10 +551,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>path.toFile();</text>
+        <text>createNewFile();</text>
       </register>
       <register name="-" type="4">
-        <text>path.toFile();</text>
+        <text>createNewFile();</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
