@@ -131,6 +131,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientWeeklyReportMapper.xml" timestamp="1534752016014">
         <mark key="[" line="158" column="67" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/util-core/pom.xml" timestamp="1535015377329">
+        <mark key="[" line="28" column="65" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientTagMapper.java" timestamp="1534398702481">
         <mark key="[" line="32" column="58" />
       </file>
@@ -154,13 +157,18 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/Test.java" timestamp="1535015399271">
+        <mark key="[" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/WechatServiceImpl.java" timestamp="1534842787865">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/util-core/src/main/java/com/yirdoc/util/image/ImageUtil.java" timestamp="1535013339102">
-        <mark key="[" line="2" column="24" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/util-core/src/main/java/com/yirdoc/util/image/ImageUtil.java" timestamp="1535015762827">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="31" />
+        <mark key="." line="23" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientTagServiceImpl.java" timestamp="1534399767167">
         <mark key="[" line="96" column="15" />
@@ -475,7 +483,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535006702989">
+      <file name="/Dummy.txt" timestamp="1535015813626">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientWeeklyReport.java" timestamp="1534735672207">
@@ -572,11 +580,11 @@
       <jump line="0" column="7" filename="/fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCS5ub3RpZnlVcmwod3hQYXlTZXJ2aWNlLmdldENvbmZpZygpLmdldE5vdGlmeVVybCgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>Jpg</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>Jpg</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
