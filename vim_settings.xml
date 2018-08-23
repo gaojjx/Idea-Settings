@@ -246,6 +246,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/BasicPayModel.java" timestamp="1534152954368">
         <mark key="[" line="10" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-pay/3.1.0/weixin-java-pay-3.1.0-sources.jar!/com/github/binarywang/wxpay/bean/request/WxPayUnifiedOrderRequest.java" timestamp="1534999279409" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceChatModel.java" timestamp="1533192070837">
         <mark key="[" line="14" column="28" />
       </file>
@@ -321,6 +322,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/FamilyController.java" timestamp="1533951360928">
         <mark key="[" line="264" column="12" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-mp/3.1.0/weixin-java-mp-3.1.0-sources.jar!/me/chanjar/weixin/mp/api/impl/BaseWxMpServiceImpl.java" timestamp="1535000725181" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorPatientGroupMapper.xml" timestamp="1534409076488">
         <mark key="[" line="155" column="8" />
         <mark key="]" line="155" column="8" />
@@ -471,10 +473,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
         <mark key="[" line="24" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1534996722038">
-        <mark key="[" line="108" column="36" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="104" column="18" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1535000733103">
+        <mark key="[" line="141" column="40" />
+        <mark key="]" line="141" column="40" />
+        <mark key="." line="141" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatProperties.java" timestamp="1534996571934">
         <mark key="[" line="25" column="29" />
@@ -495,8 +497,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/WeixinQRModel.java" timestamp="1533203093713">
         <mark key="[" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1534996698806">
-        <mark key="[" line="39" column="44" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1534999349947">
+        <mark key="[" line="60" column="44" />
         <mark key="]" line="43" column="23" />
         <mark key="." line="43" column="23" />
       </file>
@@ -556,11 +558,11 @@
       <jump line="0" column="7" filename="/fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>wxPayUnifiedOrderResult</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>wxPayUnifiedOrderResult</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
