@@ -146,7 +146,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1533799614986">
         <mark key="[" line="30" column="11" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-pay/3.1.0/weixin-java-pay-3.1.0-sources.jar!/com/github/binarywang/wxpay/service/impl/BaseWxPayServiceImpl.java" timestamp="1534996865036" />
+      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-pay/3.1.0/weixin-java-pay-3.1.0-sources.jar!/com/github/binarywang/wxpay/service/impl/BaseWxPayServiceImpl.java" timestamp="1535098298851" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/task/ScheduleTask.java" timestamp="1534735172155">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -175,6 +175,7 @@
         <mark key="]" line="96" column="15" />
         <mark key="." line="96" column="15" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-pay/3.1.0/weixin-java-pay-3.1.0-sources.jar!/com/github/binarywang/wxpay/bean/result/BaseWxPayResult.java" timestamp="1535099065327" />
       <file name="$USER_HOME$/Projects/yirdoc/weixinlib/pom.xml" timestamp="1534833139435">
         <mark key="[" line="12" column="32" />
       </file>
@@ -267,8 +268,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/ServiceChatService.java" timestamp="1534921506061">
         <mark key="[" line="130" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatPayConfiguration.java" timestamp="1535005390395">
-        <mark key="[" line="33" column="85" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatPayConfiguration.java" timestamp="1535096961564">
+        <mark key="[" line="31" column="95" />
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
@@ -497,16 +498,20 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
+      <file name="/Dummy.txt" timestamp="1535099970890">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientWeeklyReport.java" timestamp="1534735672207">
         <mark key="[" line="145" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
         <mark key="[" line="24" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1535094722063">
-        <mark key="[" line="140" column="75" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1535099580590">
+        <mark key="[" line="149" column="48" />
+        <mark key="]" line="124" column="12" />
+        <mark key="." line="124" column="12" />
+        <mark key="^" line="109" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatProperties.java" timestamp="1535005374667">
         <mark key="[" line="25" column="29" />
@@ -597,10 +602,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>createPatentCard</text>
+        <text encoding="base64">V3hQYXlVbmlmaWVkT3JkZXJSZXN1bHQg</text>
       </register>
       <register name="-" type="4">
-        <text>createPatentCard</text>
+        <text encoding="base64">V3hQYXlVbmlmaWVkT3JkZXJSZXN1bHQg</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -609,31 +614,31 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJRGF0ZSB0b2RvRGF0ZSA9IERhdGUuZnJvbShwbHVzRGF5cy5hdFpvbmUoWm9uZU9mZnNldC5zeXN0ZW1EZWZhdWx0KCkpLnRvSW5zdGFudCgpKTsK</text>
+        <text encoding="base64">CQkJU3RyaW5nIHByZXBheUlkID0gcmVzdWx0LmdldFByZXBheUlkKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCS5ub3RpZnlVcmwod3hQYXlTZXJ2aWNlLmdldENvbmZpZygpLmdldE5vdGlmeVVybCgpKQo=</text>
+        <text encoding="base64">CQkJU3RyaW5nIHJldHVybkNvZGUgPSByZXN1bHQuZ2V0QXBwSWQoKTsKCQkJU3RyaW5nIHJlc3VsdENvZGUgPSByZXN1bHQuZ2V0QXBwSWQoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJkZXYiKQo=</text>
+        <text encoding="base64">CQkJRGF0ZSB0b2RvRGF0ZSA9IERhdGUuZnJvbShwbHVzRGF5cy5hdFpvbmUoWm9uZU9mZnNldC5zeXN0ZW1EZWZhdWx0KCkpLnRvSW5zdGFudCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
+        <text encoding="base64">CQkJCS5ub3RpZnlVcmwod3hQYXlTZXJ2aWNlLmdldENvbmZpZygpLmdldE5vdGlmeVVybCgpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS4K</text>
+        <text encoding="base64">QEFjdGl2ZVByb2ZpbGVzKCJkZXYiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVkaWFEb3dubG9hZC5yZW5hbWVUbyhmaWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CQkJCS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQKCXB1YmxpYyBXZUNoYXRNZW51UmVkaXJlY3RDb250cm9sbGVyKFdlY2hhdFByb3BlcnRpZXMgd2VjaGF0UHJvcGVydGllcywgV2VjaGF0U2VydmljZSB3ZWNoYXRTZXJ2aWNlLCBXeE1wU2VydmljZSB3eE1wU2VydmljZSkgewoJCXRoaXMud2VjaGF0UHJvcGVydGllcyA9IHdlY2hhdFByb3BlcnRpZXM7CgkJdGhpcy53ZWNoYXRTZXJ2aWNlID0gd2VjaGF0U2VydmljZTsKCQl0aGlzLnd4TXBTZXJ2aWNlID0gd3hNcFNlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVkaWFEb3dubG9hZC5yZW5hbWVUbyhmaWxlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
     </registers>
     <search>
