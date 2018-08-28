@@ -586,9 +586,8 @@
         <mark key="[" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1535419210297">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="69" column="11" />
-        <mark key="." line="69" column="11" />
+        <mark key="]" line="58" column="11" />
+        <mark key="." line="58" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorAccountService.java" timestamp="1534149772480">
         <mark key="[" line="53" column="48" />
