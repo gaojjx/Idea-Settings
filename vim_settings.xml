@@ -66,12 +66,12 @@
         <mark key="]" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1535439678677">
-        <mark key="'" line="293" column="73" />
-        <mark key="[" line="431" column="48" />
-        <mark key="]" line="431" column="48" />
-        <mark key="." line="431" column="48" />
-        <mark key="^" line="430" column="20" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1535440524500">
+        <mark key="'" line="315" column="73" />
+        <mark key="[" line="210" column="12" />
+        <mark key="]" line="210" column="12" />
+        <mark key="^" line="224" column="4" />
+        <mark key="." line="210" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardMapper.xml" timestamp="1534388982542">
         <mark key="[" line="184" column="62" />
@@ -146,8 +146,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/ChatLogService.java" timestamp="1534921525529">
         <mark key="[" line="60" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1533799614986">
-        <mark key="[" line="30" column="11" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1535439910265">
+        <mark key="[" line="84" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/task/ScheduleTask.java" timestamp="1534735172155">
         <mark key="[" line="88" column="0" />
@@ -526,7 +526,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535419965209">
+      <file name="/Dummy.txt" timestamp="1535440204226">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientWeeklyReport.java" timestamp="1534735672207">
@@ -613,11 +613,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorAccountServiceImpl.java" timestamp="1534150983947">
         <mark key="[" line="109" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1535419965200">
+      <file name="/fragment.java" timestamp="1535440424424">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -645,10 +645,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>doctorId</text>
+        <text>if (</text>
       </register>
       <register name="-" type="4">
-        <text>doctorId</text>
+        <text>if (</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -657,31 +657,31 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Ym9vbGVhbgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CiAgZW5hYmxlZDogdA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBmYQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJRmFtaWx5Q2FyZCBmYW1pbHlDYXJkID0gZmFtaWx5Q2FyZFNlcnZpY2UuZ2V0QnlGYW1pbHlJZEFuZERvY3RvcklkKGZhbWlseS5nZXRJZCgpLCBkb2N0b3JJZCwgbnVsbCk7CgkJCWlmIChmYW1pbHlDYXJkID09IG51bGwpIHsKCQkJCWZhbWlseUNhcmQgPSBuZXcgRmFtaWx5Q2FyZCgpOwoJCQkJZmFtaWx5Q2FyZC5zZXRDYXJkU3RhdHVzKChzaG9ydCkgMSk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkvLyBUT0RPCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEZhbWlseUNhcmQgZ2V0QWN0aXZlZENhcmRCeUZhbWlseUlkQW5kRG9jdG9ySWQoQFBhcmFtKCJmYW1pbHlJZCIpIExvbmcgZmFtaWx5SWQsIEBQYXJhbSgiZG9jdG9ySWQiKSBMb25nIGRvY3RvcklkKTsKICAgIAogICAgRmFtaWx5Q2FyZCBnZXRVbkFjdGl2ZWRDYXJkQnlGYW1pbHlJZEFuZERvY3RvcklkKEBQYXJhbSgiZmFtaWx5SWQiKSBMb25nIGZhbWlseUlkLCBAUGFyYW0oImRvY3RvcklkIikgTG9uZyBkb2N0b3JJZCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImdldEFjdGl2ZWRDYXJkQnlGYW1pbHlJZEFuZERvY3RvcklkIiByZXN1bHRUeXBlPSJjb20ueWlyZG9jLmJoaHguZW50aXR5LkZhbWlseUNhcmQiPgogICAgICAgIAogICAgPC9zZWxlY3Q+Cg==</text>
+        <text encoding="base64">ICAgIEZhbWlseUNhcmQgZ2V0QWN0aXZlZENhcmRCeUZhbWlseUlkQW5kRG9jdG9ySWQoQFBhcmFtKCJmYW1pbHlJZCIpIExvbmcgZmFtaWx5SWQsIEBQYXJhbSgiZG9jdG9ySWQiKSBMb25nIGRvY3RvcklkKTsKICAgIAogICAgRmFtaWx5Q2FyZCBnZXRVbkFjdGl2ZWRDYXJkQnlGYW1pbHlJZEFuZERvY3RvcklkKEBQYXJhbSgiZmFtaWx5SWQiKSBMb25nIGZhbWlseUlkLCBAUGFyYW0oImRvY3RvcklkIikgTG9uZyBkb2N0b3JJZCk7Cg==</text>
       </register>
     </registers>
     <search>
