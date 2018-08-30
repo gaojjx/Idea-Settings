@@ -14,10 +14,10 @@
       <file name="/a.dummy" timestamp="1535443498910">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/config/WebSocketConfig.java" timestamp="1535447686840">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/config/WebSocketConfig.java" timestamp="1535553151399">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
         <mark key="[" line="1" column="0" />
@@ -120,7 +120,6 @@
         <mark key="]" line="36" column="53" />
         <mark key="." line="36" column="53" />
       </file>
-      <file name="/SwaggerConfig.java" timestamp="1535419190746" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/FamilyCardMapper.java" timestamp="1535285656302">
         <mark key="[" line="34" column="4" />
         <mark key="]" line="36" column="0" />
@@ -400,11 +399,9 @@
         <mark key="]" line="39" column="49" />
         <mark key="." line="39" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/controller/MapWebSocketController.java" timestamp="1535449310165" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/FamilyController.java" timestamp="1535284935204">
         <mark key="[" line="37" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/IHandShakeInterceptor.java" timestamp="1535447324998" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorPatientGroupMapper.xml" timestamp="1534409076488">
         <mark key="[" line="155" column="8" />
         <mark key="]" line="155" column="8" />
@@ -592,7 +589,6 @@
         <mark key="]" line="10" column="11" />
         <mark key="." line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatMessage.java" timestamp="1535447778636" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
         <mark key="[" line="52" column="28" />
       </file>
