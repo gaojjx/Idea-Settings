@@ -155,6 +155,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1535439910265">
         <mark key="[" line="84" column="94" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/ServiceEvaluate.java" timestamp="1535617398270">
+        <mark key="[" line="31" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/task/ScheduleTask.java" timestamp="1534735172155">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
@@ -168,8 +171,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/Test.java" timestamp="1535015399271">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/FamilyCardModel.java" timestamp="1535597970650">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/FamilyCardModel.java" timestamp="1535617247759">
+        <mark key="[" line="27" column="7" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
