@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>Basic.sendText (javax.websocket.RemoteEndpoint)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("sendText").withParameters("java.lang.String").definedInClass("javax.websocket.RemoteEndpoint.Basic"))]]></place>
+    </injection>
+  </component>
+</application>
