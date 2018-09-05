@@ -194,10 +194,9 @@
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1536053546007">
-        <mark key="[" line="262" column="66" />
-        <mark key="]" line="320" column="0" />
-        <mark key="." line="320" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1536129101294">
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536112593949">
         <mark key="[" line="35" column="12" />
@@ -346,7 +345,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536128192951">
+      <file name="/Dummy.txt" timestamp="1536129433216">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -356,10 +355,7 @@
         <mark key="[" line="18" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1536114838809">
-        <mark key="[" line="96" column="84" />
-        <mark key="]" line="96" column="84" />
-        <mark key="^" line="189" column="21" />
-        <mark key="." line="96" column="84" />
+        <mark key="^" line="159" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatProperties.java" timestamp="1535005374667">
         <mark key="[" line="25" column="29" />
@@ -586,11 +582,6 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WxCpConfiguration.java" timestamp="1534838363075">
         <mark key="[" line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/UserServiceImplTest.java" timestamp="1535333042541">
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/WuhuaCubicMapper.java" timestamp="1536025411363">
         <mark key="[" line="27" column="76" />
