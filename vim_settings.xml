@@ -340,7 +340,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536130526946">
+      <file name="/Dummy.txt" timestamp="1536132285198">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -557,6 +557,11 @@
         <mark key="]" line="48" column="33" />
         <mark key="." line="48" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorCardMapper.xml" timestamp="1536132244915">
+        <mark key="[" line="119" column="27" />
+        <mark key="]" line="119" column="27" />
+        <mark key="." line="119" column="27" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/TagMapper.java" timestamp="1534405586547">
         <mark key="[" line="29" column="0" />
       </file>
@@ -770,10 +775,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user</text>
+        <text>doctorCardId</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>doctorCardId</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
