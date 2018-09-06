@@ -96,7 +96,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebsocketEndpoint.java" timestamp="1535596201818">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/resources/mapping/FamilyCardMapper.xml" timestamp="1536127747035" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/ChatLogService.java" timestamp="1534921525529">
         <mark key="[" line="60" column="43" />
       </file>
@@ -116,7 +115,6 @@
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/WuhuaCubicService.java" timestamp="1536025712405" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientTagServiceImpl.java" timestamp="1534399767167">
         <mark key="[" line="96" column="15" />
         <mark key="]" line="96" column="15" />
@@ -161,6 +159,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/weixinlib/src/main/java/com/yirdoc_utils_weixin/wxpay/common/WeChatConfig.java" timestamp="1534833913137">
         <mark key="[" line="17" column="34" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WechatTemplateServiceImpl.java" timestamp="1536199215619">
+        <mark key="[" line="2" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientWeeklyReportMapperTest.java" timestamp="1534733994785">
         <mark key="[" line="12" column="0" />
       </file>
@@ -201,6 +202,9 @@
         <mark key="[" line="123" column="29" />
         <mark key="]" line="123" column="29" />
         <mark key="." line="123" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/WechatTemplateService.java" timestamp="1536198837438">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="/JSON Fragment (WebSocketEndpoint.java:1034).json" timestamp="1535610690619">
         <mark key="[" line="0" column="0" />
@@ -270,7 +274,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/ServiceChatController.java" timestamp="1534490424691">
         <mark key="[" line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WuhuaCubicServiceImpl.java" timestamp="1536025835687" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorCardMapper.java" timestamp="1535687770593">
         <mark key="[" line="39" column="39" />
         <mark key="]" line="39" column="39" />
@@ -366,7 +369,6 @@
         <mark key="]" line="64" column="33" />
         <mark key="." line="64" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/HospitalController.java" timestamp="1535685995683" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyCardServiceImpl.java" timestamp="1536128070549">
         <mark key="[" line="256" column="36" />
       </file>
@@ -382,7 +384,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WxConfiguration.java" timestamp="1534838276104">
         <mark key="[" line="2" column="30" />
       </file>
-      <file name="/WuhuaRecMapper.xml" timestamp="1536142142805" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserDocMapper.xml" timestamp="1533286284477">
         <mark key="[" line="152" column="68" />
       </file>
@@ -405,7 +406,6 @@
       <file name="$USER_HOME$/code/test/demo/src/main/resources/application.properties" timestamp="1534754654948">
         <mark key="[" line="0" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/WuhuaRecService.java" timestamp="1536025654388" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/config/WebSocketConfig.java" timestamp="1535553151399">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="35" column="0" />
@@ -475,7 +475,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/pom.xml" timestamp="1535015377329">
         <mark key="[" line="28" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/YeTest.java" timestamp="1536026532049" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientTagMapper.java" timestamp="1534398702481">
         <mark key="[" line="32" column="58" />
       </file>
@@ -488,13 +487,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1535439910265">
         <mark key="[" line="84" column="94" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketHandler.java" timestamp="1536195383198" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/task/ScheduleTask.java" timestamp="1534735172155">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/resources/mapping/WuhuaRecMapper.xml" timestamp="1536025471209" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/WechatServiceImpl.java" timestamp="1534842787865">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -535,9 +532,6 @@
         <mark key="]" line="146" column="116" />
         <mark key="." line="146" column="116" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorTodoService.java" timestamp="1535686261296" />
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/FamilyCard.java" timestamp="1535685536296" />
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/WuhuaCubicMapper.java" timestamp="1536024968022" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1536054399843">
         <mark key="[" line="23" column="107" />
         <mark key="]" line="23" column="8" />
@@ -557,7 +551,6 @@
       <file name="$USER_HOME$/code/yirdoc-demo/src/main/java/com/yirdoc/demo/DemoApplication.java" timestamp="1535965293310">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/resources/mapping/BillOrderMapper.xml" timestamp="1536109235762" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/WuhuaCubicService.java" timestamp="1536026225666">
         <mark key="[" line="48" column="33" />
         <mark key="]" line="48" column="33" />
@@ -589,7 +582,6 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/resources/mapping/WuhuaCubicMapper.xml" timestamp="1536025087008" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientController.java" timestamp="1533696128017">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -640,7 +632,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImpl.java" timestamp="1534734910721">
         <mark key="[" line="95" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WuhuaRecServiceImpl.java" timestamp="1536026210691" />
       <file name="$USER_HOME$/code/test/demo/src/main/java/com/example/demo/HelloController.java" timestamp="1534753355036">
         <mark key="[" line="1" column="0" />
       </file>
@@ -668,7 +659,6 @@
         <mark key="]" line="134" column="27" />
         <mark key="." line="134" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/MapWebSocketHandler.java" timestamp="1535609720435" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorService.java" timestamp="1535709699863">
         <mark key="[" line="73" column="56" />
       </file>
@@ -723,8 +713,6 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-websocket/5.0.7.RELEASE/spring-websocket-5.0.7.RELEASE.jar!/org/springframework/web/socket/TextMessage.class" timestamp="1536142612964" />
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/WuhuaRecMapper.java" timestamp="1536025010985" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/WechatInMemoryConfigStorage.java" timestamp="1534845398049">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
