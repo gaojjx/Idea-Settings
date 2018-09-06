@@ -448,8 +448,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserDocMapper.java" timestamp="1533286274840">
         <mark key="[" line="28" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/WuhuaRecMapper.xml" timestamp="1536205278282">
-        <mark key="[" line="296" column="21" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/WuhuaRecMapper.xml" timestamp="1536215228498">
         <mark key="]" line="296" column="21" />
         <mark key="." line="296" column="21" />
       </file>
@@ -524,7 +523,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/ServiceChatServiceImplTest.java" timestamp="1536031268829">
         <mark key="[" line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WuhuaRecServiceImpl.java" timestamp="1536142415377">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WuhuaRecServiceImpl.java" timestamp="1536215220774">
         <mark key="[" line="100" column="41" />
         <mark key="]" line="91" column="15" />
         <mark key="." line="91" column="15" />
@@ -739,7 +738,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/controller/WuhuaRecController.java" timestamp="1536205195034">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/controller/WuhuaRecController.java" timestamp="1536215383461">
+        <mark key="[" line="171" column="0" />
         <mark key="]" line="134" column="28" />
         <mark key="." line="134" column="28" />
         <mark key="^" line="134" column="28" />
