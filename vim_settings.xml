@@ -323,6 +323,9 @@
         <mark key="]" line="168" column="51" />
         <mark key="." line="168" column="51" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/config/WechatConfig.java" timestamp="1536213804068">
+        <mark key="[" line="20" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PayOrderService.java" timestamp="1534218549103">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -406,7 +409,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WxConfiguration.java" timestamp="1534838276104">
         <mark key="[" line="2" column="30" />
       </file>
-      <file name="/WuhuaRecMapper.xml" timestamp="1536204541820" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserDocMapper.xml" timestamp="1533286284477">
         <mark key="[" line="152" column="68" />
       </file>
@@ -760,6 +762,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
         <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/config/WechatProperties.java" timestamp="1536213495583">
+        <mark key="[" line="19" column="11" />
       </file>
     </filemarks>
     <jumps>
