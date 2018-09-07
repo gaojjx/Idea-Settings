@@ -224,8 +224,8 @@
       <file name="/JSON Fragment (WebSocketEndpoint.java:1034).json" timestamp="1535610690619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/FamilyCardMapper.xml" timestamp="1536127758555">
-        <mark key="[" line="164" column="22" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/FamilyCardMapper.xml" timestamp="1536283923411">
+        <mark key="[" line="147" column="140" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/ProductProperties.java" timestamp="1535336136551">
         <mark key="[" line="7" column="4" />
@@ -369,7 +369,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536234588939">
+      <file name="/Dummy.txt" timestamp="1536285099636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -378,10 +378,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
         <mark key="[" line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1536227099201">
-        <mark key="[" line="92" column="92" />
-        <mark key="]" line="92" column="92" />
-        <mark key="." line="92" column="92" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1536285071824">
+        <mark key="[" line="90" column="120" />
+        <mark key="]" line="90" column="120" />
+        <mark key="." line="90" column="120" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatProperties.java" timestamp="1535005374667">
         <mark key="[" line="25" column="29" />
@@ -391,7 +391,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientTagService.java" timestamp="1534398926518">
         <mark key="[" line="60" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardService.java" timestamp="1536113924939">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardService.java" timestamp="1536283640370">
         <mark key="[" line="135" column="86" />
         <mark key="]" line="64" column="33" />
         <mark key="." line="64" column="33" />
@@ -471,6 +471,7 @@
       <file name="$USER_HOME$/Untitled.sql" timestamp="1535185078316">
         <mark key="[" line="7" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1536283679049" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebSocketEventListener.java" timestamp="1535447730099">
         <mark key="[" line="1" column="0" />
       </file>
@@ -801,11 +802,11 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
