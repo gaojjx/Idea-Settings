@@ -387,7 +387,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536644628816">
+      <file name="/Dummy.txt" timestamp="1536649556454">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -795,10 +795,10 @@
         <mark key="]" line="15" column="8" />
         <mark key="." line="15" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1536572327196">
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1536649550271">
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="56" column="23" />
+        <mark key="." line="56" column="23" />
         <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/WechatInMemoryConfigStorage.java" timestamp="1534845398049">
@@ -861,11 +861,11 @@
       <jump line="17" column="17" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorPatientGroupMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICAgICAgbG9nZ2VyLmluZm8oIuaWsOebruW9lToge30iLCBwYXRoLnRvU3RyaW5nKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SW50ZWdlciA=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
