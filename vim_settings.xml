@@ -57,7 +57,6 @@
         <mark key="]" line="18" column="34" />
         <mark key="." line="18" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/Jenkinsfile" timestamp="1536654195224" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PayDoctorCardModel.java" timestamp="1536114578015">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="6" column="17" />
@@ -81,10 +80,13 @@
         <mark key="]" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/PatientService.java" timestamp="1536740816427">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/PatientService.java" timestamp="1536742068822">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/DoctorCardServiceTest.java" timestamp="1536743564852">
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/UserDocMapperTest.java" timestamp="1533287055091">
         <mark key="[" line="23" column="38" />
@@ -101,11 +103,6 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebsocketEndpoint.java" timestamp="1535596201818">
         <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/PatientServiceImpl.java" timestamp="1536206211523">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-boot-1.0.0-pom.xml" timestamp="1536653034800">
         <mark key="[" line="22" column="65" />
@@ -180,6 +177,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserMapper.java" timestamp="1536736518608">
         <mark key="[" line="39" column="101" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/ChatLogServiceImpl.java" timestamp="1536743064100">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/weixinlib/src/main/java/com/yirdoc_utils_weixin/wxpay/common/WeChatConfig.java" timestamp="1534833913137">
         <mark key="[" line="17" column="34" />
       </file>
@@ -219,7 +221,6 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/mapper/DoctorPatientGroupMapper.java" timestamp="1536738756988" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/ServiceChatService.java" timestamp="1536031675289">
         <mark key="[" line="130" column="73" />
       </file>
@@ -241,10 +242,10 @@
         <mark key="]" line="123" column="29" />
         <mark key="." line="123" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/PatientCardService.java" timestamp="1536740765651">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/PatientCardService.java" timestamp="1536743360999">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorPatientGroupServiceImpl.java" timestamp="1536657535014">
         <mark key="[" line="302" column="37" />
@@ -291,6 +292,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/config-server/src/main/java/com/yirdoc/configserver/ConfigServerApplication.java" timestamp="1536046434355">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/DoctorPatientGroupServiceImpl.java" timestamp="1536743106439">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorPatientGroupMapper.xml" timestamp="1536655026608">
         <mark key="[" line="58" column="11" />
         <mark key="]" line="58" column="11" />
@@ -311,7 +317,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/FamilyMapper.xml" timestamp="1536736629413" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorTodoMapper.java" timestamp="1534743363741">
         <mark key="[" line="34" column="39" />
         <mark key="]" line="2" column="0" />
@@ -400,18 +405,17 @@
         <mark key="]" line="77" column="7" />
         <mark key="." line="77" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/PatientCardServiceImpl.java" timestamp="1536206274632">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/PatientCardServiceImpl.java" timestamp="1536743383275">
+        <mark key="[" line="59" column="71" />
+        <mark key="]" line="59" column="71" />
+        <mark key="." line="59" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1536740494795" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/impl/WechatServiceImpl.java" timestamp="1534846079185">
         <mark key="[" line="10" column="70" />
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536739749287">
+      <file name="/Dummy.txt" timestamp="1536743471896">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -466,7 +470,6 @@
       <file name="/JSON Fragment (CallBackController.java:5725).json" timestamp="1536290650147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/settings.xml" timestamp="1536652990160" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserDocMapper.xml" timestamp="1533286284477">
         <mark key="[" line="152" column="68" />
       </file>
@@ -478,7 +481,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorAccountServiceImpl.java" timestamp="1536226733159">
         <mark key="[" line="134" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1536738874119">
+      <file name="/fragment.java" timestamp="1536743618782">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -586,6 +589,9 @@
         <mark key="]" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/DoctorServiceImplTest.java" timestamp="1536743622517">
+        <mark key="[" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/weixinlib/pom.xml" timestamp="1536644418108">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
@@ -606,12 +612,6 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/test/com/example/demo/controller/HelloTest.java" timestamp="1535013259104">
         <mark key="[" line="19" column="43" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1536736685688">
-        <mark key="'" line="145" column="70" />
-        <mark key="[" line="180" column="20" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
         <mark key="[" line="26" column="5" />
@@ -732,6 +732,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ServiceEvaluateMapper.java" timestamp="1535445332974">
         <mark key="[" line="29" column="41" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/ChatLogService.java" timestamp="1536742939877">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientMapper.java" timestamp="1534388701655">
         <mark key="[" line="33" column="66" />
       </file>
@@ -755,10 +760,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImpl.java" timestamp="1534734910721">
         <mark key="[" line="95" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/CallBackController.java" timestamp="1536740259800">
-        <mark key="[" line="227" column="22" />
-        <mark key="]" line="227" column="22" />
-        <mark key="." line="227" column="22" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/CallBackController.java" timestamp="1536743012557">
+        <mark key="[" line="46" column="65" />
+        <mark key="]" line="46" column="65" />
+        <mark key="." line="46" column="65" />
       </file>
       <file name="$USER_HOME$/code/test/demo/src/main/java/com/example/demo/HelloController.java" timestamp="1534753355036">
         <mark key="[" line="1" column="0" />
@@ -806,7 +811,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/Application.java" timestamp="1536738662932">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/Application.java" timestamp="1536743462980">
         <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/Test.java" timestamp="1533611332540">
@@ -820,6 +825,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1534249447371">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/task/ScheduleTask.java" timestamp="1536743409113" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/WechatService.java" timestamp="1534845444078">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="13" column="0" />
@@ -917,6 +923,7 @@
       <jump line="35" column="0" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardModel.java" />
       <jump line="17" column="17" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorPatientGroupMapper.java" />
       <jump line="145" column="70" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" />
+      <jump line="189" column="4" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/PatientCardServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -938,28 +945,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgUGF0aWVudFdlZWtseVJlcG9ydFNlcnZpY2UgcGF0aWVudFdlZWtseVJlcG9ydFNlcnZpY2U7Cg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJlc3VsdEJhc2ljIHBheURvY3RvckNhcmQoUGF5RG9jdG9yQ2FyZE1vZGVsIHBheURvY3RvckNhcmRNb2RlbCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsudHJhbnNhY3Rpb24uaW50ZXJjZXB0b3IuVHJhbnNhY3Rpb25Bc3BlY3RTdXBwb3J0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MudXRpbC5yZXN1bHQuUmVzdWx0VDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuYmhoeC5zZXJ2aWNlLkNoYXRMb2dTZXJ2aWNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtOnNyYy9tYWluL2phdmEvY29tL3lpcmRvYy9iaGh4L3NlcnZpY2UvUGF0aWVudENhcmRTZXJ2aWNlLmphdmEKaW1wb3J0IGNvbS55aXJkb2MuYmhoeC5kb2N0b3IuZW50aXR5LlBhdGllbnRDYXJkOwo9PT09PT09Cj4+Pj4+Pj4gU3Rhc2hlZCBjaGFuZ2VzOnNyYy9tYWluL2phdmEvY29tL3lpcmRvYy9iaGh4L2RvY3Rvci9zZXJ2aWNlL1BhdGllbnRDYXJkU2VydmljZS5qYXZhCmltcG9ydCBjb20ueWlyZG9jLnV0aWwucmVzdWx0LlJlc3VsdEJhc2ljOwppbXBvcnQgY29tLnlpcmRvYy51dGlsLnJlc3VsdC5SZXN1bHRUOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay5zdGVyZW90eXBlLlNlcnZpY2U7Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuYmhoeC5jb25maWcuV2VjaGF0UHJvcGVydGllczsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZWxzZSB7CgkJCQkJCS8vcmVzcENvbnRlbnQgPSAi5qyi6L+O5YWz5rOo6JaE6I235ZG85ZC477yM6K+36IGU57O75oKo55qE5Yy755Sf5omr5o+P6K+l5Yy755Sf55qE5LiT5bGe5LqM57u056CB77yM5ZCm5YiZ5Yy755Sf5peg5rOV5Li65oKo5pyN5YqhIjsKCQkJCQkJaWYgKGRvY0luZm8uY29udGFpbnMoIl8iKSkgewoJCQkJCQkJaWYgKGRvY0luZm8uY29udGFpbnMoIuaWsOeUqOaItyIpKSB7CgkJCQkJCQkJcmVzcENvbnRlbnQgPSAi5qyi6L+O5YWz5rOo6JaE6I235ZG85ZC477yM5Li65oKo5pyN5Yqh55qE5Yy755Sf5Li6WyIgKyBkb2NJbmZvLnNwbGl0KCJfIilbMV0gKyAiXe+8jOaOpeS4i+adpeeahOaXpeWtkOaIkeS7rOWwhuS4juaCqOaQuuaJi+i/m+ihjOWTruWWmOeahOWFqOeXheeoi+euoeeQhu+8jOivt+WdmuS/oeWTruWWmOaYr+WPr+S7peaOp+WItueahCI7CgkJCQkJCQl9IGVsc2UgewoJCQkJCQkJCXJlc3BDb250ZW50ID0gIuasoui/juWbnuWIsOiWhOiNt+WRvOWQuO+8jOW+iOmrmOWFtOe7p+e7reS4uuaCqOaPkOS+m+acjeWKoe+8jOaCqOeahOS4k+WxnuWMu+eUn+W3suabtOaWsOS4ulsiICsgZG9jSW5mby5zcGxpdCgiXyIpWzFdICsgIl0iOwoJCQkJCQkJfQoJCQkJCQl9IGVsc2UgewoJCQkJCQkJcmVzcENvbnRlbnQgPSAi5YWz5rOo5byC5bi477yM6K+35Y+W5raI5YWz5rOo5bm256iN5ZCO6YeN6K+VIjsKCQkJCQkJfQoJCQkJCQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCgoK</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgRmFtaWx5Q2FyZFNlcnZpY2UgZmFtaWx5Q2FyZFNlcnZpY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCgoKCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
