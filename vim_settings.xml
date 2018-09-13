@@ -461,8 +461,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorAccountService.java" timestamp="1534149772480">
         <mark key="[" line="53" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/DataTransfer.java" timestamp="1536819569279">
-        <mark key="[" line="25" column="38" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/DataTransfer.java" timestamp="1536820422741">
+        <mark key="[" line="35" column="23" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/DemoApplication.http" timestamp="1534917971544">
         <mark key="[" line="0" column="27" />
@@ -484,7 +484,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorAccountServiceImpl.java" timestamp="1536226733159">
         <mark key="[" line="134" column="9" />
       </file>
-      <file name="/fragment.java" timestamp="1536808507112">
+      <file name="/fragment.java" timestamp="1536820444343">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -626,7 +626,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
         <mark key="[" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1536819863412">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1536820405555">
         <mark key="[" line="221" column="74" />
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
