@@ -6,8 +6,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardModel.java" timestamp="1536047049568">
         <mark key="[" line="87" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/FollowUpGroupService.java" timestamp="1537250226324">
-        <mark key="[" line="60" column="53" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/FollowUpGroupService.java" timestamp="1537251904587">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="65" column="6" />
+        <mark key="^" line="65" column="6" />
+        <mark key="." line="65" column="6" />
       </file>
       <file name="/a.dummy" timestamp="1537147391646">
         <mark key="[" line="0" column="0" />
@@ -321,8 +324,8 @@
         <mark key="]" line="153" column="16" />
         <mark key="." line="153" column="16" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowUpGroupUserModel.java" timestamp="1537250074373">
-        <mark key="[" line="2" column="36" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowUpGroupUserModel.java" timestamp="1537251600755">
+        <mark key="[" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/code/bhhx3/.gitignore" timestamp="1533000072229">
         <mark key="[" line="22" column="0" />
@@ -490,6 +493,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientTagService.java" timestamp="1534398926518">
         <mark key="[" line="60" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/FollowUpGroupUserService.java" timestamp="1537251046809">
+        <mark key="[" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1536643973328">
         <mark key="[" line="64" column="34" />
@@ -691,6 +697,9 @@
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupUserServiceImpl.java" timestamp="1537251660196">
+        <mark key="[" line="110" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/test/com/example/demo/controller/HelloTest.java" timestamp="1535013259104">
         <mark key="[" line="19" column="43" />
       </file>
@@ -767,8 +776,12 @@
         <mark key="]" line="27" column="76" />
         <mark key="." line="27" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupServiceImpl.java" timestamp="1537234530816">
-        <mark key="[" line="50" column="15" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupServiceImpl.java" timestamp="1537251672892">
+        <mark key="'" line="30" column="28" />
+        <mark key="[" line="139" column="55" />
+        <mark key="]" line="139" column="55" />
+        <mark key="^" line="139" column="62" />
+        <mark key="." line="139" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/controller/PatientCardControllerTest.java" timestamp="1536115955522">
         <mark key="[" line="26" column="73" />
@@ -1026,13 +1039,14 @@
       <jump line="189" column="4" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/PatientCardServiceImpl.java" />
       <jump line="44" column="27" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/UserPatientModel.java" />
       <jump line="39" column="24" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/DataTransfer.java" />
+      <jump line="29" column="28" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getByFollowUpGroupUserId</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>getByFollowUpGroupUserId</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
