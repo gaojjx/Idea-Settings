@@ -628,8 +628,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientWeeklyReportMapper.xml" timestamp="1534752016014">
         <mark key="[" line="158" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1536802125187">
-        <mark key="[" line="6" column="64" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1537239736568">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="9" column="38" />
+        <mark key="." line="9" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/DoctorModel.java" timestamp="1535684874745">
         <mark key="[" line="36" column="28" />
@@ -1039,10 +1041,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ym9vbGVhbiA=</text>
+        <text>.doctor</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym9vbGVhbiA=</text>
+        <text>.doctor</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
