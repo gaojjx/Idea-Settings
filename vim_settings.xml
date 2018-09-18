@@ -193,6 +193,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/ArticleController.java" timestamp="1537231866840">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/weixinlib/src/main/java/com/yirdoc_utils_weixin/wxpay/common/WeChatConfig.java" timestamp="1534833913137">
         <mark key="[" line="17" column="34" />
       </file>
@@ -733,6 +738,11 @@
       <file name="$USER_HOME$/code/yirdoc-demo/src/main/java/com/yirdoc/demo/DemoApplication.java" timestamp="1535965293310">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/DoctorArticleController.java" timestamp="1537231889660">
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/WuhuaCubicService.java" timestamp="1536026225666">
         <mark key="[" line="48" column="33" />
         <mark key="]" line="48" column="33" />
@@ -1006,11 +1016,11 @@
       <jump line="39" column="24" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/DataTransfer.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>new Date();</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -1019,12 +1029,18 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBMYXp5KHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRlIG5vdyA9IG5ldyBEYXRlKCk7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIEBMYXp5KHRydWUpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Lwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="s" type="4">
+        <text encoding="base64">ICJcbiI=</text>
+      </register>
+      <register name="4" type="4">
         <text>*
 			User newuser = new User();
 			newuser.setHospitalId(Long.valueOf(fromUserName));
@@ -1036,12 +1052,6 @@
 			userService.update(newuser);
 			userService.addNewUser(fromUserName);*/</text>
       </register>
-      <register name="s" type="4">
-        <text encoding="base64">ICJcbiI=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
@@ -1049,13 +1059,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKCgoKCgoK</text>
+        <text encoding="base64">CgoKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvLyBUT0RPIOmbvuWMluaJq+eggemAu+i+kQo=</text>
+        <text encoding="base64">CgoKCgoKCgoK</text>
       </register>
     </registers>
     <search>
