@@ -270,6 +270,11 @@
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1537436782999">
+        <mark key="[" line="320" column="12" />
+        <mark key="]" line="316" column="0" />
+        <mark key="." line="316" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536736390926">
         <mark key="[" line="218" column="5" />
       </file>
@@ -485,7 +490,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537432077219">
+      <file name="/Dummy.txt" timestamp="1537437061270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -497,8 +502,8 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1537434905434">
         <mark key="[" line="64" column="73" />
-        <mark key="]" line="93" column="79" />
-        <mark key="." line="93" column="79" />
+        <mark key="]" line="97" column="79" />
+        <mark key="." line="97" column="79" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientGroupMemberMapper.java" timestamp="1536307693186">
         <mark key="[" line="29" column="0" />
@@ -1076,8 +1081,8 @@
       <jump line="152" column="27" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>patientId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlGYW1pbHkgZmFtaWx5ID0gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
         <text>patientId</text>
@@ -1089,36 +1094,36 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAgICAgICAgLy9UT0RPCg==</text>
+        <text encoding="base64">CQlGYW1pbHkgZmFtaWx5ID0gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>insert into bhhx.patient_daily_log(patient_id, rec_date, log_type, log_value, data_status, expectedPEF, create_time, update_time) values
-        (select r.userwx, r.date, 93, r.nightvalue, 1,  if(u.sex = '男', height * 5.29 - 427.1, height * 4.96 - 399.8) expectedPEF, now(), now()
-        from rec_pef r join baseinfo_user_bhhx u on u.id = r.userwx where u.id = #{patientId</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlpZiAoZmFtaWx5ICE9IG51bGwpIHsK</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">dHJ5IHsKCQkJCQkJZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQkJCQkJcmV0dXJuIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">CSAgICAgICAgLy9UT0RPCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlQYXRpZW50QWxsZXJneUl0ZW0gcGF0aWVudEFsbGVyZ3lJdGVtOwo=</text>
+      <register name="6" type="4">
+        <text>insert into bhhx.patient_daily_log(patient_id, rec_date, log_type, log_value, data_status, expectedPEF, create_time, update_time) values
+        (select r.userwx, r.date, 93, r.nightvalue, 1,  if(u.sex = '男', height * 5.29 - 427.1, height * 4.96 - 399.8) expectedPEF, now(), now()
+        from rec_pef r join baseinfo_user_bhhx u on u.id = r.userwx where u.id = #{patientId</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIGRlbGV0ZSA9IGZvbGxvd1VwR3JvdXBVc2VyU2VydmljZS5kYXRhU3RhdHVzQ2hhbmdlQnlJZCh1c2VySWQsIChzaG9ydCkgMCk7CiAgICAgICAgaWYgKGRlbGV0ZSkgewogICAgICAgICAgICByZXR1cm4gbmV3IFJlc3VsdEJhc2ljKDIwMCwgIuWIoOmZpOeUqOaIt+aIkOWKnyIpOwogICAgICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">dHJ5IHsKCQkJCQkJZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQkJCQkJcmV0dXJuIA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlQYXRpZW50QWxsZXJneUl0ZW0gcGF0aWVudEFsbGVyZ3lJdGVtOwo=</text>
       </register>
     </registers>
     <search>
