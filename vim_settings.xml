@@ -34,6 +34,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/README.md" timestamp="1537415857860">
         <mark key="[" line="0" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/MedicalHistory.java" timestamp="1537519416321" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceLogServiceImpl.java" timestamp="1533192369778">
         <mark key="[" line="93" column="117" />
       </file>
@@ -411,6 +412,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/UserService.java" timestamp="1536829823029">
         <mark key="[" line="91" column="67" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/mapping/MedHistoryMapper.xml" timestamp="1537519434892" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/ServiceChatController.java" timestamp="1534490424691">
         <mark key="[" line="120" column="0" />
       </file>
@@ -562,6 +564,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/DemoApplication.http" timestamp="1534917971544">
         <mark key="[" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientActionPlanMedicineMapper.java" timestamp="1537519844739">
+        <mark key="[" line="31" column="80" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WxConfiguration.java" timestamp="1534838276104">
         <mark key="[" line="2" column="30" />
       </file>
@@ -634,8 +639,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorPatientGroupMapper.java" timestamp="1536807023869">
         <mark key="[" line="40" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientMedicalHistoryMapper.xml" timestamp="1537340031104">
-        <mark key="[" line="130" column="89" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientMedicalHistoryMapper.xml" timestamp="1537519854814">
+        <mark key="[" line="137" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatConfig.java" timestamp="1536629040136">
         <mark key="[" line="27" column="69" />
@@ -699,8 +704,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/DoctorModel.java" timestamp="1535684874745">
         <mark key="[" line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientMedicalHistoryMapper.java" timestamp="1537339976140">
-        <mark key="[" line="33" column="4" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientMedicalHistoryMapper.java" timestamp="1537519825992">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/pom.xml" timestamp="1536650314675">
         <mark key="[" line="7" column="18" />
@@ -718,6 +725,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1535439910265">
         <mark key="[" line="84" column="94" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientActionPlanMedicineMapper.xml" timestamp="1537519865544">
+        <mark key="[" line="160" column="80" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/pom.xml" timestamp="1536738600527">
         <mark key="[" line="91" column="0" />
@@ -1032,6 +1042,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
         <mark key="[" line="52" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/pojo/MedHistory.java" timestamp="1537519421708" />
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/util/JavaType.java" timestamp="1534498821445">
         <mark key="[" line="92" column="42" />
         <mark key="]" line="93" column="0" />
@@ -1124,8 +1135,8 @@
       <jump line="152" column="27" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>200</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>200</text>
@@ -1137,36 +1148,36 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgbm93ID0gbmV3IERhdGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlGYW1pbHkgZmFtaWx5ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgbm93ID0gbmV3IERhdGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQlGYW1pbHkgZmFtaWx5ID0gbnVsbDsK</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiAoZmFtaWx5ICE9IG51bGwpIHsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAgICAgICAgLy9UT0RPCg==</text>
+        <text encoding="base64">CQlpZiAoZmFtaWx5ICE9IG51bGwpIHsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CSAgICAgICAgLy9UT0RPCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>insert into bhhx.patient_daily_log(patient_id, rec_date, log_type, log_value, data_status, expectedPEF, create_time, update_time) values
         (select r.userwx, r.date, 93, r.nightvalue, 1,  if(u.sex = '男', height * 5.29 - 427.1, height * 4.96 - 399.8) expectedPEF, now(), now()
         from rec_pef r join baseinfo_user_bhhx u on u.id = r.userwx where u.id = #{patientId</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">dHJ5IHsKCQkJCQkJZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQkJCQkJcmV0dXJuIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
