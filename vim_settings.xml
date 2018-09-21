@@ -766,18 +766,18 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/test/com/example/demo/controller/HelloTest.java" timestamp="1535013259104">
         <mark key="[" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1537509313220">
-        <mark key="[" line="1091" column="35" />
-        <mark key="]" line="1091" column="35" />
-        <mark key="." line="1091" column="35" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1537513444860">
+        <mark key="[" line="479" column="13" />
+        <mark key="]" line="1105" column="35" />
+        <mark key="." line="1105" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
         <mark key="[" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1537509693519">
-        <mark key="[" line="222" column="76" />
-        <mark key="]" line="222" column="76" />
-        <mark key="." line="222" column="76" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1537512838732">
+        <mark key="[" line="227" column="22" />
+        <mark key="]" line="227" column="23" />
+        <mark key="." line="227" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/controller/WuhuaUserController.java" timestamp="1536400875805">
         <mark key="[" line="83" column="49" />
@@ -1125,10 +1125,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>1245</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>1245</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
