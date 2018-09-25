@@ -23,7 +23,7 @@
       <file name="/Maven Project.txt.ft" timestamp="1533109069540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorBookRecordServiceImpl.java" timestamp="1536048094735">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorBookRecordServiceImpl.java" timestamp="1537865153851">
         <mark key="[" line="265" column="34" />
         <mark key="]" line="265" column="34" />
         <mark key="." line="265" column="34" />
@@ -943,6 +943,7 @@
         <mark key="]" line="46" column="65" />
         <mark key="." line="46" column="65" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorBookRecord.java" timestamp="1537864736720" />
       <file name="$USER_HOME$/code/test/demo/src/main/java/com/example/demo/HelloController.java" timestamp="1534753355036">
         <mark key="[" line="1" column="0" />
       </file>
