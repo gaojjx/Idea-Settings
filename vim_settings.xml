@@ -508,8 +508,8 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537525122436">
-        <mark key="[" line="0" column="2" />
+      <file name="/Dummy.txt" timestamp="1537862058009">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
@@ -742,8 +742,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ChatLogServiceImpl.java" timestamp="1537522609053">
-        <mark key="[" line="126" column="60" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ChatLogServiceImpl.java" timestamp="1537861947031">
+        <mark key="[" line="147" column="40" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/src/main/java/com/yirdoc/util/image/ImageUtil.java" timestamp="1535015762827">
         <mark key="[" line="23" column="31" />
@@ -1125,8 +1127,8 @@
       <jump line="152" column="27" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>图文咨询保存文本消息</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8JICAgICAgICAgICAgICAgIGJvb2xlYW4gYiA9IEFtclRvTXAzLmNvbnZlcnRUb01wMyhtZWRpYURvd25sb2FkLmdldEFic29sdXRlUGF0aCgpLCBtcDMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>图文咨询保存文本消息</text>
@@ -1138,34 +1140,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkgICAgICAgIG1lZGljYWxIaXN0b3J5LmdldERvY3Rvck5hbWUoKQo=</text>
+        <text encoding="base64">Ly8JICAgICAgICAgICAgICAgIGJvb2xlYW4gYiA9IEFtclRvTXAzLmNvbnZlcnRUb01wMyhtZWRpYURvd25sb2FkLmdldEFic29sdXRlUGF0aCgpLCBtcDMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CSAgICAgICAgaWYgKGFjdGlvblBsYW5NZWRpY2luZUxpc3QgIT0gbnVsbCkgewoKCSAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkgICAgICAgIG1lZGljYWxIaXN0b3J5LmdldERvY3Rvck5hbWUoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAgICAgaWYgKGFjdGlvblBsYW5NZWRpY2luZUxpc3QgIT0gbnVsbCkgewoKCSAgICAgICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgbm93ID0gbmV3IERhdGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlGYW1pbHkgZmFtaWx5ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgbm93ID0gbmV3IERhdGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQlGYW1pbHkgZmFtaWx5ID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlpZiAoZmFtaWx5ICE9IG51bGwpIHsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAgICAgICAgLy9UT0RPCg==</text>
+        <text encoding="base64">CQlpZiAoZmFtaWx5ICE9IG51bGwpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">CSAgICAgICAgLy9UT0RPCg==</text>
       </register>
     </registers>
     <search>
