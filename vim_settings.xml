@@ -263,9 +263,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/BasicPayModel.java" timestamp="1536829809871">
         <mark key="[" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceChatModel.java" timestamp="1533192070837">
-        <mark key="[" line="14" column="28" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ServiceEvaluateMapper.xml" timestamp="1535445301848">
         <mark key="[" line="133" column="0" />
         <mark key="]" line="133" column="0" />
@@ -503,7 +500,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537934460978">
+      <file name="/Dummy.txt" timestamp="1537951161501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -880,6 +877,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorController.java" timestamp="1537950248039">
+        <mark key="[" line="193" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/TaskSchedulerConfig.java" timestamp="1536551307903">
         <mark key="[" line="10" column="34" />
       </file>
@@ -1044,6 +1044,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
         <mark key="[" line="52" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/jiawa/jiawayun/src/main/webapp/static/scripts/demandFormManageBackV2.js" timestamp="1537950850413" />
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/util/JavaType.java" timestamp="1534498821445">
         <mark key="[" line="92" column="42" />
         <mark key="]" line="93" column="0" />
@@ -1135,11 +1136,11 @@
       <jump line="152" column="27" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QEltcG9ydFJlc291cmNlKERvY3RvckNvbmZpZ3VyYXRpb24uY2xhc3MpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RGF0ZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>doctorQR.getAbsolutePath();</text>
+        <text encoding="base64">RGF0ZSA=</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
