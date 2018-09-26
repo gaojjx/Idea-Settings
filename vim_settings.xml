@@ -679,10 +679,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientDailyLogController.java" timestamp="1537425165735">
         <mark key="[" line="45" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ServiceChatServiceImpl.java" timestamp="1537931355772">
-        <mark key="[" line="238" column="52" />
-        <mark key="]" line="274" column="31" />
-        <mark key="." line="274" column="31" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ServiceChatServiceImpl.java" timestamp="1537932326251">
+        <mark key="[" line="241" column="34" />
+        <mark key="]" line="241" column="34" />
+        <mark key="." line="241" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/FamilyCardMapperTest.java" timestamp="1536656780898">
         <mark key="[" line="26" column="27" />
@@ -752,6 +752,11 @@
         <mark key="[" line="23" column="31" />
         <mark key="]" line="23" column="31" />
         <mark key="." line="23" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/DoctorServiceImplTest.java" timestamp="1537932902526">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="8" />
+        <mark key="." line="21" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/weixinlib/pom.xml" timestamp="1536644418108">
         <mark key="[" line="7" column="13" />
@@ -1130,10 +1135,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Date();</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>new Date();</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -1142,34 +1147,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JICAgICAgICAgICAgICAgIGJvb2xlYW4gYiA9IEFtclRvTXAzLmNvbnZlcnRUb01wMyhtZWRpYURvd25sb2FkLmdldEFic29sdXRlUGF0aCgpLCBtcDMpOwo=</text>
+        <text encoding="base64">CQlhc3NlcnRUcnVlKHd4TXBRckNvZGVUaWNrZXQuZ2V0VXJsKCkgIT0gbnVsbCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkgICAgICAgIG1lZGljYWxIaXN0b3J5LmdldERvY3Rvck5hbWUoKQo=</text>
+        <text encoding="base64">Ly8JICAgICAgICAgICAgICAgIGJvb2xlYW4gYiA9IEFtclRvTXAzLmNvbnZlcnRUb01wMyhtZWRpYURvd25sb2FkLmdldEFic29sdXRlUGF0aCgpLCBtcDMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAgICAgICAgaWYgKGFjdGlvblBsYW5NZWRpY2luZUxpc3QgIT0gbnVsbCkgewoKCSAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkgICAgICAgIG1lZGljYWxIaXN0b3J5LmdldERvY3Rvck5hbWUoKQo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAgICAgICAgaWYgKGFjdGlvblBsYW5NZWRpY2luZUxpc3QgIT0gbnVsbCkgewoKCSAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgbm93ID0gbmV3IERhdGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlGYW1pbHkgZmFtaWx5ID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbERhdGUgbm93ID0gbmV3IERhdGUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQlGYW1pbHkgZmFtaWx5ID0gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoZmFtaWx5ICE9IG51bGwpIHsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICAgICAgLy9UT0RPCg==</text>
+        <text encoding="base64">CQlpZiAoZmFtaWx5ICE9IG51bGwpIHsK</text>
       </register>
     </registers>
     <search>
