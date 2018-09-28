@@ -1058,10 +1058,10 @@
         <mark key="]" line="30" column="69" />
         <mark key="." line="30" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/logback-spring.xml" timestamp="1538106447691">
-        <mark key="[" line="180" column="11" />
-        <mark key="]" line="171" column="26" />
-        <mark key="." line="171" column="26" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/logback-spring.xml" timestamp="1538113155686">
+        <mark key="[" line="182" column="36" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1534249447371">
         <mark key="[" line="0" column="0" />
@@ -1098,10 +1098,10 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1538106664889">
-        <mark key="[" line="96" column="14" />
-        <mark key="]" line="36" column="20" />
-        <mark key="." line="36" column="20" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1538113461000">
+        <mark key="[" line="96" column="7" />
+        <mark key="]" line="96" column="9" />
+        <mark key="." line="96" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1537866779373">
         <mark key="[" line="37" column="33" />
@@ -1187,11 +1187,11 @@
       <jump line="152" column="27" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>nmys.view</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8cm9vdCBsZXZlbD0iaW5mbyIvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>nmys.view</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -1200,34 +1200,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0gbmFtZeeahOWAvOaYr+WPmOmHj+eahOWQjeensO+8jHZhbHVl55qE5YC85pe25Y+Y6YeP5a6a5LmJ55qE5YC844CC6YCa6L+H5a6a5LmJ55qE5YC85Lya6KKr5o+S5YWl5YiwbG9nZ2Vy5LiK5LiL5paH5Lit44CC5a6a5LmJ5Y+Y6YeP5ZCO77yM5Y+v5Lul5L2/4oCcJHt94oCd5p2l5L2/55So5Y+Y6YeP44CCIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICA8cm9vdCBsZXZlbD0iaW5mbyIvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJsb2cucGF0aCIgdmFsdWU9IkQ6L25teXNsb2cvbm15cyIgLz4K</text>
+        <text encoding="base64">ICAgIDwhLS0gbmFtZeeahOWAvOaYr+WPmOmHj+eahOWQjeensO+8jHZhbHVl55qE5YC85pe25Y+Y6YeP5a6a5LmJ55qE5YC844CC6YCa6L+H5a6a5LmJ55qE5YC85Lya6KKr5o+S5YWl5YiwbG9nZ2Vy5LiK5LiL5paH5Lit44CC5a6a5LmJ5Y+Y6YeP5ZCO77yM5Y+v5Lul5L2/4oCcJHt94oCd5p2l5L2/55So5Y+Y6YeP44CCIC0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmaWxlOgogICAgbWF4LXNpemU6IDFNQgo=</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0eSBuYW1lPSJsb2cucGF0aCIgdmFsdWU9IkQ6L25teXNsb2cvbm15cyIgLz4K</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBmaWxlOgogICAgbWF4LXNpemU6IDFNQgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuYmhoeC5kb2N0b3IuZW50aXR5LlBhdGllbnRHcm91cE1vZGVsOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZnJvbSBjaGF0X2xvZyBjbAogICAgICAgIGpvaW4g</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Pgo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBSZXN1bHRUPERvY3Rvcj4gcmVzdWx0VDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">QEltcG9ydFJlc291cmNlKERvY3RvckNvbmZpZ3VyYXRpb24uY2xhc3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
