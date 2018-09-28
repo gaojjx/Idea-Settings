@@ -216,8 +216,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/AliPayServiceImpl.java" timestamp="1534131273761">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorPatientGroupMapper.xml" timestamp="1538038657521">
-        <mark key="[" line="218" column="72" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorPatientGroupMapper.xml" timestamp="1538098602602">
+        <mark key="[" line="183" column="152" />
         <mark key="]" line="218" column="72" />
         <mark key="." line="218" column="72" />
       </file>
@@ -526,7 +526,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538039348530">
+      <file name="/Dummy.txt" timestamp="1538098620816">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
