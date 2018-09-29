@@ -155,6 +155,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/ServiceEvaluate.java" timestamp="1535617398270">
         <mark key="[" line="29" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/pojo/MedRecord.java" timestamp="1538183652177" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Application_localhost.http" timestamp="1535598856751">
         <mark key="[" line="25" column="36" />
         <mark key="]" line="25" column="36" />
@@ -1006,6 +1007,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/DoctorService.java" timestamp="1537968884201">
         <mark key="[" line="80" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/MedicalRecord.java" timestamp="1538183663014">
+        <mark key="[" line="2" column="28" />
       </file>
       <file name="$USER_HOME$/code/test/demo/src/main/java/com/example/demo/HelloController.java" timestamp="1534753355036">
         <mark key="[" line="1" column="0" />
