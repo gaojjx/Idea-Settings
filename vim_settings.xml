@@ -304,7 +304,11 @@
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1538270161788" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1538289236755">
+        <mark key="[" line="309" column="17" />
+        <mark key="]" line="309" column="17" />
+        <mark key="." line="309" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536736390926">
         <mark key="[" line="218" column="5" />
       </file>
@@ -1249,10 +1253,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Date();</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>new Date();</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
