@@ -703,10 +703,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BaseInfoGuomin.java" timestamp="1537328977853">
         <mark key="[" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1537431907239">
-        <mark key="[" line="189" column="37" />
-        <mark key="]" line="189" column="37" />
-        <mark key="." line="189" column="37" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1538287498867">
+        <mark key="[" line="268" column="28" />
+        <mark key="]" line="268" column="28" />
+        <mark key="." line="268" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebSocketEventListener.java" timestamp="1535447730099">
         <mark key="[" line="1" column="0" />
@@ -1249,10 +1249,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>new Date();</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>new Date();</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
