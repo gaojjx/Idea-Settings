@@ -194,10 +194,13 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorTodo.java" timestamp="1535082643813">
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="54" column="17" />
-        <mark key="." line="54" column="17" />
+      <file name="/a.sql" timestamp="1538292821382">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorTodo.java" timestamp="1538293395959">
+        <mark key="[" line="55" column="17" />
+        <mark key="]" line="55" column="17" />
+        <mark key="." line="55" column="17" />
       </file>
       <file name="$USER_HOME$/code/demo/pom.xml" timestamp="1534317651023">
         <mark key="[" line="24" column="22" />
@@ -213,7 +216,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/WuhuaCubicServiceImplTest.java" timestamp="1536026665762">
         <mark key="[" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/Generator.java" timestamp="1538291348003">
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/Generator.java" timestamp="1538292430170">
         <mark key="[" line="79" column="76" />
         <mark key="]" line="88" column="69" />
         <mark key="." line="88" column="69" />
@@ -553,6 +556,9 @@
         <mark key="]" line="48" column="12" />
         <mark key="." line="48" column="12" />
       </file>
+      <file name="/dummy.sql" timestamp="1538292854834">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1538127383840">
         <mark key="[" line="43" column="59" />
       </file>
@@ -561,7 +567,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538279662604">
+      <file name="/Dummy.txt" timestamp="1538293157868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -770,10 +776,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientWeeklyReportMapper.xml" timestamp="1534752016014">
         <mark key="[" line="158" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1538291746715">
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1538292951594">
         <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="50" />
-        <mark key="." line="9" column="50" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/DoctorModel.java" timestamp="1535684874745">
         <mark key="[" line="36" column="28" />
@@ -1034,6 +1040,7 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorTodoType.java" timestamp="1538293414563" />
       <file name="/ActionScript File Header.txt.ft" timestamp="1533109030897">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1076,6 +1083,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/README.md" timestamp="1536738939172">
         <mark key="[" line="0" column="7" />
+      </file>
+      <file name="/bhhx.doctor_todo_type [rds]" timestamp="1538292726896">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/WuhuaCubicMapper.xml" timestamp="1536025450021">
         <mark key="[" line="134" column="27" />
@@ -1246,10 +1256,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Date()</text>
+        <text>user,doctor</text>
       </register>
       <register name="-" type="4">
-        <text>new Date()</text>
+        <text>user,doctor</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
