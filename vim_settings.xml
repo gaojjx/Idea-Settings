@@ -554,7 +554,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538977180336">
+      <file name="/Dummy.txt" timestamp="1538984181168">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -750,10 +750,10 @@
         <mark key="]" line="26" column="27" />
         <mark key="." line="26" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/FollowUpGroupUserMapper.xml" timestamp="1537953803540">
-        <mark key="[" line="162" column="63" />
-        <mark key="]" line="159" column="15" />
-        <mark key="." line="159" column="15" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/FollowUpGroupUserMapper.xml" timestamp="1538984152953">
+        <mark key="[" line="163" column="81" />
+        <mark key="]" line="163" column="81" />
+        <mark key="." line="163" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PayNotificationController.java" timestamp="1534128089859">
         <mark key="[" line="16" column="4" />
@@ -1236,10 +1236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data</text>
+        <text encoding="base64">d2hlcmUg</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">d2hlcmUg</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
