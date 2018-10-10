@@ -557,7 +557,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539143450840">
+      <file name="/Dummy.txt" timestamp="1539146362981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1035,11 +1035,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/FamilyController.java" timestamp="1539144127975">
-        <mark key="[" line="246" column="51" />
-        <mark key="]" line="241" column="42" />
-        <mark key="^" line="224" column="31" />
-        <mark key="." line="241" column="42" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/FamilyController.java" timestamp="1539144505907">
+        <mark key="[" line="243" column="115" />
+        <mark key="]" line="243" column="115" />
+        <mark key="^" line="225" column="31" />
+        <mark key="." line="243" column="115" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/CardTypeServiceImplTest.java" timestamp="1538039330198">
         <mark key="[" line="12" column="0" />
@@ -1255,10 +1255,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text>, @RequestBody PayDoctorCardModel payDoctorCardModel,</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>, @RequestBody PayDoctorCardModel payDoctorCardModel,</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
