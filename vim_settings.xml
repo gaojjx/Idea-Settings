@@ -557,7 +557,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539149812680">
+      <file name="/Dummy.txt" timestamp="1539170740340">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -805,10 +805,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1535439910265">
         <mark key="[" line="84" column="94" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/pom.xml" timestamp="1539166315183">
-        <mark key="[" line="105" column="52" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/pom.xml" timestamp="1539166626270">
+        <mark key="'" line="105" column="38" />
+        <mark key="[" line="93" column="17" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpArticleServiceImpl.java" timestamp="1537234469469">
         <mark key="[" line="48" column="77" />
@@ -1035,8 +1036,8 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/FamilyController.java" timestamp="1539144505907">
-        <mark key="[" line="243" column="115" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/FamilyController.java" timestamp="1539170640044">
+        <mark key="[" line="62" column="30" />
         <mark key="]" line="243" column="115" />
         <mark key="^" line="225" column="31" />
         <mark key="." line="243" column="115" />
@@ -1258,10 +1259,11 @@
       <jump line="152" column="27" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupServiceImpl.java" />
       <jump line="159" column="45" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupUserServiceImpl.java" />
       <jump line="70" column="34" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" />
+      <jump line="105" column="38" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4K</text>
       </register>
       <register name="-" type="4">
         <text>, @RequestBody PayDoctorCardModel payDoctorCardModel,</text>
@@ -1273,13 +1275,13 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmaW5hbCBTaG9ydCBvcmRlclR5cGUgPSBwYXlEb2N0b3JDYXJkTW9kZWwuZ2V0T3JkZXJUeXBlKCk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZG9jdG9yQ2FyZE1vZGVsLmdldENhcmRUeXBlKCkgIT0gMSAmJiBkb2N0b3JDYXJkTW9kZWwuZ2V0UHJpY2UoKSA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRUPD4oNDAwLCAi5Y+q6IO95r+A5rS75YWN6LS55Yy755Sf5Y2hIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CQlmaW5hbCBTaG9ydCBvcmRlclR5cGUgPSBwYXlEb2N0b3JDYXJkTW9kZWwuZ2V0T3JkZXJUeXBlKCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
@@ -1288,15 +1290,15 @@
         <text encoding="base64">ICAgICAgICBpZiAoZG9jdG9yQ2FyZE1vZGVsLmdldENhcmRUeXBlKCkgIT0gMSAmJiBkb2N0b3JDYXJkTW9kZWwuZ2V0UHJpY2UoKSA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRUPD4oNDAwLCAi5Y+q6IO95r+A5rS75YWN6LS55Yy755Sf5Y2hIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZG9jdG9yQ2FyZE1vZGVsLmdldENhcmRUeXBlKCkgIT0gMSAmJiBkb2N0b3JDYXJkTW9kZWwuZ2V0UHJpY2UoKSA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRUPD4oNDAwLCAi5Y+q6IO95r+A5rS75YWN6LS55Yy755Sf5Y2hIik7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>if (familyCard.getPayFlag() == 1) {
             return new ResultBasic(401, &quot;需要支付才能激活&quot;);
         }</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
