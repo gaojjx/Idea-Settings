@@ -650,7 +650,7 @@
         <mark key="]" line="112" column="32" />
         <mark key="." line="112" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1539227968130">
+      <file name="/fragment.java" timestamp="1539229286713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -854,10 +854,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/test/com/example/demo/controller/HelloTest.java" timestamp="1535013259104">
         <mark key="[" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1539228379397">
-        <mark key="[" line="532" column="17" />
-        <mark key="]" line="560" column="42" />
-        <mark key="." line="560" column="42" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1539229356996">
+        <mark key="[" line="516" column="53" />
+        <mark key="]" line="516" column="58" />
+        <mark key="." line="516" column="58" />
+        <mark key="^" line="516" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
         <mark key="[" line="26" column="5" />
