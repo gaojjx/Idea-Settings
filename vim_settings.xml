@@ -557,7 +557,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539239770182">
+      <file name="/Dummy.txt" timestamp="1539241574314">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -576,7 +576,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientGroupMemberMapper.java" timestamp="1536307693186">
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1539142989973">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1539241159040">
         <mark key="[" line="199" column="47" />
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
@@ -608,10 +608,10 @@
         <mark key="]" line="67" column="33" />
         <mark key="." line="67" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyCardServiceImpl.java" timestamp="1539141956711">
-        <mark key="[" line="55" column="134" />
-        <mark key="]" line="55" column="134" />
-        <mark key="." line="55" column="134" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyCardServiceImpl.java" timestamp="1539242450447">
+        <mark key="[" line="208" column="29" />
+        <mark key="]" line="56" column="134" />
+        <mark key="." line="56" column="134" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/WeixinQRModel.java" timestamp="1533203093713">
         <mark key="[" line="2" column="28" />
@@ -887,10 +887,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1539240210126">
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="29" column="74" />
-        <mark key="." line="29" column="74" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1539242236171">
+        <mark key="[" line="34" column="63" />
+        <mark key="]" line="34" column="63" />
+        <mark key="." line="34" column="63" />
       </file>
       <file name="/RegExp Fragment (WeixinPayServiceImpl.java:1668).regexp" timestamp="1534146709579">
         <mark key="[" line="0" column="0" />
@@ -1261,10 +1261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>购买doctor_id:[%s]的卡doctor_card_id:</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>购买doctor_id:[%s]的卡doctor_card_id:</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
