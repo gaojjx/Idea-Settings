@@ -559,7 +559,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539250795637">
+      <file name="/Dummy.txt" timestamp="1539258427211">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1221,6 +1221,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/WxTemplateService.java" timestamp="1538013773034">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorMapper.java" timestamp="1539258504923" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
         <mark key="[" line="5" column="0" />
       </file>
