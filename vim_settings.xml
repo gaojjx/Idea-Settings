@@ -557,7 +557,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539225750730">
+      <file name="/Dummy.txt" timestamp="1539239770182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -719,10 +719,10 @@
         <mark key="[" line="2" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1539141571640">
-        <mark key="[" line="613" column="31" />
-        <mark key="]" line="613" column="31" />
-        <mark key="^" line="617" column="36" />
-        <mark key="." line="613" column="31" />
+        <mark key="[" line="638" column="31" />
+        <mark key="]" line="638" column="31" />
+        <mark key="^" line="642" column="36" />
+        <mark key="." line="638" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebSocketEventListener.java" timestamp="1535447730099">
         <mark key="[" line="1" column="0" />
@@ -887,8 +887,8 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1536655560045">
-        <mark key="[" line="29" column="74" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1539240210126">
+        <mark key="[" line="30" column="5" />
         <mark key="]" line="29" column="74" />
         <mark key="." line="29" column="74" />
       </file>
@@ -1201,10 +1201,10 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/BillOrderServiceImpl.java" timestamp="1539142876450">
-        <mark key="[" line="153" column="42" />
-        <mark key="]" line="148" column="21" />
-        <mark key="." line="148" column="21" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/BillOrderServiceImpl.java" timestamp="1539239676199">
+        <mark key="[" line="147" column="42" />
+        <mark key="]" line="152" column="92" />
+        <mark key="." line="152" column="92" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/weixinlib/src/main/java/util/HttpsUtil.java" timestamp="1536567431702">
         <mark key="[" line="10" column="0" />
@@ -1261,10 +1261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>购买doctor_id:[%s]的卡doctor_card_id:</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>购买doctor_id:[%s]的卡doctor_card_id:</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
