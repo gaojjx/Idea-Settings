@@ -856,8 +856,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/test/com/example/demo/controller/HelloTest.java" timestamp="1535013259104">
         <mark key="[" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1539223524042">
-        <mark key="[" line="494" column="73" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1539224736238">
+        <mark key="[" line="505" column="35" />
+        <mark key="]" line="505" column="35" />
+        <mark key="." line="505" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
         <mark key="[" line="26" column="5" />
@@ -1259,11 +1261,11 @@
       <jump line="105" column="38" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>doctor.getId());</text>
       </register>
       <register name="-" type="4">
-        <text>, @RequestBody PayDoctorCardModel payDoctorCardModel,</text>
+        <text>doctor.getId());</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
