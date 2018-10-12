@@ -223,9 +223,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/AliPayServiceImpl.java" timestamp="1534131273761">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorPatientGroupMapper.xml" timestamp="1539225516817">
-        <mark key="]" line="222" column="72" />
-        <mark key="." line="222" column="72" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorPatientGroupMapper.xml" timestamp="1539314937962">
+        <mark key="[" line="180" column="31" />
+        <mark key="]" line="180" column="31" />
+        <mark key="." line="180" column="31" />
+        <mark key="^" line="180" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/UserFamilyModel.java" timestamp="1539056144904">
         <mark key="[" line="8" column="27" />
@@ -559,7 +561,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539312554272">
+      <file name="/Dummy.txt" timestamp="1539314938799">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -969,9 +971,10 @@
         <mark key="]" line="33" column="64" />
         <mark key="." line="33" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/PatientGroupModel.java" timestamp="1539250727783">
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/PatientGroupModel.java" timestamp="1539314221627">
+        <mark key="[" line="13" column="12" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorController.java" timestamp="1539056568125">
         <mark key="[" line="263" column="11" />
@@ -1267,11 +1270,11 @@
       <jump line="171" column="16" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorCardMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">5Yy755Sf56uv5oKj6ICF5YiX6KGo6L+U5Zue5oKj6ICF5Y2haWQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TG9uZyA=</text>
       </register>
       <register name="-" type="4">
-        <text>医生端患者列表返回患者卡id</text>
+        <text encoding="base64">TG9uZyA=</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
