@@ -783,7 +783,6 @@
         <mark key="]" line="9" column="33" />
         <mark key="." line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/DoctorModel.java" timestamp="1539226491291" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientMedicalHistoryMapper.java" timestamp="1537519825992">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -827,10 +826,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ChatLogServiceImpl.java" timestamp="1539071354862">
-        <mark key="[" line="191" column="27" />
-        <mark key="]" line="191" column="27" />
-        <mark key="." line="191" column="27" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ChatLogServiceImpl.java" timestamp="1539308515134">
+        <mark key="[" line="185" column="57" />
+        <mark key="]" line="185" column="57" />
+        <mark key="." line="185" column="57" />
         <mark key="^" line="140" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/src/main/java/com/yirdoc/util/image/ImageUtil.java" timestamp="1535015762827">
@@ -1221,7 +1220,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/WxTemplateService.java" timestamp="1538013773034">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorMapper.java" timestamp="1539258504923" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
         <mark key="[" line="5" column="0" />
       </file>
@@ -1270,10 +1268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DataStatus</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>DataStatus</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
