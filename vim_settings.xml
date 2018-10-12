@@ -559,7 +559,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539310127370">
+      <file name="/Dummy.txt" timestamp="1539312554272">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1267,11 +1267,11 @@
       <jump line="171" column="16" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorCardMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">5Yy755Sf56uv5oKj6ICF5YiX6KGo6L+U5Zue5oKj6ICF5Y2haWQK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>医生端患者列表返回患者卡id</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -1279,37 +1279,35 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">5Yy755Sf56uv5oKj6ICF5YiX6KGo6L+U5Zue5oKj6ICF5Y2haWQK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">CgkvKioKCSAqIG5hbWUuCgkgKi8KCXByaXZhdGUgU3RyaW5nIG5hbWU7CgoKCS8qKgoJICogbG9naW5OYW1lLgoJICovCglwcml2YXRlIFN0cmluZyBsb2dpbk5hbWU7CgoKCS8qKgoJICogcGFzc3dvcmQuCgkgKi8KCXByaXZhdGUgU3RyaW5nIHBhc3N3b3JkOwoKCgkvKioKCSAqIGhvc3BpdGFsSWQuCgkgKi8KCXByaXZhdGUgTG9uZyBob3NwaXRhbElkOwoKCXByaXZhdGUgU3RyaW5nIGhvc3BpdGFsTmFtZTsKCS8qKgoJICogaW1nVXJsLgoJICovCglwcml2YXRlIFN0cmluZyBpbWdVcmw7CgkvKioKCSAqIGRvY3RvclJvbGUuCgkgKi8KCXByaXZhdGUgU2hvcnQgZG9jdG9yUm9s</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJfQo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4K</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmaW5hbCBTaG9ydCBvcmRlclR5cGUgPSBwYXlEb2N0b3JDYXJkTW9kZWwuZ2V0T3JkZXJUeXBlKCk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZG9jdG9yQ2FyZE1vZGVsLmdldENhcmRUeXBlKCkgIT0gMSAmJiBkb2N0b3JDYXJkTW9kZWwuZ2V0UHJpY2UoKSA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRUPD4oNDAwLCAi5Y+q6IO95r+A5rS75YWN6LS55Yy755Sf5Y2hIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CQlmaW5hbCBTaG9ydCBvcmRlclR5cGUgPSBwYXlEb2N0b3JDYXJkTW9kZWwuZ2V0T3JkZXJUeXBlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZG9jdG9yQ2FyZE1vZGVsLmdldENhcmRUeXBlKCkgIT0gMSAmJiBkb2N0b3JDYXJkTW9kZWwuZ2V0UHJpY2UoKSA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRUPD4oNDAwLCAi5Y+q6IO95r+A5rS75YWN6LS55Yy755Sf5Y2hIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZG9jdG9yQ2FyZE1vZGVsLmdldENhcmRUeXBlKCkgIT0gMSAmJiBkb2N0b3JDYXJkTW9kZWwuZ2V0UHJpY2UoKSA+IDApIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXN1bHRUPD4oNDAwLCAi5Y+q6IO95r+A5rS75YWN6LS55Yy755Sf5Y2hIik7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>if (familyCard.getPayFlag() == 1) {
-            return new ResultBasic(401, &quot;需要支付才能激活&quot;);
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
     </registers>
     <search>
