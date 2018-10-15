@@ -575,7 +575,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539593189440">
+      <file name="/Dummy.txt" timestamp="1539594762621">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -862,10 +862,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/test/com/example/demo/controller/HelloTest.java" timestamp="1535013259104">
         <mark key="[" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1539592909475">
-        <mark key="[" line="240" column="9" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1539594681222">
+        <mark key="[" line="466" column="109" />
+        <mark key="]" line="466" column="109" />
+        <mark key="." line="466" column="109" />
+        <mark key="^" line="452" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
         <mark key="[" line="26" column="5" />
@@ -1286,11 +1287,11 @@
       <jump line="226" column="36" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CSAgICBmaW5hbCBMb25nIGZhbWlseUludml0ZXJEb2N0b3JJZCA9IHVzZXJGYW1pbHlNb2RlbC5nZXRGYW1pbHlJbnZpdGVyRG9jdG9ySWQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>H</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>H</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
