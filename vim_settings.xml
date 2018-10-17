@@ -668,12 +668,15 @@
         <mark key="]" line="90" column="15" />
         <mark key="." line="90" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientAllergyItemMapperTest.java" timestamp="1539743282433">
+        <mark key="[" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorAccountServiceImpl.java" timestamp="1537423293318">
         <mark key="[" line="112" column="32" />
         <mark key="]" line="112" column="32" />
         <mark key="." line="112" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1539670533388">
+      <file name="/fragment.java" timestamp="1539743275655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -873,10 +876,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/test/com/example/demo/controller/HelloTest.java" timestamp="1535013259104">
         <mark key="[" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1539740259464">
-        <mark key="[" line="359" column="85" />
-        <mark key="]" line="228" column="27" />
-        <mark key="." line="228" column="27" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1539743372608">
+        <mark key="[" line="1268" column="33" />
+        <mark key="]" line="1268" column="33" />
+        <mark key="." line="1268" column="33" />
         <mark key="^" line="452" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
@@ -1311,10 +1314,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>g</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
