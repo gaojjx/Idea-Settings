@@ -588,7 +588,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539762950662">
+      <file name="/Dummy.txt" timestamp="1539831941532">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -710,8 +710,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" timestamp="1539828580525">
-        <mark key="[" line="65" column="31" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" timestamp="1539832813350">
+        <mark key="[" line="68" column="40" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
@@ -884,16 +884,17 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/test/com/example/demo/controller/HelloTest.java" timestamp="1535013259104">
         <mark key="[" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1539829193320">
-        <mark key="[" line="248" column="60" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1539832994926">
+        <mark key="[" line="263" column="39" />
+        <mark key="]" line="312" column="23" />
+        <mark key="." line="312" column="23" />
+        <mark key="^" line="312" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
         <mark key="[" line="26" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1539828377131">
-        <mark key="[" line="230" column="43" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1539831213777">
+        <mark key="[" line="223" column="137" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/controller/WuhuaUserController.java" timestamp="1536400875805">
         <mark key="[" line="83" column="49" />
@@ -1318,10 +1319,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Long userId</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -1330,34 +1331,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuWvvOWFpeeUqOaIt+aVsOaNriIsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJICAgICAgICAgICAvLyDoh6rlrprkuYnmlofmnKzmj4/ov7AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuWvvOWFpeeUqOaIt+aVsOaNriIsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJNjgK</text>
+        <text encoding="base64">CQkJICAgICAgICAgICAvLyDoh6rlrprkuYnmlofmnKzmj4/ov7AK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJd3hNcFNlcnZpY2UuZ2V0UXJjb2RlU2VydmljZSgpLnFyQ29kZVBpY3R1cmVVcmwoKQo=</text>
+        <text encoding="base64">CQkJNjgK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbAo=</text>
+        <text encoding="base64">CQkJd3hNcFNlcnZpY2UuZ2V0UXJjb2RlU2VydmljZSgpLnFyQ29kZVBpY3R1cmVVcmwoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAgICBmaW5hbCBMb25nIGZhbWlseUludml0ZXJEb2N0b3JJZCA9IHVzZXJGYW1pbHlNb2RlbC5nZXRGYW1pbHlJbnZpdGVyRG9jdG9ySWQoKTsK</text>
+        <text encoding="base64">CUBBcGlNb2RlbAo=</text>
       </register>
     </registers>
     <search>
