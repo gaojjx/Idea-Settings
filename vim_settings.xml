@@ -919,10 +919,10 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1539246516431">
-        <mark key="[" line="34" column="63" />
-        <mark key="]" line="34" column="63" />
-        <mark key="." line="34" column="63" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1539844685163">
+        <mark key="[" line="22" column="86" />
+        <mark key="]" line="22" column="86" />
+        <mark key="." line="22" column="86" />
       </file>
       <file name="/RegExp Fragment (WeixinPayServiceImpl.java:1668).regexp" timestamp="1534146709579">
         <mark key="[" line="0" column="0" />
@@ -1322,11 +1322,11 @@
       <jump line="125" column="36" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorCardController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+      <register name="&quot;" type="4">
+        <text>3L</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>3L</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
