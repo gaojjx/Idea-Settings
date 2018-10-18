@@ -76,6 +76,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/DoctorTodoModel.java" timestamp="1537147333784">
         <mark key="[" line="2" column="29" />
       </file>
+      <file name="/WeChatMenuRedirectController.java" timestamp="1539834376211" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorTodoController.java" timestamp="1538881998822">
         <mark key="[" line="25" column="12" />
       </file>
@@ -588,7 +589,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539831941532">
+      <file name="/Dummy.txt" timestamp="1539834533870">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -885,10 +886,10 @@
         <mark key="[" line="19" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1539832994926">
-        <mark key="[" line="263" column="39" />
-        <mark key="]" line="312" column="23" />
-        <mark key="." line="312" column="23" />
-        <mark key="^" line="312" column="23" />
+        <mark key="[" line="261" column="39" />
+        <mark key="]" line="310" column="23" />
+        <mark key="." line="310" column="23" />
+        <mark key="^" line="310" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
         <mark key="[" line="26" column="5" />
