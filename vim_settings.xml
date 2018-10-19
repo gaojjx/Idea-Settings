@@ -257,10 +257,11 @@
         <mark key="]" line="41" column="9" />
         <mark key="." line="41" column="9" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/ChatLogServiceImpl.java" timestamp="1539916503524">
-        <mark key="[" line="212" column="50" />
-        <mark key="]" line="199" column="12" />
-        <mark key="." line="199" column="12" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/ChatLogServiceImpl.java" timestamp="1539919041835">
+        <mark key="[" line="228" column="22" />
+        <mark key="]" line="228" column="22" />
+        <mark key="." line="228" column="22" />
+        <mark key="^" line="228" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/ArticleController.java" timestamp="1537231866840">
         <mark key="[" line="36" column="19" />
@@ -617,8 +618,10 @@
         <mark key="]" line="198" column="0" />
         <mark key="." line="198" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/ServiceChatController.java" timestamp="1539912695038">
-        <mark key="[" line="131" column="5" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/ServiceChatController.java" timestamp="1539918772122">
+        <mark key="[" line="142" column="4" />
+        <mark key="]" line="140" column="15" />
+        <mark key="." line="140" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatProperties.java" timestamp="1536645300507">
         <mark key="[" line="88" column="16" />
@@ -743,8 +746,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorMapper.xml" timestamp="1539316799565">
         <mark key="[" line="191" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/ChatLogController.java" timestamp="1538035151320">
-        <mark key="[" line="34" column="30" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/ChatLogController.java" timestamp="1539918834774">
+        <mark key="[" line="100" column="5" />
         <mark key="]" line="34" column="30" />
         <mark key="." line="34" column="30" />
       </file>
@@ -1051,8 +1054,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ServiceEvaluateMapper.java" timestamp="1535445332974">
         <mark key="[" line="29" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/ChatLogService.java" timestamp="1539912941628">
-        <mark key="[" line="68" column="50" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/ChatLogService.java" timestamp="1539918916539">
+        <mark key="[" line="75" column="42" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
@@ -1325,10 +1328,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>list.stream().collect(Collectors.groupingBy(Dictionary::getType)))</text>
+        <text>getByChatId(chatLogId)</text>
       </register>
       <register name="-" type="4">
-        <text>list.stream().collect(Collectors.groupingBy(Dictionary::getType)))</text>
+        <text>getByChatId(chatLogId)</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -1337,34 +1340,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCQo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuWvvOWFpeeUqOaIt+aVsOaNriIsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJICAgICAgICAgICAvLyDoh6rlrprkuYnmlofmnKzmj4/ov7AK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyLmluZm8oIuWvvOWFpeeUqOaIt+aVsOaNriIsKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJNjgK</text>
+        <text encoding="base64">CQkJICAgICAgICAgICAvLyDoh6rlrprkuYnmlofmnKzmj4/ov7AK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJd3hNcFNlcnZpY2UuZ2V0UXJjb2RlU2VydmljZSgpLnFyQ29kZVBpY3R1cmVVcmwoKQo=</text>
+        <text encoding="base64">CQkJNjgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBBcGlNb2RlbAo=</text>
+        <text encoding="base64">CQkJd3hNcFNlcnZpY2UuZ2V0UXJjb2RlU2VydmljZSgpLnFyQ29kZVBpY3R1cmVVcmwoKQo=</text>
       </register>
     </registers>
     <search>
