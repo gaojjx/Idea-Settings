@@ -339,8 +339,10 @@
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1540190137664">
-        <mark key="[" line="225" column="21" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1540191533890">
+        <mark key="[" line="226" column="31" />
+        <mark key="]" line="226" column="31" />
+        <mark key="." line="226" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536736390926">
         <mark key="[" line="218" column="5" />
@@ -611,7 +613,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540180056711">
+      <file name="/Dummy.txt" timestamp="1540191550384">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -738,10 +740,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" timestamp="1539832813350">
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" timestamp="1540191407025">
+        <mark key="[" line="77" column="28" />
+        <mark key="]" line="77" column="28" />
+        <mark key="." line="77" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/BillOrderMapper.java" timestamp="1534145518410">
         <mark key="[" line="28" column="41" />
@@ -1349,10 +1351,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
