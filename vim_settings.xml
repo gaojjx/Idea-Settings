@@ -247,6 +247,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/AliPayServiceImpl.java" timestamp="1534131273761">
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/controller/admin/LoginController.java" timestamp="1540283450955" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorPatientGroupMapper.xml" timestamp="1539315970664">
         <mark key="[" line="180" column="31" />
         <mark key="]" line="214" column="41" />
@@ -407,6 +408,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/basicPayModel.java" timestamp="1534140709610">
         <mark key="[" line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/Application.java" timestamp="1540281947087">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebSocketController.java" timestamp="1535449331820">
         <mark key="[" line="19" column="1" />
         <mark key="]" line="26" column="0" />
@@ -519,6 +525,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/ServiceChatController.java" timestamp="1539931529175">
         <mark key="[" line="118" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/controller/UserController.java" timestamp="1540281806239">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Application.http" timestamp="1539056859250">
         <mark key="[" line="145" column="34" />
         <mark key="]" line="145" column="34" />
@@ -593,8 +604,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/Appliction.java" timestamp="1540274310864">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/SwaggerConfig.java" timestamp="1535419572335">
-        <mark key="[" line="19" column="12" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/SwaggerConfig.java" timestamp="1540282672414">
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
@@ -747,6 +757,9 @@
       <file name="$USER_HOME$/code/test/demo/src/main/resources/application.properties" timestamp="1534754654948">
         <mark key="[" line="0" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/service/impl/UserServiceImpl.java" timestamp="1540281540574">
+        <mark key="[" line="10" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/BillOrderService.java" timestamp="1536740904558">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -832,6 +845,7 @@
         <mark key="]" line="204" column="90" />
         <mark key="." line="204" column="90" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/config/SwaggerConfig.java" timestamp="1540282533821" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ServiceChatMapper.java" timestamp="1533792272027">
         <mark key="[" line="40" column="81" />
         <mark key="]" line="36" column="53" />
@@ -979,7 +993,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1539844685163">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1540280381486">
         <mark key="[" line="22" column="86" />
         <mark key="]" line="22" column="86" />
         <mark key="." line="22" column="86" />
@@ -1178,10 +1192,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/CardServiceMapper.xml" timestamp="1536051613251">
         <mark key="[" line="117" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/application.yml" timestamp="1540274251902">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="3" column="40" />
-        <mark key="." line="3" column="40" />
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/application.yml" timestamp="1540283679370">
+        <mark key="[" line="37" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SuggestionController.java" timestamp="1538990058819">
         <mark key="[" line="53" column="34" />
@@ -1389,10 +1401,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>servlet:
+    path: /ap</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -1400,35 +1413,36 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHRoaXMuaW5zZXJ0KGNoYXRMb2cpOwo=</text>
+      <register name="1" type="4">
+        <text>servlet:
+    path: /ap</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWd1cmF0aW9uOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIHRoaXMuaW5zZXJ0KGNoYXRMb2cpOwo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuT0JKX0FEQVBURVI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4Lmpzb24uSnNvbk9iamVjdDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hbGliYWJhLmZhc3Rqc29uLkpTT047Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgICAgPHNjb3BlPnN5c3RlbTwvc2NvcGU+CgkJICAgIDxzeXN0ZW1QYXRoPiR7YmFzZWRpcn0vc3JjL21haW4vd2ViYXBwL1dFQi1JTkYvbGliL3NmLXNlY3VyaXR5LTEuMC4wLjMuamFyPC9zeXN0ZW1QYXRoPgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vbWcuQ09SQkEuT0JKX0FEQVBURVI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uZGVwbG95LnV0aWwuU3RyaW5nVXRpbHM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4Lmpzb24uSnNvbk9iamVjdDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5sYW5nMy5TdHJpbmdVdGlsczsK</text>
+        <text encoding="base64">CQkgICAgPHNjb3BlPnN5c3RlbTwvc2NvcGU+CgkJICAgIDxzeXN0ZW1QYXRoPiR7YmFzZWRpcn0vc3JjL21haW4vd2ViYXBwL1dFQi1JTkYvbGliL3NmLXNlY3VyaXR5LTEuMC4wLjMuamFyPC9zeXN0ZW1QYXRoPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFjdGl2ZUNoYXRCeURvY3RvcklkLnN0cmVhbSgpLmZpbHRlcihjaGF0IC0+IGNoYXQ6OikK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uZGVwbG95LnV0aWwuU3RyaW5nVXRpbHM7Cg==</text>
       </register>
     </registers>
     <search>
