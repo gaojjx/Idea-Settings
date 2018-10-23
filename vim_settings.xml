@@ -151,6 +151,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebsocketEndpoint.java" timestamp="1535596201818">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorBookCalendarController.java" timestamp="1540288361002" />
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-boot-1.0.0-pom.xml" timestamp="1536653034800">
         <mark key="[" line="22" column="65" />
         <mark key="]" line="22" column="65" />
@@ -680,6 +681,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/config/DataSourceConfig.java" timestamp="1538290950904">
         <mark key="[" line="15" column="20" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookCalendarScheduleMapper.xml" timestamp="1540287539114" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientTagService.java" timestamp="1534398926518">
         <mark key="[" line="60" column="48" />
       </file>
@@ -856,6 +858,7 @@
         <mark key="]" line="61" column="24" />
         <mark key="." line="61" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/DoctorBookCalendarServiceImpl.java" timestamp="1540288402999" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientDailyLogController.java" timestamp="1537425165735">
         <mark key="[" line="45" column="30" />
       </file>
@@ -998,6 +1001,7 @@
         <mark key="]" line="22" column="86" />
         <mark key="." line="22" column="86" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/DoctorBookCalendarScheduleServiceImpl.java" timestamp="1540287522500" />
       <file name="/RegExp Fragment (WeixinPayServiceImpl.java:1668).regexp" timestamp="1534146709579">
         <mark key="[" line="0" column="0" />
       </file>
