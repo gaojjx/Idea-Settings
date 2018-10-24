@@ -9,8 +9,8 @@
       <file name="/a.dummy" timestamp="1540277750033">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/bhhx-doctor-pc/src/main/resources/druid.properties" timestamp="1540348706682">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-doctor-pc/src/main/resources/druid.properties" timestamp="1540350304295">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/ArticleController.java" timestamp="1537241916039">
         <mark key="[" line="35" column="12" />
@@ -107,6 +107,11 @@
         <mark key="[" line="29" column="50" />
         <mark key="]" line="46" column="14" />
         <mark key="." line="46" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-doctor-pc/src/main/resources/applicationContext.xml" timestamp="1540350320607">
+        <mark key="[" line="9" column="50" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TagServiceImpl.java" timestamp="1534405725283">
         <mark key="[" line="90" column="5" />
@@ -622,7 +627,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540348730742">
+      <file name="/Dummy.txt" timestamp="1540350363439">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1259,6 +1264,11 @@
       <file name="/bhhx.doctor_card [rds]" timestamp="1539669099617">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-doctor-pc/src/main/resources/log4j.properties" timestamp="1540350580598">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="17" />
+        <mark key="." line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
         <mark key="[" line="52" column="28" />
       </file>
@@ -1267,7 +1277,7 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1540345395654">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1540349053322">
         <mark key="[" line="23" column="64" />
         <mark key="]" line="41" column="18" />
         <mark key="." line="41" column="18" />
@@ -1362,10 +1372,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
