@@ -960,7 +960,7 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1540362985024">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1540375406944">
         <mark key="[" line="22" column="90" />
         <mark key="]" line="22" column="90" />
         <mark key="." line="22" column="90" />
@@ -1370,10 +1370,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
