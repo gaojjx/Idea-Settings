@@ -339,9 +339,11 @@
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1540432597590">
-        <mark key="[" line="103" column="47" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1540434658555">
+        <mark key="[" line="102" column="52" />
+        <mark key="]" line="102" column="52" />
         <mark key="^" line="93" column="34" />
+        <mark key="." line="102" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536736390926">
         <mark key="[" line="218" column="5" />
@@ -1379,11 +1381,11 @@
       <jump line="198" column="63" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/ServiceChatMapper.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCS5ldmVudEtleSgiIikK</text>
+      <register name="&quot;" type="4">
+        <text>getrContent();</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>getrContent();</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
