@@ -339,11 +339,11 @@
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1540436294153">
-        <mark key="[" line="109" column="35" />
-        <mark key="]" line="109" column="34" />
-        <mark key="^" line="109" column="34" />
-        <mark key="." line="109" column="34" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1540438590757">
+        <mark key="[" line="104" column="43" />
+        <mark key="]" line="104" column="42" />
+        <mark key="^" line="117" column="34" />
+        <mark key="." line="104" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536736390926">
         <mark key="[" line="218" column="5" />
@@ -629,7 +629,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540436556724">
+      <file name="/Dummy.txt" timestamp="1540439020631">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1382,10 +1382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>SUBSCRIBE</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>SUBSCRIBE</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
