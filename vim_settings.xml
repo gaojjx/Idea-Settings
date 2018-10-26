@@ -127,8 +127,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/PatientTagMapper.xml" timestamp="1538038537945">
         <mark key="[" line="122" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/FamilyCardMapper.java" timestamp="1539244761061">
-        <mark key="[" line="36" column="158" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/FamilyCardMapper.java" timestamp="1540533359662">
+        <mark key="[" line="38" column="170" />
         <mark key="]" line="34" column="24" />
         <mark key="." line="34" column="24" />
       </file>
@@ -164,7 +164,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/ChatLogService.java" timestamp="1537942536444">
         <mark key="[" line="16" column="33" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-mp/3.1.0/weixin-java-mp-3.1.0-sources.jar!/me/chanjar/weixin/mp/api/WxMpMessageRouter.java" timestamp="1540519889579" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/RestTemplateConfig.java" timestamp="1539936767504">
         <mark key="[" line="11" column="32" />
         <mark key="]" line="11" column="32" />
@@ -391,10 +390,10 @@
       <file name="/JSON Fragment (WebSocketEndpoint.java:1034).json" timestamp="1535610690619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/FamilyCardMapper.xml" timestamp="1539245140583">
-        <mark key="[" line="202" column="30" />
-        <mark key="]" line="202" column="30" />
-        <mark key="." line="202" column="30" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/FamilyCardMapper.xml" timestamp="1540533680650">
+        <mark key="[" line="206" column="8" />
+        <mark key="]" line="206" column="8" />
+        <mark key="." line="206" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/ProductProperties.java" timestamp="1535336136551">
         <mark key="[" line="7" column="4" />
@@ -594,10 +593,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/Appliction.java" timestamp="1540274310864">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/SwaggerConfig.java" timestamp="1540282672414">
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientMedicalHistoryServiceImpl.java" timestamp="1532748456867">
         <mark key="[" line="36" column="69" />
       </file>
@@ -607,7 +602,8 @@
       <file name="$USER_HOME$/code/test/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1534753857417">
         <mark key="[" line="8" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyCardService.java" timestamp="1540525377010">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyCardService.java" timestamp="1540532543259">
+        <mark key="[" line="142" column="4" />
         <mark key="]" line="77" column="7" />
         <mark key="." line="77" column="7" />
       </file>
@@ -681,14 +677,13 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1540389885815">
         <mark key="[" line="75" column="21" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-mp/3.1.0/weixin-java-mp-3.1.0-sources.jar!/me/chanjar/weixin/mp/api/impl/WxMpUserServiceImpl.java" timestamp="1540460921318" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardService.java" timestamp="1539140613516">
         <mark key="[" line="141" column="7" />
         <mark key="]" line="67" column="33" />
         <mark key="." line="67" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyCardServiceImpl.java" timestamp="1540524919325">
-        <mark key="[" line="205" column="9" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyCardServiceImpl.java" timestamp="1540532859739">
+        <mark key="[" line="334" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/WeixinQRModel.java" timestamp="1533203093713">
         <mark key="[" line="2" column="28" />
@@ -1068,7 +1063,6 @@
         <mark key="]" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-utils-weixin/1.0.0-SNAPSHOT/yirdoc-utils-weixin-1.0.0-20180925.062642-1.jar!/util/AmrToMp3.class" timestamp="1540388801479" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/TaskSchedulerConfig.java" timestamp="1536551307903">
         <mark key="[" line="10" column="34" />
       </file>
@@ -1267,7 +1261,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1534249447371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/weixinlib/src/main/java/util/AmrToMp3.java" timestamp="1540388863336" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/WechatService.java" timestamp="1534845444078">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="13" column="0" />
@@ -1408,10 +1401,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text encoding="base64">PGlmIHRlc3Q9ImNhcmRTdGF0dXMgIT1udWxsIj4KICAgICAgICAgICAgY2FyZF9zdGF0dXM9I3tjYXJkU3RhdHVzfSwKICAgICAgICA8L2lmPgogICAgICAgIDxpZiB0ZXN0PSJleHBpcmVUaW1lICE9bnVsbCI+CiAgICAgICAgICAgIGV4cGlyZV90aW1lPSN7ZXhwaXJlVGltZX0sCiAgICAgICAgPC9pZj4KICAgICAgICA8aWYgdGVzdD0icGF5RmxhZyAhPW51bGwiPgogICAgICAgICAgICBwYXlfZmxhZz0je3BheUZsYWd9LAogICAgICAgIDwvaWY+CiAgICAgICAgPGlmIHRlc3Q9ImRhdGFTdGF0dXMgIT1udWxsIj4KICAgICAgICAgICAgZGF0YV9zdGF0dXM9I3tkYXRhU3RhdHVzfSwKICAgICAgICA8L2lmPgogICAgICAgIDxpZiB0ZXN0PSJjcmVhdGVUaW1lICE9bnVsbCI+CiAgICAgICAgICAgIGNyZWF0ZV90aW1lPSN7Y3JlYXRlVGltZX0sCiAgICAgICAgPC9pZj4KICAgICAgICA8aWYgdGVzdD0idXBkYXRlVGltZSAhPW51bGwiPgogICAgICAgICAgICB1cGRhdGVfdGltZT0je3VwZGF0ZVRpbWV9LAogICAgICAgIDwvaWY+CiAgICAgICAgdXBkYXRlX3RpbWUgPSBub3coKQogICAgICAgIHdoZXJlIGlkPSN7aWR9IGFuZCBkYXRhX3N0YXR1cyAhPSA=</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -1419,35 +1412,35 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQl1c2VyU2VydmljZS5hZGROZXdVc2VyQnlPcGVuSWQodW5pb25JZCkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGlmIHRlc3Q9ImNhcmRTdGF0dXMgIT1udWxsIj4KICAgICAgICAgICAgY2FyZF9zdGF0dXM9I3tjYXJkU3RhdHVzfSwKICAgICAgICA8L2lmPgogICAgICAgIDxpZiB0ZXN0PSJleHBpcmVUaW1lICE9bnVsbCI+CiAgICAgICAgICAgIGV4cGlyZV90aW1lPSN7ZXhwaXJlVGltZX0sCiAgICAgICAgPC9pZj4KICAgICAgICA8aWYgdGVzdD0icGF5RmxhZyAhPW51bGwiPgogICAgICAgICAgICBwYXlfZmxhZz0je3BheUZsYWd9LAogICAgICAgIDwvaWY+CiAgICAgICAgPGlmIHRlc3Q9ImRhdGFTdGF0dXMgIT1udWxsIj4KICAgICAgICAgICAgZGF0YV9zdGF0dXM9I3tkYXRhU3RhdHVzfSwKICAgICAgICA8L2lmPgogICAgICAgIDxpZiB0ZXN0PSJjcmVhdGVUaW1lICE9bnVsbCI+CiAgICAgICAgICAgIGNyZWF0ZV90aW1lPSN7Y3JlYXRlVGltZX0sCiAgICAgICAgPC9pZj4KICAgICAgICA8aWYgdGVzdD0idXBkYXRlVGltZSAhPW51bGwiPgogICAgICAgICAgICB1cGRhdGVfdGltZT0je3VwZGF0ZVRpbWV9LAogICAgICAgIDwvaWY+CiAgICAgICAgdXBkYXRlX3RpbWUgPSBub3coKQogICAgICAgIHdoZXJlIGlkPSN7aWR9IGFuZCBkYXRhX3N0YXR1cyAhPSA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">CQl1c2VyU2VydmljZS5hZGROZXdVc2VyQnlPcGVuSWQodW5pb25JZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJlc3VsdEJhc2ljIG1lcmdlVW5pb25Vc2VyKFN0cmluZyB1bmlvbklkKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJlc3VsdEJhc2ljIG1lcmdlVW5pb25Vc2VyKFN0cmluZyB1bmlvbklkKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQoKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQoKCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFJlc3VsdEJhc2ljIHRyYW5zZmVyVXNlcihMb25nIHVzZXJJZCkgewoJCXJldHVybiBudWxsOwoJfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
