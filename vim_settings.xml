@@ -405,7 +405,6 @@
         <mark key="]" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="/SfRecordMapper.xml" timestamp="1540633852482" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebSocketController.java" timestamp="1535449331820">
         <mark key="[" line="19" column="1" />
         <mark key="]" line="26" column="0" />
@@ -1016,7 +1015,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WxCpConfiguration.java" timestamp="1534838363075">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="/application.yml" timestamp="1540778650864" />
       <file name="/JSON Fragment (CallBackController.java:5745).json" timestamp="1536290884457">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1298,8 +1296,10 @@
         <mark key="." line="48" column="25" />
         <mark key="^" line="41" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1540778821925">
-        <mark key="[" line="36" column="15" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1540792604873">
+        <mark key="[" line="20" column="16" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/WechatInMemoryConfigStorage.java" timestamp="1534845398049">
         <mark key="[" line="10" column="0" />
@@ -1389,11 +1389,11 @@
       <jump line="0" column="0" filename="/fragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>gBqfdDF3urGw2XBfh85poKm6SwExIxcRN4yfovPAOiU</text>
       </register>
       <register name="-" type="4">
-        <text>, false</text>
+        <text>gBqfdDF3urGw2XBfh85poKm6SwExIxcRN4yfovPAOiU</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
