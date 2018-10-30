@@ -509,12 +509,12 @@
       <file name="$USER_HOME$/chat_log.sql" timestamp="1538015923736">
         <mark key="[" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/ServiceChatServiceImpl.java" timestamp="1540867393882">
-        <mark key="'" line="102" column="21" />
-        <mark key="[" line="318" column="44" />
-        <mark key="]" line="318" column="44" />
-        <mark key="." line="318" column="44" />
-        <mark key="^" line="314" column="8" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/ServiceChatServiceImpl.java" timestamp="1540870705091">
+        <mark key="'" line="103" column="21" />
+        <mark key="[" line="324" column="32" />
+        <mark key="]" line="324" column="32" />
+        <mark key="." line="324" column="32" />
+        <mark key="^" line="324" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientAllergyItemMapper.xml" timestamp="1539739299969">
         <mark key="[" line="134" column="22" />
@@ -845,10 +845,10 @@
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1540868176575">
-        <mark key="[" line="264" column="21" />
-        <mark key="]" line="239" column="90" />
-        <mark key="." line="239" column="90" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1540870445074">
+        <mark key="[" line="231" column="12" />
+        <mark key="]" line="231" column="12" />
+        <mark key="." line="231" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ServiceChatMapper.java" timestamp="1533792272027">
         <mark key="[" line="40" column="81" />
@@ -1416,10 +1416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>chatLogMapper.getLastReadChatLogTime(chatLog.getChatId());</text>
+        <text>serviceChat</text>
       </register>
       <register name="-" type="4">
-        <text>chatLogMapper.getLastReadChatLogTime(chatLog.getChatId());</text>
+        <text>serviceChat</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -1428,13 +1428,13 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IChzZWxlY3QgY2wuY2hhdF9pZCwgbWF4KG1lc3NhZ2VfdGltZSkgbWVzc2FnZV90aW1lIGZyb20gY2hhdF9sb2cgY2wgZ3JvdXAgYnkgY2wuY2hhdF9pZCkgYwogICAgICAgIGpvaQ==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">QERlbGV0ZU1hcHBpbmcoIi97aWR9IikKCQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
@@ -1452,10 +1452,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCW9wdGlvbmFsU2ZSZWNvcmQuaXNQcmVzZW50KCkK</text>
+        <text encoding="base64">CQkK</text>
       </register>
     </registers>
     <search>
