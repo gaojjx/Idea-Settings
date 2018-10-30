@@ -656,13 +656,16 @@
       <file name="/dummy.sql" timestamp="1539669104805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1538127383840">
-        <mark key="[" line="43" column="59" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1540889277256">
+        <mark key="[" line="40" column="105" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/impl/WechatServiceImpl.java" timestamp="1534846079185">
         <mark key="[" line="10" column="70" />
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1540889307902">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
         <mark key="[" line="117" column="4" />
@@ -843,8 +846,8 @@
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1540877585744">
-        <mark key="[" line="231" column="12" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1540889245079">
+        <mark key="[" line="267" column="34" />
         <mark key="]" line="231" column="12" />
         <mark key="." line="231" column="12" />
       </file>
