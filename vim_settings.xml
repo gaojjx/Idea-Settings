@@ -653,15 +653,15 @@
       <file name="/dummy.sql" timestamp="1539669104805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1540889277256">
-        <mark key="[" line="40" column="105" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1541040881496">
+        <mark key="[" line="26" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/impl/WechatServiceImpl.java" timestamp="1534846079185">
         <mark key="[" line="10" column="70" />
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541039151853">
+      <file name="/Dummy.txt" timestamp="1541040932642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -1325,10 +1325,10 @@
         <mark key="^" line="114" column="36" />
         <mark key="." line="114" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1540978436199">
-        <mark key="[" line="85" column="16" />
-        <mark key="]" line="85" column="16" />
-        <mark key="." line="85" column="16" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1541040776861">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="91" column="16" />
+        <mark key="." line="91" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/wechat/WechatInMemoryConfigStorage.java" timestamp="1534845398049">
         <mark key="[" line="10" column="0" />
