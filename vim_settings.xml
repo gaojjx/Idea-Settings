@@ -538,6 +538,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/Test.java" timestamp="1540795326964">
         <mark key="[" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/TransferUserServiceImplTest.java" timestamp="1541143440754">
+        <mark key="[" line="30" column="68" />
+        <mark key="]" line="30" column="68" />
+        <mark key="." line="30" column="68" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/controller/UserController.java" timestamp="1540281806239">
         <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="5" />
@@ -755,7 +760,7 @@
         <mark key="]" line="112" column="32" />
         <mark key="." line="112" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1540879066014">
+      <file name="/fragment.java" timestamp="1541143183813">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientGroupController.java" timestamp="1536314464349">
@@ -1179,7 +1184,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/DoctorService.java" timestamp="1537968884201">
         <mark key="[" line="80" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/TransferUserServiceTest.java" timestamp="1540521359410">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/TransferUserServiceTest.java" timestamp="1541143214398">
         <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/code/springBootDemo/src/test/java/com/example/demo/mapper/EmojiMapperTest.java" timestamp="1539327744302">
@@ -1417,10 +1422,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
