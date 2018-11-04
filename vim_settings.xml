@@ -660,7 +660,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541140968893">
+      <file name="/Dummy.txt" timestamp="1541296809014">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -838,8 +838,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1540877306205">
         <mark key="[" line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TransferUserServiceImpl.java" timestamp="1541292248081">
-        <mark key="[" line="34" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TransferUserServiceImpl.java" timestamp="1541296807239">
+        <mark key="[" line="1218" column="9" />
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
       </file>
@@ -971,8 +971,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FengChaoService.java" timestamp="1540523832963">
         <mark key="[" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1541294476543">
-        <mark key="[" line="227" column="49" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1541296205537">
+        <mark key="[" line="229" column="6" />
+        <mark key="]" line="229" column="6" />
+        <mark key="." line="229" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/controller/WuhuaUserController.java" timestamp="1536400875805">
         <mark key="[" line="83" column="49" />
@@ -1416,10 +1418,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>123456</text>
+        <text>uwh.docterid = 29 and</text>
       </register>
       <register name="-" type="4">
-        <text>123456</text>
+        <text>uwh.docterid = 29 and</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
