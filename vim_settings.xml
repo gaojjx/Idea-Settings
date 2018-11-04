@@ -337,6 +337,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorTodoModel.java" timestamp="1538881319403">
         <mark key="[" line="7" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/Patient.java" timestamp="1541300528636">
+        <mark key="[" line="50" column="17" />
+        <mark key="]" line="56" column="12" />
+        <mark key="." line="56" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/SfRecordServiceImpl.java" timestamp="1540634276624">
         <mark key="[" line="107" column="63" />
         <mark key="]" line="111" column="0" />
@@ -838,10 +843,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1540877306205">
         <mark key="[" line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TransferUserServiceImpl.java" timestamp="1541296807239">
-        <mark key="[" line="1218" column="9" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TransferUserServiceImpl.java" timestamp="1541300647549">
+        <mark key="[" line="1201" column="31" />
+        <mark key="]" line="1225" column="50" />
+        <mark key="." line="1225" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/RecCact.java" timestamp="1537500741278">
         <mark key="[" line="6" column="14" />
@@ -1418,10 +1423,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uwh.docterid = 29 and</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>uwh.docterid = 29 and</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
