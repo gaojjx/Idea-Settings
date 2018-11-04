@@ -976,7 +976,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FengChaoService.java" timestamp="1540523832963">
         <mark key="[" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1541296205537">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1541301675179">
         <mark key="[" line="229" column="6" />
         <mark key="]" line="229" column="6" />
         <mark key="." line="229" column="6" />
@@ -1423,10 +1423,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>5420</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>5420</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
