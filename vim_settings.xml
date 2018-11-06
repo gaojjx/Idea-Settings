@@ -1172,6 +1172,9 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1533109030897">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/bhhx.sql" timestamp="1541490163786">
+        <mark key="'" line="20640" column="14" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImpl.java" timestamp="1534734910721">
         <mark key="[" line="95" column="20" />
       </file>
@@ -1420,6 +1423,7 @@
       <jump line="198" column="63" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/ServiceChatMapper.xml" />
       <jump line="0" column="0" filename="/fragment.java" />
       <jump line="88" column="21" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/ServiceChatServiceImpl.java" />
+      <jump line="20641" column="14" filename="$USER_HOME$/bhhx.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
