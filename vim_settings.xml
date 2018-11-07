@@ -367,11 +367,6 @@
         <mark key="]" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1541140517570">
-        <mark key="[" line="372" column="30" />
-        <mark key="]" line="372" column="30" />
-        <mark key="." line="372" column="30" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536736390926">
         <mark key="[" line="218" column="5" />
       </file>
@@ -1429,11 +1424,11 @@
       <jump line="118" column="59" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/thymeleaf/ThymeleafAutoConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5jbi5iaGh4LmVudGl0eS5BbGxlcmd5SW5mbzsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>demo</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
