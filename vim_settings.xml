@@ -51,8 +51,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/BillOrderMapper.xml" timestamp="1536109267630">
         <mark key="[" line="237" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTAuthenticationFilter.java" timestamp="1542000307384">
-        <mark key="[" line="2" column="37" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTAuthenticationFilter.java" timestamp="1542007517765">
+        <mark key="]" line="42" column="70" />
+        <mark key="^" line="42" column="70" />
+        <mark key="." line="42" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TagServiceImpl.java" timestamp="1534405725283">
         <mark key="[" line="90" column="5" />
@@ -255,7 +257,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1541040881496">
         <mark key="[" line="26" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1541835243002">
+      <file name="/Dummy.txt" timestamp="1542007885011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -309,7 +311,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientAllergyItemMapperTest.java" timestamp="1539743282433">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1542000303437">
+      <file name="/fragment.java" timestamp="1542006861739">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/UserPatitentModel.java" timestamp="1536821981535">
@@ -368,10 +370,11 @@
         <mark key="]" line="268" column="89" />
         <mark key="." line="268" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTLoginFilter.java" timestamp="1542004852654">
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="39" column="93" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTLoginFilter.java" timestamp="1542006681612">
+        <mark key="[" line="55" column="51" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="37" column="93" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientDailyLogController.java" timestamp="1537425165735">
         <mark key="[" line="45" column="30" />
@@ -490,8 +493,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyService.java" timestamp="1536736001095">
         <mark key="[" line="76" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542004147387">
-        <mark key="[" line="19" column="63" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542007539198">
+        <mark key="[" line="22" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/CardTypeServiceImplTest.java" timestamp="1538039330198">
         <mark key="[" line="12" column="0" />
