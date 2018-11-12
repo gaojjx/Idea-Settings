@@ -376,6 +376,11 @@
         <mark key="^" line="37" column="93" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/controller/LoginController.java" timestamp="1542009044243">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientDailyLogController.java" timestamp="1537425165735">
         <mark key="[" line="45" column="30" />
       </file>
@@ -669,11 +674,11 @@
       <jump line="30" column="41" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/TransferUserServiceImplTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCS5zaWduKCkK</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>With</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
