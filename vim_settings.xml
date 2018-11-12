@@ -501,8 +501,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyService.java" timestamp="1536736001095">
         <mark key="[" line="76" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542007539198">
-        <mark key="[" line="22" column="36" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542011993152">
+        <mark key="[" line="29" column="80" />
+        <mark key="]" line="23" column="44" />
+        <mark key="." line="23" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/CardTypeServiceImplTest.java" timestamp="1538039330198">
         <mark key="[" line="12" column="0" />
@@ -678,10 +680,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
