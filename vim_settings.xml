@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardModel.java" timestamp="1536047049568">
         <mark key="[" line="87" column="47" />
       </file>
-      <file name="/a.dummy" timestamp="1542014494815">
+      <file name="/a.dummy" timestamp="1542179100152">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-doctor-pc/src/main/resources/druid.properties" timestamp="1541401331300">
@@ -51,9 +51,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/BillOrderMapper.xml" timestamp="1536109267630">
         <mark key="[" line="237" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTAuthenticationFilter.java" timestamp="1542178133925">
-        <mark key="[" line="30" column="62" />
-        <mark key="^" line="56" column="108" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTAuthenticationFilter.java" timestamp="1542179229637">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="79" column="108" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TagServiceImpl.java" timestamp="1534405725283">
         <mark key="[" line="90" column="5" />
@@ -452,10 +454,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FengChaoService.java" timestamp="1540523832963">
         <mark key="[" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1541645011242">
-        <mark key="[" line="227" column="30" />
-        <mark key="]" line="227" column="30" />
-        <mark key="." line="227" column="30" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1542180347226">
+        <mark key="[" line="226" column="66" />
+        <mark key="]" line="226" column="66" />
+        <mark key="." line="226" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/controller/WuhuaUserController.java" timestamp="1536400875805">
         <mark key="[" line="83" column="49" />
@@ -532,8 +534,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyService.java" timestamp="1536736001095">
         <mark key="[" line="76" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542177985052">
-        <mark key="[" line="44" column="54" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542179252938">
+        <mark key="[" line="25" column="86" />
         <mark key="]" line="44" column="54" />
         <mark key="." line="44" column="54" />
         <mark key="^" line="40" column="97" />
@@ -597,11 +599,15 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorTodoTypeMapper.xml" timestamp="1538880330776">
         <mark key="[" line="4" column="34" />
       </file>
+      <file name="$USER_HOME$/code/springsecurity/src/main/java/cn/ssd/wean2016/springsecurity/config/WebSecurityConfig.java" timestamp="1542179172523" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorService.java" timestamp="1535709699863">
         <mark key="[" line="73" column="56" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorArticleController.java" timestamp="1537241933230">
         <mark key="[" line="33" column="22" />
+      </file>
+      <file name="/JSON Fragment (JWTAuthenticationFilter.java:2244).json" timestamp="1542178952370">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/Application.java" timestamp="1536743462980">
         <mark key="[" line="10" column="0" />
@@ -621,6 +627,9 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1534249447371">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/UserDetailsServiceImpl.java" timestamp="1542179454295">
+        <mark key="[" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorPatientGroupService.java" timestamp="1536314611674">
         <mark key="[" line="162" column="57" />
@@ -721,10 +730,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uthenticationFilter()</text>
+        <text>and</text>
       </register>
       <register name="-" type="4">
-        <text>uthenticationFilter()</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -733,35 +742,35 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBWYWx1ZSgiJHtzZWNyZXRLZXl9IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8JCXN1cGVyLmNvbmZpdGlvbk1hbmFnZXIoKSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>gure(http);
-//		http.apply(new JWTAuthenticationFilter(authentica</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8JCXN1cGVyLmNvbmZpdGlvbk1hbmFnZXIoKSkpOwo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>gure(http);
+//		http.apply(new JWTAuthenticationFilter(authentica</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyBKV1RBdXRoZW50aWNhdGlvbkZpbHRlcihTdHJpbmcgc2VjcmV0S2V5LCBBdXRoZW50aWNhdGlvbk1hbmFnZXIgYXV0aGVudGljYXRpb25NYW5hZ2VyKSB7CgkJdGhpcy5zZWNyZXRLZXkgPSBzZWNyZXRLZXk7CgkJdGhpcy5hdXRoZW50aWNhdGlvbk1hbmFnZXIgPSBhdXRoZW50aWNhdGlvbk1hbmFnZXI7Cgl9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXB1YmxpYyBKV1RBdXRoZW50aWNhdGlvbkZpbHRlcihTdHJpbmcgc2VjcmV0S2V5LCBBdXRoZW50aWNhdGlvbk1hbmFnZXIgYXV0aGVudGljYXRpb25NYW5hZ2VyKSB7CgkJdGhpcy5zZWNyZXRLZXkgPSBzZWNyZXRLZXk7CgkJdGhpcy5hdXRoZW50aWNhdGlvbk1hbmFnZXIgPSBhdXRoZW50aWNhdGlvbk1hbmFnZXI7Cgl9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBWYWx1ZSgiJHtzZWNyZXRLZXl9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">CUBWYWx1ZSgiJHtzZWNyZXRLZXl9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">CUBWYWx1ZSgiJHtzZWNyZXRLZXl9IikK</text>
       </register>
     </registers>
     <search>
