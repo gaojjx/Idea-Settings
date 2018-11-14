@@ -50,6 +50,10 @@
           <option name="url" value="git@gitee.com:micai/springboot-springsecurity-jwt-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:wean2016/springsecurity.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/code" />
