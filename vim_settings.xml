@@ -628,8 +628,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1534249447371">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/UserDetailsServiceImpl.java" timestamp="1542179454295">
-        <mark key="[" line="2" column="36" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/UserDetailsServiceImpl.java" timestamp="1542182430868">
+        <mark key="[" line="32" column="75" />
+        <mark key="]" line="32" column="75" />
+        <mark key="^" line="25" column="30" />
+        <mark key="." line="32" column="75" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorPatientGroupService.java" timestamp="1536314611674">
         <mark key="[" line="162" column="57" />
@@ -730,10 +733,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>and</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
