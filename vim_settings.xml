@@ -45,6 +45,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/util/TableUtil.java" timestamp="1541740394545">
         <mark key="[" line="412" column="44" />
       </file>
+      <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/service/impl/UserDetailsServiceImpl.java" timestamp="1542273180106">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="31" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/src/main/java/com/yirdoc/util/file/AmrToMp3.java" timestamp="1540388935598">
         <mark key="[" line="2" column="23" />
       </file>
@@ -57,11 +62,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/BillOrderMapper.xml" timestamp="1536109267630">
         <mark key="[" line="237" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTAuthenticationFilter.java" timestamp="1542258645168">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="89" column="55" />
-        <mark key="." line="89" column="55" />
-        <mark key="^" line="89" column="55" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTAuthenticationFilter.java" timestamp="1542270617841">
+        <mark key="[" line="95" column="73" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="87" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TagServiceImpl.java" timestamp="1534405725283">
         <mark key="[" line="90" column="5" />
@@ -127,10 +132,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/UserFamilyModel.java" timestamp="1539056144904">
         <mark key="[" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/security/WebSecurityConfig.java" timestamp="1542162379845">
-        <mark key="[" line="77" column="69" />
-        <mark key="]" line="65" column="8" />
-        <mark key="." line="65" column="8" />
+      <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/security/WebSecurityConfig.java" timestamp="1542272009579">
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="66" column="8" />
+        <mark key="." line="66" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/TestController.java" timestamp="1535611569067">
         <mark key="[" line="21" column="25" />
@@ -150,8 +155,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceTimeServiceImpl.java" timestamp="1533799686980">
         <mark key="[" line="117" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/UserDetailServiceImpl.java" timestamp="1542258578143">
-        <mark key="[" line="18" column="8" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/UserDetailServiceImpl.java" timestamp="1542268283954">
+        <mark key="[" line="36" column="9" />
         <mark key="]" line="39" column="13" />
         <mark key="^" line="39" column="8" />
         <mark key="." line="39" column="13" />
@@ -345,7 +350,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientAllergyItemMapperTest.java" timestamp="1539743282433">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1542250581323">
+      <file name="/fragment.java" timestamp="1542273912954">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/UserPatitentModel.java" timestamp="1536821981535">
@@ -362,6 +367,11 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" timestamp="1541039689108">
         <mark key="[" line="39" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/MyAccessDeniedHandler.java" timestamp="1542271676093">
+        <mark key="[" line="25" column="78" />
+        <mark key="]" line="25" column="78" />
+        <mark key="." line="25" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/BillOrderMapper.java" timestamp="1534145518410">
         <mark key="[" line="28" column="41" />
@@ -404,12 +414,13 @@
         <mark key="]" line="268" column="89" />
         <mark key="." line="268" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTLoginFilter.java" timestamp="1542176974097">
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="40" column="93" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTLoginFilter.java" timestamp="1542273891695">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="19" />
+        <mark key="^" line="38" column="93" />
+        <mark key="." line="24" column="19" />
       </file>
-      <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/controller/LoginController.java" timestamp="1542014037002">
+      <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/controller/LoginController.java" timestamp="1542273141990">
         <mark key="[" line="31" column="24" />
         <mark key="]" line="31" column="24" />
         <mark key="." line="31" column="24" />
@@ -460,6 +471,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/test/com/example/demo/controller/HelloTest.java" timestamp="1535013259104">
         <mark key="[" line="19" column="43" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/EntryPointUnauthorizedHandler.java" timestamp="1542270321593">
+        <mark key="[" line="35" column="76" />
+        <mark key="]" line="35" column="76" />
+        <mark key="." line="35" column="76" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
         <mark key="[" line="26" column="5" />
       </file>
@@ -504,10 +520,10 @@
       <file name="/JSON Fragment (CallBackController.java:5745).json" timestamp="1536290884457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorController.java" timestamp="1542250776090">
-        <mark key="[" line="49" column="68" />
-        <mark key="]" line="161" column="48" />
-        <mark key="." line="161" column="48" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorController.java" timestamp="1542268123701">
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/TaskSchedulerConfig.java" timestamp="1536551307903">
         <mark key="[" line="10" column="34" />
@@ -520,6 +536,12 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ServiceEvaluateReportMapper.java" timestamp="1535444136432">
         <mark key="[" line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/CustomAuthenticationProvider.java" timestamp="1542273817874">
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="27" column="4" />
+        <mark key="^" line="27" column="4" />
+        <mark key="." line="27" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/PatientMapper.xml" timestamp="1538209949814">
         <mark key="[" line="37" column="72" />
@@ -542,9 +564,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyService.java" timestamp="1536736001095">
         <mark key="[" line="76" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542264124500">
-        <mark key="[" line="22" column="4" />
-      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542274191913" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/CardTypeServiceImplTest.java" timestamp="1538039330198">
         <mark key="[" line="12" column="0" />
       </file>
@@ -618,7 +638,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/Dockerfile" timestamp="1539162392284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/service/impl/CustomAuthenticationProvider.java" timestamp="1542015520526">
+      <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/service/impl/CustomAuthenticationProvider.java" timestamp="1542272892778">
         <mark key="[" line="36" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/Test.java" timestamp="1533611332540">
@@ -658,10 +678,10 @@
         <mark key="]" line="147" column="14" />
         <mark key="." line="147" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1542264120545">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1542271378490">
+        <mark key="[" line="50" column="19" />
+        <mark key="]" line="50" column="17" />
+        <mark key="." line="50" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/UserFamilyModel.java" timestamp="1539592732615">
         <mark key="[" line="13" column="40" />
@@ -730,10 +750,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hasAnyRole</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>hasAnyRole</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
@@ -742,34 +762,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">CUBWYWx1ZSgiJHtzZWNyZXRLZXl9IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl0aGlzLmF1dGhlbnRpY2F0aW9uTWFuYWdlciA9IGF1dGhlbnRpY2F0aW9uTWFuYWdlcjsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgQXV0aGVudGljYXRpb25NYW5hZ2VyIGF1dGhlbnRpY2F0aW9uTWFuYWdlcjsK</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtzZWNyZXRLZXl9IikKICAgIHByaXZhdGUgU3RyaW5nIHNlY3JldEtleTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlqd3RBdXRoZW50aWNhdGlvbkZpbHRlci5zZXRBdXRoZW50aWNhdGlvbk1hbmFnZXIoYXV0aGVudGljYXRpb25NYW5hZ2VyQmVhbigpKTsKCQlqd3RBdXRoZW50aWNhdGlvbkZpbHRlci5zZXRTZWNyZXRLZXkoc2VjcmV0S2V5KTsK</text>
+        <text encoding="base64">c2VjdXJpdHk6Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">and0QXV0aGVudGljYXRpb25GaWx0ZXJCZWFuKCkpOwovLwkJ</text>
+      <register name="6" type="2">
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlqd3RBdXRoZW50aWNhdGlvbkZpbHRlci5zZXRBdXRoZW50aWNhdGlvbk1hbmFnZXIoYXV0aGVudGljYXRpb25NYW5hZ2VyQmVhbigpKTsK</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29yZS51c2VyZGV0YWlscy5Vc2VyRGV0YWlsc1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">CQl0aGlzLmF1dGhlbnRpY2F0aW9uTWFuYWdlciA9IGF1dGhlbnRpY2F0aW9uTWFuYWdlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkuCg==</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgQXV0aGVudGljYXRpb25NYW5hZ2VyIGF1dGhlbnRpY2F0aW9uTWFuYWdlcjsK</text>
       </register>
     </registers>
     <search>
