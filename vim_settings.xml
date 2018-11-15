@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardModel.java" timestamp="1536047049568">
         <mark key="[" line="87" column="47" />
       </file>
+      <file name="/JSON Fragment (JWTAuthenticationFilter.java:2957).json" timestamp="1542246364048">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1542179100152">
         <mark key="[" line="0" column="0" />
       </file>
@@ -51,8 +54,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/BillOrderMapper.xml" timestamp="1536109267630">
         <mark key="[" line="237" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTAuthenticationFilter.java" timestamp="1542244931309">
-        <mark key="[" line="85" column="108" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTAuthenticationFilter.java" timestamp="1542245938384">
+        <mark key="[" line="88" column="108" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TagServiceImpl.java" timestamp="1534405725283">
         <mark key="[" line="90" column="5" />
