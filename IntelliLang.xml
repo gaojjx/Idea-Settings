@@ -6,7 +6,7 @@
     </injection>
     <injection language="JSON" injector-id="java">
       <display-name>PrintWriter (java.io)</display-name>
-      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("println").withParameters("java.lang.String").definedInClass("java.io.PrintWriter"))]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("println").withParameters("java.lang.String").definedInClass("java.io.PrintWriter"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("write").withParameters("java.lang.String").definedInClass("java.io.PrintWriter"))]]></place>
     </injection>
   </component>
