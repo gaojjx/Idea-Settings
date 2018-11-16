@@ -351,7 +351,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientAllergyItemMapperTest.java" timestamp="1539743282433">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1542273912954">
+      <file name="/fragment.java" timestamp="1542339828829">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/UserPatitentModel.java" timestamp="1536821981535">
@@ -416,8 +416,8 @@
         <mark key="]" line="268" column="89" />
         <mark key="." line="268" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTLoginFilter.java" timestamp="1542338110186">
-        <mark key="[" line="24" column="19" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTLoginFilter.java" timestamp="1542340050238">
+        <mark key="[" line="40" column="90" />
         <mark key="]" line="24" column="19" />
         <mark key="^" line="38" column="93" />
         <mark key="." line="24" column="19" />
@@ -660,6 +660,7 @@
       <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/filter/JWTLoginFilter.java" timestamp="1542162354870">
         <mark key="[" line="41" column="19" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.6.RELEASE/spring-security-core-5.0.6.RELEASE-sources.jar!/org/springframework/security/authentication/ProviderManager.java" timestamp="1542339802142" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorTodoServiceImplTest.java" timestamp="1533542767687">
         <mark key="[" line="30" column="82" />
       </file>
