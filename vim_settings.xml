@@ -19,6 +19,7 @@
         <mark key="]" line="63" column="23" />
         <mark key="." line="63" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientDailyLogMapper.xml" timestamp="1542350130464" />
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/Generator.java" timestamp="1541740319525">
         <mark key="[" line="79" column="76" />
         <mark key="]" line="88" column="69" />
@@ -59,7 +60,7 @@
         <mark key="]" line="25" column="78" />
         <mark key="." line="25" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TransferUserServiceImpl.java" timestamp="1542338246957" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TransferUserServiceImpl.java" timestamp="1542350032814" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1541827772157">
         <mark key="[" line="268" column="89" />
         <mark key="]" line="268" column="89" />
