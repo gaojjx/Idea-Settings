@@ -220,6 +220,11 @@
       <file name="$USER_HOME$/git-demo/.gitignore" timestamp="1541815634120">
         <mark key="[" line="30" column="6" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/pom.xml" timestamp="1542607093084">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/Test.java" timestamp="1540795326964">
         <mark key="[" line="2" column="19" />
       </file>
@@ -712,11 +717,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/JWTAuthenticationFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5zaWduV2l0aChrZXksIFNpZ25hdHVyZUFsZ29yaXRobS5FUzUxMikK</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>authen</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>doctor_card</text>
