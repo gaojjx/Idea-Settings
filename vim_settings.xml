@@ -246,6 +246,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorModel.java" timestamp="1541732014593">
         <mark key="[" line="11" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/ArticleController.java" timestamp="1542675011062">
+        <mark key="[" line="39" column="60" />
+      </file>
       <file name="/XML Properties File.txt.ft" timestamp="1533109034838">
         <mark key="[" line="0" column="0" />
       </file>
@@ -476,8 +479,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowPatientModel.java" timestamp="1537952450474">
         <mark key="[" line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorController.java" timestamp="1542615631161">
-        <mark key="[" line="45" column="93" />
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorController.java" timestamp="1542675044922">
+        <mark key="[" line="161" column="9" />
         <mark key="]" line="45" column="93" />
         <mark key="." line="45" column="93" />
       </file>
