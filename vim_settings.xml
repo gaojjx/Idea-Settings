@@ -153,10 +153,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserMapper.java" timestamp="1540524267713">
         <mark key="[" line="39" column="101" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/ChatLogServiceImpl.java" timestamp="1542788490525">
-        <mark key="[" line="308" column="21" />
-        <mark key="]" line="308" column="21" />
-        <mark key="." line="308" column="21" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/ChatLogServiceImpl.java" timestamp="1542790960393">
+        <mark key="[" line="264" column="46" />
+        <mark key="]" line="264" column="46" />
+        <mark key="." line="264" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/weixinlib/src/main/java/com/yirdoc_utils_weixin/wxpay/common/WeChatConfig.java" timestamp="1534833913137">
         <mark key="[" line="17" column="34" />
@@ -317,7 +317,7 @@
         <mark key="[" line="26" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/MedicineController.java" timestamp="1542704096448" />
-      <file name="/Dummy.txt" timestamp="1542788855505">
+      <file name="/Dummy.txt" timestamp="1542791520179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -523,6 +523,11 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Application localhost.http" timestamp="1542071661566">
         <mark key="[" line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ChatLogServiceImpl.java" timestamp="1542791442935">
+        <mark key="[" line="268" column="46" />
+        <mark key="]" line="268" column="46" />
+        <mark key="." line="268" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/controller/ArticleController.java" timestamp="1542778172873" />
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/config/SwaggerConfig.java" timestamp="1542695349056">
@@ -833,10 +838,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>redirectUrl</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>redirectUrl</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
