@@ -312,7 +312,7 @@
         <mark key="[" line="26" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/MedicineController.java" timestamp="1542704096448" />
-      <file name="/Dummy.txt" timestamp="1542769210642">
+      <file name="/Dummy.txt" timestamp="1542772089022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -331,6 +331,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/CardTypeController.java" timestamp="1542360984556">
         <mark key="[" line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/controller/HospitalController.java" timestamp="1542772069264">
+        <mark key="[" line="48" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientTagService.java" timestamp="1534398926518">
         <mark key="[" line="60" column="48" />
