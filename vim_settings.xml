@@ -312,7 +312,7 @@
         <mark key="[" line="26" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/MedicineController.java" timestamp="1542704096448" />
-      <file name="/Dummy.txt" timestamp="1542778239480">
+      <file name="/Dummy.txt" timestamp="1542781952686">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -334,6 +334,11 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/controller/HospitalController.java" timestamp="1542772069264">
         <mark key="[" line="48" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/resources/mapping/HospitalMapper.xml" timestamp="1542781808776">
+        <mark key="[" line="45" column="20" />
+        <mark key="]" line="45" column="20" />
+        <mark key="." line="45" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientTagService.java" timestamp="1534398926518">
         <mark key="[" line="60" column="48" />
@@ -820,10 +825,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
