@@ -309,7 +309,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1541040881496">
         <mark key="[" line="26" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542851134370">
+      <file name="/Dummy.txt" timestamp="1542863935975">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1535687228113">
@@ -323,6 +323,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/config/DataSourceConfig.java" timestamp="1538290950904">
         <mark key="[" line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatProperties.java" timestamp="1542863324218">
+        <mark key="[" line="29" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/CardTypeController.java" timestamp="1542360984556">
         <mark key="[" line="57" column="0" />
@@ -516,10 +519,10 @@
         <mark key="]" line="59" column="37" />
         <mark key="." line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ChatLogServiceImpl.java" timestamp="1542850741699">
-        <mark key="[" line="276" column="61" />
-        <mark key="]" line="276" column="61" />
-        <mark key="." line="276" column="61" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ChatLogServiceImpl.java" timestamp="1542863389134">
+        <mark key="[" line="309" column="21" />
+        <mark key="]" line="309" column="21" />
+        <mark key="." line="309" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/config/SwaggerConfig.java" timestamp="1542695349056">
         <mark key="[" line="44" column="33" />
@@ -585,6 +588,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WxCpConfiguration.java" timestamp="1534838363075">
         <mark key="[" line="9" column="0" />
       </file>
+      <file name="/application.yml" timestamp="1542863916322" />
       <file name="/JSON Fragment (CallBackController.java:5745).json" timestamp="1536290884457">
         <mark key="[" line="0" column="0" />
       </file>
@@ -751,10 +755,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
         <mark key="[" line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1542856729635">
-        <mark key="[" line="25" column="61" />
-        <mark key="]" line="123" column="14" />
-        <mark key="." line="123" column="14" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1542863682352">
+        <mark key="[" line="80" column="37" />
+        <mark key="]" line="126" column="14" />
+        <mark key="." line="126" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1542788010004">
         <mark key="[" line="68" column="55" />
@@ -827,10 +831,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>bhhx3&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>bhhx3&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
