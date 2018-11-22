@@ -228,7 +228,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/UserDoc.java" timestamp="1538200917815">
         <mark key="[" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientServiceImpl.java" timestamp="1542856477789" />
       <file name="$USER_HOME$/code/springBootDemo/src/main/java/com/example/demo/mapper/EmojiMapper.java" timestamp="1539328527736">
         <mark key="[" line="8" column="11" />
       </file>
@@ -483,10 +482,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientWeeklyReportMapper.xml" timestamp="1534752016014">
         <mark key="[" line="158" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1542684464873">
-        <mark key="[" line="9" column="38" />
-        <mark key="]" line="9" column="38" />
-        <mark key="." line="9" column="38" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1542865704712">
+        <mark key="[" line="9" column="33" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/pom.xml" timestamp="1540437185651">
         <mark key="[" line="7" column="18" />
@@ -549,7 +548,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FengChaoService.java" timestamp="1540523832963">
         <mark key="[" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserMapper.xml" timestamp="1542856188861" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/controller/WuhuaUserController.java" timestamp="1536400875805">
         <mark key="[" line="83" column="49" />
       </file>
@@ -588,7 +586,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WxCpConfiguration.java" timestamp="1534838363075">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="/application.yml" timestamp="1542863916322" />
       <file name="/JSON Fragment (CallBackController.java:5745).json" timestamp="1536290884457">
         <mark key="[" line="0" column="0" />
       </file>
@@ -831,10 +828,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bhhx3&quot;)</text>
+        <text>medicine</text>
       </register>
       <register name="-" type="4">
-        <text>bhhx3&quot;)</text>
+        <text>medicine</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
