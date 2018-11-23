@@ -326,7 +326,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1541040881496">
         <mark key="[" line="26" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542936451432">
+      <file name="/Dummy.txt" timestamp="1542938796922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -552,10 +552,10 @@
         <mark key="]" line="59" column="37" />
         <mark key="." line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ChatLogServiceImpl.java" timestamp="1542935316168">
-        <mark key="[" line="234" column="13" />
-        <mark key="]" line="312" column="21" />
-        <mark key="." line="312" column="21" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ChatLogServiceImpl.java" timestamp="1542938786771">
+        <mark key="[" line="342" column="67" />
+        <mark key="]" line="342" column="67" />
+        <mark key="." line="342" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/config/SwaggerConfig.java" timestamp="1542695349056">
         <mark key="[" line="44" column="33" />
@@ -867,10 +867,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>String.format(&quot;来自医生:[%s]的新消息&quot;, doctorName)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>String.format(&quot;来自医生:[%s]的新消息&quot;, doctorName)</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
