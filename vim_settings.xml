@@ -326,7 +326,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1541040881496">
         <mark key="[" line="26" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542879485275">
+      <file name="/Dummy.txt" timestamp="1542936451432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -482,7 +482,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/CardServiceChatModel.java" timestamp="1542867871754">
         <mark key="[" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1542867661878">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1542936351364">
         <mark key="[" line="223" column="32" />
         <mark key="]" line="223" column="32" />
         <mark key="." line="223" column="32" />
@@ -552,10 +552,10 @@
         <mark key="]" line="59" column="37" />
         <mark key="." line="59" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ChatLogServiceImpl.java" timestamp="1542863389134">
-        <mark key="[" line="309" column="21" />
-        <mark key="]" line="309" column="21" />
-        <mark key="." line="309" column="21" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ChatLogServiceImpl.java" timestamp="1542935316168">
+        <mark key="[" line="234" column="13" />
+        <mark key="]" line="312" column="21" />
+        <mark key="." line="312" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/config/SwaggerConfig.java" timestamp="1542695349056">
         <mark key="[" line="44" column="33" />
@@ -799,11 +799,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
         <mark key="[" line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1542887170883">
-        <mark key="[" line="147" column="14" />
-        <mark key="]" line="147" column="14" />
-        <mark key="." line="147" column="14" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1542788010004">
         <mark key="[" line="68" column="55" />
       </file>
@@ -875,10 +870,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
