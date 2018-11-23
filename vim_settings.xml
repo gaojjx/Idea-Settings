@@ -180,10 +180,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/BasicPayModel.java" timestamp="1536829809871">
         <mark key="[" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DictionaryMapper.xml" timestamp="1542956897383">
-        <mark key="[" line="165" column="34" />
-        <mark key="]" line="169" column="0" />
-        <mark key="." line="169" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DictionaryMapper.xml" timestamp="1542957973874">
+        <mark key="[" line="165" column="35" />
+        <mark key="]" line="165" column="35" />
+        <mark key="." line="165" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/CardServiceController.java" timestamp="1542614698199">
         <mark key="[" line="27" column="56" />
@@ -206,11 +206,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/entity/Patient.java" timestamp="1538209777696">
         <mark key="[" line="61" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DictionaryServiceImpl.java" timestamp="1542957060209">
-        <mark key="[" line="112" column="45" />
-        <mark key="]" line="111" column="61" />
-        <mark key="^" line="156" column="25" />
-        <mark key="." line="111" column="61" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DictionaryServiceImpl.java" timestamp="1542958120467">
+        <mark key="^" line="155" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/service/impl/DoctorPatientGroupServiceImpl.java" timestamp="1542681084315">
         <mark key="[" line="33" column="0" />
@@ -229,7 +226,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/basicPayModel.java" timestamp="1534140709610">
         <mark key="[" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DictionaryServiceImplTest.java" timestamp="1542956699921">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DictionaryServiceImplTest.java" timestamp="1542958205447">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="22" column="31" />
         <mark key="." line="22" column="31" />
@@ -336,7 +333,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1541040881496">
         <mark key="[" line="26" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542943784829">
+      <file name="/Dummy.txt" timestamp="1542958264542">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -474,8 +471,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BaseInfoGuomin.java" timestamp="1537328977853">
         <mark key="[" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/DictionaryController.java" timestamp="1542954464950">
-        <mark key="[" line="117" column="51" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/DictionaryController.java" timestamp="1542958238986">
+        <mark key="[" line="117" column="65" />
         <mark key="]" line="117" column="38" />
         <mark key="^" line="117" column="38" />
         <mark key="." line="117" column="38" />
@@ -884,11 +881,11 @@
       <jump line="201" column="0" filename="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/controller/DoctorController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
