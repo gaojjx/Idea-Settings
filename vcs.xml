@@ -62,9 +62,13 @@
           <option name="url" value="git@115.28.19.117:yirdoc-front/bhhx3-user.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ReactiveX/RxJava.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Projects/yirdoc/front" />
+    <option name="cloneParentDir" value="$USER_HOME$/code" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
