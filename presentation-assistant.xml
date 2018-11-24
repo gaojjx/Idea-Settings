@@ -1,6 +1,7 @@
 <application>
   <component name="PresentationAssistant">
     <option name="fontSize" value="30" />
-    <option name="horizontalAlignment" value="RIGHT" />
+    <option name="hideDelay" value="6000" />
+    <option name="horizontalAlignment" value="LEFT" />
   </component>
 </application>
