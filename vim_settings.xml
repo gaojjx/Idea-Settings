@@ -245,7 +245,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowUpGroupUserModel.java" timestamp="1537251600755">
         <mark key="[" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/RefundOrderServiceImpl.java" timestamp="1543290259890">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/RefundOrderServiceImpl.java" timestamp="1543295019996">
         <mark key="[" line="131" column="25" />
         <mark key="]" line="130" column="61" />
         <mark key="." line="130" column="61" />
@@ -387,10 +387,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientGroupMemberMapper.java" timestamp="1536307693186">
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1543290169345">
-        <mark key="[" line="232" column="5" />
-        <mark key="]" line="215" column="0" />
-        <mark key="." line="215" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1543295375152">
+        <mark key="[" line="251" column="32" />
+        <mark key="]" line="238" column="43" />
+        <mark key="." line="238" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/config/DataSourceConfig.java" timestamp="1538290950904">
         <mark key="[" line="15" column="20" />
@@ -968,10 +968,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RefundOrderService refundOrderService</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>RefundOrderService refundOrderService</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
