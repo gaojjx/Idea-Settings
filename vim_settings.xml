@@ -239,10 +239,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowUpGroupUserModel.java" timestamp="1537251600755">
         <mark key="[" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/RefundOrderServiceImpl.java" timestamp="1543223850919">
-        <mark key="[" line="34" column="50" />
-        <mark key="]" line="126" column="46" />
-        <mark key="." line="126" column="46" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/RefundOrderServiceImpl.java" timestamp="1543282159194">
+        <mark key="[" line="132" column="61" />
+        <mark key="]" line="132" column="61" />
+        <mark key="." line="132" column="61" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/config-server/src/main/java/com/yirdoc/configserver/ConfigServerApplication.java" timestamp="1536046434355">
         <mark key="[" line="5" column="0" />
@@ -375,7 +375,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientGroupMemberMapper.java" timestamp="1536307693186">
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1543221873253">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1543282188589">
         <mark key="[" line="223" column="76" />
         <mark key="]" line="217" column="0" />
         <mark key="." line="217" column="0" />
@@ -955,10 +955,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">V3hQYXlSZWZ1bmRSZXF1ZXN0IHd4UGF5UmVmdW5kUmVxdWVzdCA9IA==</text>
+        <text>PayNotifyUrl())</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">V3hQYXlSZWZ1bmRSZXF1ZXN0IHd4UGF5UmVmdW5kUmVxdWVzdCA9IA==</text>
+        <text>PayNotifyUrl())</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
