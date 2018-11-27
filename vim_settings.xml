@@ -393,10 +393,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientGroupMemberMapper.java" timestamp="1536307693186">
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1543304130368">
-        <mark key="[" line="244" column="62" />
-        <mark key="]" line="255" column="55" />
-        <mark key="." line="255" column="55" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WeixinPayServiceImpl.java" timestamp="1543307071674">
+        <mark key="[" line="249" column="54" />
+        <mark key="]" line="257" column="55" />
+        <mark key="." line="257" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/config/DataSourceConfig.java" timestamp="1538290950904">
         <mark key="[" line="15" column="20" />
@@ -505,6 +505,7 @@
       <file name="/article [rds]" timestamp="1543213751822">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/binarywang/weixin-java-pay/3.1.0/weixin-java-pay-3.1.0-sources.jar!/com/github/binarywang/wxpay/config/WxPayConfig.java" timestamp="1543306636839" />
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/service/impl/DoctorServiceImpl.java" timestamp="1542685082584">
         <mark key="[" line="41" column="109" />
         <mark key="]" line="41" column="109" />
