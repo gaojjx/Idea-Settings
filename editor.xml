@@ -3,6 +3,11 @@
     <option name="FONT_FAMILY" value="PragmataPro" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JAVA" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
