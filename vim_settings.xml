@@ -256,7 +256,6 @@
       <file name="/JSON Fragment (WebSocketEndpoint.java:1034).json" timestamp="1535610690619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.16.22/lombok-1.16.22-sources.jar!/lombok/Data.java" timestamp="1543411391994" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/basicPayModel.java" timestamp="1534140709610">
         <mark key="[" line="4" column="52" />
       </file>
@@ -302,7 +301,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ChatLogMapper.java" timestamp="1540276877072">
         <mark key="[" line="34" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/BillOrderService.java" timestamp="1543563845718" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardModel.java" timestamp="1543374600747">
         <mark key="[" line="7" column="31" />
       </file>
@@ -385,7 +383,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardServiceTimeMapper.java" timestamp="1533798692121">
         <mark key="[" line="39" column="66" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardPayLogService.java" timestamp="1543453849247" />
       <file name="$USER_HOME$/code/test/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1534753857417">
         <mark key="[" line="8" column="30" />
       </file>
@@ -645,7 +642,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1535439910265">
         <mark key="[" line="84" column="94" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardPayLogServiceImpl.java" timestamp="1543397624166" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1543042877054">
         <mark key="[" line="0" column="0" />
       </file>
@@ -764,7 +760,6 @@
       <file name="/JSON Fragment (CallBackController.java:5745).json" timestamp="1536290884457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorArticleMapper.xml" timestamp="1543396796873" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DictionaryService.java" timestamp="1542954588834">
         <mark key="[" line="66" column="55" />
       </file>
@@ -936,6 +931,7 @@
       <file name="/JavaScript Console" timestamp="1542873732527">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/task/ScheduleTask.java" timestamp="1543813077305" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1543041885795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -964,7 +960,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
         <mark key="[" line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/BillOrderServiceImpl.java" timestamp="1543563877751" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1543305663390">
         <mark key="[" line="22" column="15" />
         <mark key="]" line="22" column="15" />
