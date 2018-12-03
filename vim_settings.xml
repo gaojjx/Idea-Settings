@@ -651,7 +651,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketHandler.java" timestamp="1543482424787">
         <mark key="[" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/pom.xml" timestamp="1542360545986">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/pom.xml" timestamp="1543821801056">
         <mark key="[" line="93" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpArticleServiceImpl.java" timestamp="1537234469469">
@@ -881,6 +881,7 @@
       <file name="/bhhx.doctor_todo_type [rds]" timestamp="1538292726896">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.pom" timestamp="1543821971865" />
       <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1542849876218">
         <mark key="[" line="20" column="22" />
       </file>
