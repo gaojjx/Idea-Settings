@@ -117,7 +117,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebsocketEndpoint.java" timestamp="1535596201818">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/resources/mapping/FamilyCardMapper.xml" timestamp="1543977602185" />
       <file name="/JSON Fragment (DisposableCompletableObserver.java:2421).json" timestamp="1543043361571">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,7 +164,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/CardServiceController.java" timestamp="1542360976397">
         <mark key="[" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/resources/mapping/PatientCardPayLogMapper.xml" timestamp="1543977739936" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/UserFamilyModel.java" timestamp="1539056144904">
         <mark key="[" line="8" column="27" />
       </file>
@@ -276,6 +274,7 @@
         <mark key="]" line="22" column="31" />
         <mark key="." line="22" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardServiceTimeMapper.xml" timestamp="1543980258128" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowUpGroupUserModel.java" timestamp="1537251600755">
         <mark key="[" line="8" column="32" />
       </file>
@@ -600,8 +599,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-web-1.0.0-pom.xml" timestamp="1540266615092">
         <mark key="[" line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1543977984215">
-        <mark key="[" line="612" column="26" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1543980261252">
+        <mark key="[" line="668" column="91" />
         <mark key="]" line="612" column="26" />
         <mark key="." line="612" column="26" />
       </file>
@@ -753,7 +752,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/front/bhhx3-user/src/components/home/user(position).vue" timestamp="1542873286481">
         <mark key="[" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/FamilyCard.java" timestamp="1543971730130" />
       <file name="/RegExp Fragment (WeixinPayServiceImpl.java:1668).regexp" timestamp="1534146709579">
         <mark key="[" line="0" column="0" />
       </file>
@@ -910,7 +908,6 @@
       <file name="/bhhx.doctor_todo_type [rds]" timestamp="1538292726896">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper-spring-boot-starter/1.2.5/pagehelper-spring-boot-starter-1.2.5.pom" timestamp="1543821971865" />
       <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1542849876218">
         <mark key="[" line="20" column="22" />
       </file>
@@ -961,7 +958,6 @@
       <file name="/JavaScript Console" timestamp="1542873732527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/task/ScheduleTask.java" timestamp="1543813077305" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1543041885795">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -990,7 +986,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
         <mark key="[" line="52" column="28" />
       </file>
-      <file name="/WeixinPayServiceImpl.java" timestamp="1543827272897" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1543908749122">
         <mark key="[" line="73" column="4" />
         <mark key="]" line="22" column="15" />
