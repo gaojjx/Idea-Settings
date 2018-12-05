@@ -56,8 +56,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/util/TableUtil.java" timestamp="1541740394545">
         <mark key="[" line="412" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardPayLogMapper.xml" timestamp="1543473410966">
-        <mark key="[" line="160" column="90" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardPayLogMapper.xml" timestamp="1543977752879">
+        <mark key="[" line="169" column="90" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Application localhost.http" timestamp="1542071661566">
         <mark key="[" line="0" column="40" />
@@ -78,9 +78,6 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorTodoController.java" timestamp="1538881998822">
         <mark key="[" line="25" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientCardPayLog.java" timestamp="1543453969607">
-        <mark key="[" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/BillOrderMapper.xml" timestamp="1543299839040">
         <mark key="[" line="239" column="82" />
@@ -120,7 +117,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebsocketEndpoint.java" timestamp="1535596201818">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/resources/mapping/FamilyCardMapper.xml" timestamp="1543971760379" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/resources/mapping/FamilyCardMapper.xml" timestamp="1543977602185" />
       <file name="/JSON Fragment (DisposableCompletableObserver.java:2421).json" timestamp="1543043361571">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,6 +165,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/CardServiceController.java" timestamp="1542360976397">
         <mark key="[" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/resources/mapping/PatientCardPayLogMapper.xml" timestamp="1543977739936" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/UserFamilyModel.java" timestamp="1539056144904">
         <mark key="[" line="8" column="27" />
       </file>
@@ -602,10 +600,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-web-1.0.0-pom.xml" timestamp="1540266615092">
         <mark key="[" line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1543976253297">
-        <mark key="[" line="611" column="8" />
-        <mark key="]" line="593" column="48" />
-        <mark key="." line="593" column="48" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceImpl.java" timestamp="1543977984215">
+        <mark key="[" line="612" column="26" />
+        <mark key="]" line="612" column="26" />
+        <mark key="." line="612" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebSocketEventListener.java" timestamp="1535447730099">
         <mark key="[" line="1" column="0" />
@@ -646,7 +644,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientWeeklyReportMapper.xml" timestamp="1534752016014">
         <mark key="[" line="158" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1543971606586">
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1543977619173">
         <mark key="[" line="9" column="33" />
         <mark key="]" line="9" column="33" />
         <mark key="." line="9" column="33" />
@@ -1074,10 +1072,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZmluYWwgV3hQYXlSZWZ1bmROb3RpZnlSZXN1bHQuUmVxSW5mbyByZXFJbmZvID0gd3hQYXlSZWZ1bmROb3RpZnlSZXN1bHQuZ2V0UmVxSW5mbygpOwoJCWZpbmFsIFN0cmluZyBvdXRSZWZ1bmRObyA9IHJlcUluZm8uZ2V0T3V0UmVmdW5kTm8oKTsKCQlmaW5hbCBSZWZ1bmRPcmRlciByZWZ1bmRPcmRlciA9IHRoaXMucmVmdW5kT3JkZXJNYXBwZXIuZ2V0QnlSZWZ1bmRObyhvdXRSZWZ1bmRObyk7CgkJcmVmdW5kT3JkZXIuc2V0UmVmdW5kSWQocmVxSW5mby5nZXRSZWZ1bmRJZCgpKTsKCQlyZWZ1bmRPcmRlci5zZXRSZWZ1bmRSZXN1bHQod3hQYXlSZWZ1bmROb3RpZnlSZXN1bHQuZ2V0UmVxSW5mb1N0cmluZygpKTsKCQlmaW5hbCBMb25nIGJpbGxPcmRlcklkID0gcmVmdW5kT3JkZXIuZ2V0QmlsbE9yZGVySWQoKTsKCQlpZiAoIkZBSUwiLmVxdWFsc0lnbm9yZUNhc2Uod3hQYXlSZWZ1bmROb3RpZnlSZXN1bHQuZ2V0UmV0dXJuQ29kZSgpKSkgewoJCQkvLyDmj5DkuqTpgIDmrL7kuJrliqHlpLHotKUKCQkJU3RyaW5nIGVyckNvZGUgPSB3eFBheVJlZnVuZE5vdGlmeVJlc3VsdC5nZXRFcnJDb2RlKCk7CgkJCXJlZnVuZE9yZGVyLnNldFJlc3VsdENvZGUoZXJyQ29kZSk7CgkJCXRoaXMucmVmdW5kT3JkZXJNYXBwZXIudXBkYXRlUmVmdW5kT3JkZXIocmVmdW5kT3JkZXIpOwoJCQlsb2cuZXJyb3IoIuiuouWNlVtiaWxsT3JkZXJJZDoge31d55qE6YCA5qy+5aSx6LSlIiwgYmlsbE9yZGVySWQpOwoJCQlyZXR1cm47CgkJfQoJCS8vIOmAgOasvueUs+ivt+aOpeaUtuaIkOWKnwoJCXJlZnVuZE9yZGVyLnNldFJlc3VsdENvZGUod3hQYXlSZWZ1bmROb3RpZnlSZXN1bHQuZ2V0UmV0dXJuQ29kZSgpKTsKCQlpbnQgdXBkYXRlUmVmdW5kT3JkZXIgPSB0aGlzLnJlZnVuZE9yZGVyTWFwcGVyLnVwZGF0ZVJlZnVuZE9yZGVyKHJlZnVuZE9yZGVyKTsKCQlpZiAodXBkYXRlUmVmdW5kT3JkZXIgPT0gMCkgewoJCQlsb2cuZXJyb3IoIuiuouWNlVtiaWxsT3JkZXJJZDoge31d6YCA5qy+5oiQ5Yqf77yM5pu05paw5aSx6LSlIixiaWxsT3JkZXJJZCk7CgkJCVRyYW5zYWN0aW9uQXNwZWN0U3VwcG9ydC5jdXJyZW50VHJhbnNhY3Rpb25TdGF0dXMoKS5zZXRSb2xsYmFja09ubHkoKTsKCQkJcmV0dXJuOwoJCX0KCQlsb2cuZGVidWcoIua1i+ivleS6i+WKoeaYr+WQpuS8muWbnua7muaJk+WNsCIpOwoKCgkJQmlsbE9yZGVyIGJpbGxPcmRlciA9IGJpbGxPcmRlclNlcnZpY2UuZ2V0QnlCaWxsT3JkZXJJZChiaWxsT3JkZXJJZCk7CgkJYmlsbE9yZGVyLnNldE9yZGVyVHlwZSgoc2hvcnQpIDUpOwoJCVJlc3VsdFQ8QmlsbE9yZGVyPiB1cGRhdGUgPSBiaWxsT3JkZXJTZXJ2aWNlLnVwZGF0ZShiaWxsT3JkZXIpOwoJCWlmICh1cGRhdGUuZ2V0Q29kZSgpICE9IDIwMCkgewoJCQlUcmFuc2FjdGlvbkFzcGVjdFN1cHBvcnQuY3VycmVudFRyYW5zYWN0aW9uU3RhdHVzKCkuc2V0Um9sbGJhY2tPbmx5KCk7CgkJCWxvZy5lcnJvcigi5L+u5pS55pSv5LuY6K6i5Y2VW2JpbGxPcmRlcklkOiB7fV3nirbmgIHlpLHotKUiLCBiaWxsT3JkZXJJZCk7CgkJCXJldHVybjsKCQk=</text>
+        <text encoding="base64">5oKj6ICF5Y2h57ut6LS5IA==</text>
       </register>
       <register name="-" type="4">
-        <text>bill_order</text>
+        <text encoding="base64">5oKj6ICF5Y2h57ut6LS5IA==</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
