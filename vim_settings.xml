@@ -422,7 +422,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/WeChatMenuRedirectController.java" timestamp="1541040881496">
         <mark key="[" line="26" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544419434123">
+      <file name="/Dummy.txt" timestamp="1544423434367">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -547,7 +547,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorBookCalendarScheduleMapper.xml" timestamp="1544410423851" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorBookCalendarScheduleMapper.xml" timestamp="1544423659934" />
       <file name="/article [rds]" timestamp="1543213751822">
         <mark key="[" line="0" column="0" />
       </file>
@@ -570,7 +570,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardPayLogMapper.java" timestamp="1543473374002">
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/resources/mapping/DoctorBookCalendarScheduleMapper.xml" timestamp="1544410446993" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.bhhx/src/main/resources/mapping/DoctorBookCalendarScheduleMapper.xml" timestamp="1544423650029" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserDocMapper.java" timestamp="1533286274840">
         <mark key="[" line="28" column="41" />
       </file>
@@ -646,8 +646,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientWeeklyReportMapper.xml" timestamp="1534752016014">
         <mark key="[" line="158" column="67" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1544409103116">
-        <mark key="[" line="9" column="45" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1544423528401">
+        <mark key="[" line="9" column="84" />
         <mark key="]" line="9" column="45" />
         <mark key="." line="9" column="45" />
       </file>
