@@ -401,6 +401,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FengChaoServiceImplTest.java" timestamp="1540628695884">
         <mark key="[" line="30" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/SwaggerConfig.java" timestamp="1544428240173">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientMedicalHistoryServiceImpl.java" timestamp="1532748456867">
         <mark key="[" line="36" column="69" />
       </file>
@@ -829,6 +834,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DictionaryService.java" timestamp="1542954588834">
         <mark key="[" line="66" column="55" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/SwaggerProperties.java" timestamp="1544428147099">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorBookInfoController.java" timestamp="1544427121294" />
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/service/DoctorPatientGroupService.java" timestamp="1542681057235">
         <mark key="[" line="33" column="0" />
@@ -1041,10 +1051,10 @@
         <mark key="^" line="116" column="48" />
         <mark key="." line="116" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1544238357030">
-        <mark key="[" line="140" column="16" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="34" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1544428258179">
+        <mark key="[" line="48" column="11" />
+        <mark key="]" line="48" column="11" />
+        <mark key="." line="48" column="11" />
         <mark key="^" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/pojo.ftl" timestamp="1543453922896">
@@ -1128,10 +1138,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new DoctorBookCalendarSchedule();</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>new DoctorBookCalendarSchedule();</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
@@ -1140,35 +1150,35 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuYmhoeC5lbnRpdHkuRG9jdG9yQm9va0luZm87Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuYmhoeC5lbnRpdHkuRG9jdG9yQm9va0luZm87Cg==</text>
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJzd2FnZ2VyIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbFRpbWUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuYmhoeC5lbnRpdHkuRG9jdG9yQm9va0luZm87Cg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuYmhoeC5lbnRpdHkuRG9jdG9yQm9va0luZm87Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMb2NhbFRpbWUK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>AUTO_INCREMENT = 1
 AVG_ROW_LENGTH = 0</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CkFVVE9fSU5DUkVNRU5UID0gMApBVkdfUk9XX0xFTkdUSCA9IDA=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CktFWV9CTE9DS19TSVpFID0gMApNQVhfUk9XUyA9IDAKTUlOX1JPV1MgPSAwClJPV19GT1JNQVQgPSBEeW5hbWljClNUQVRTX1NBTVBMRV9QQUdFUyA9IDA=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlyZWZ1bmRPcmRlci5zZXRSZWZ1bmRSZXN1bHQocmVmdW5kUmVzdWx0LnRvU3RyaW5nKCkpOwoJCXJlZnVuZE9yZGVyLnNldFJlc3VsdENvZGUocmVmdW5kUmVzdWx0LmdldFJlc3VsdENvZGUoKSk7Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ZmluYWwgV3hQYXlSZWZ1bmROb3RpZnlSZXN1bHQuUmVxSW5mbyByZXFJbmZvID0gd3hQYXlSZWZ1bmROb3RpZnlSZXN1bHQuZ2V0UmVxSW5mbygpOwoJCWZpbmFsIFN0cmluZyBvdXRSZWZ1bmRObyA9IHJlcUluZm8uZ2V0T3V0UmVmdW5kTm8oKTsKCQlmaW5hbCBSZWZ1bmRPcmRlciByZWZ1bmRPcmRlciA9IHRoaXMucmVmdW5kT3JkZXJNYXBwZXIuZ2V0QnlSZWZ1bmRObyhvdXRSZWZ1bmRObyk7CgkJcmVmdW5kT3JkZXIuc2V0UmVmdW5kSWQocmVxSW5mby5nZXRSZWZ1bmRJZCgpKTsKCQlyZWZ1bmRPcmRlci5zZXRSZWZ1bmRSZXN1bHQod3hQYXlSZWZ1bmROb3RpZnlSZXN1bHQuZ2V0UmVxSW5mb1N0cmluZygpKTsKCQlmaW5hbCBMb25nIGJpbGxPcmRlcklkID0gcmVmdW5kT3JkZXIuZ2V0QmlsbE9yZGVySWQoKTsKCQlpZiAoIkZBSUwiLmVxdWFsc0lnbm9yZUNhc2Uod3hQYXlSZWZ1bmROb3RpZnlSZXN1bHQuZ2V0UmV0dXJuQ29kZSgpKSkgewoJCQkvLyDmj5DkuqTpgIDmrL7kuJrliqHlpLHotKUKCQkJU3RyaW5nIGVyckNvZGUgPSB3eFBheVJlZnVuZE5vdGlmeVJlc3VsdC5nZXRFcnJDb2RlKCk7CgkJCXJlZnVuZE9yZGVyLnNldFJlc3VsdENvZGUoZXJyQ29kZSk7CgkJCXRoaXMucmVmdW5kT3JkZXJNYXBwZXIudXBkYXRlUmVmdW5kT3JkZXIocmVmdW5kT3JkZXIpOwoJCQlsb2cuZXJyb3IoIuiuouWNlVtiaWxsT3JkZXJJZDoge31d55qE6YCA5qy+5aSx6LSlIiwgYmlsbE9yZGVySWQpOwoJCQlyZXR1cm47CgkJfQoJCS8vIOmAgOasvueUs+ivt+aOpeaUtuaIkOWKnwoJCXJlZnVuZE9yZGVyLnNldFJlc3VsdENvZGUod3hQYXlSZWZ1bmROb3RpZnlSZXN1bHQuZ2V0UmV0dXJuQ29kZSgpKTsKCQlpbnQgdXBkYXRlUmVmdW5kT3JkZXIgPSB0aGlzLnJlZnVuZE9yZGVyTWFwcGVyLnVwZGF0ZVJlZnVuZE9yZGVyKHJlZnVuZE9yZGVyKTsKCQlpZiAodXBkYXRlUmVmdW5kT3JkZXIgPT0gMCkgewoJCQlsb2cuZXJyb3IoIuiuouWNlVtiaWxsT3JkZXJJZDoge31d6YCA5qy+5oiQ5Yqf77yM5pu05paw5aSx6LSlIixiaWxsT3JkZXJJZCk7CgkJCVRyYW5zYWN0aW9uQXNwZWN0U3VwcG9ydC5jdXJyZW50VHJhbnNhY3Rpb25TdGF0dXMoKS5zZXRSb2xsYmFja09ubHkoKTsKCQkJcmV0dXJuOwoJCX0KCQlsb2cuZGVidWcoIua1i+ivleS6i+WKoeaYr+WQpuS8muWbnua7muaJk+WNsCIpOwoKCgkJQmlsbE9yZGVyIGJpbGxPcmRlciA9IGJpbGxPcmRlclNlcnZpY2UuZ2V0QnlCaWxsT3JkZXJJZChiaWxsT3JkZXJJZCk7CgkJYmlsbE9yZGVyLnNldE9yZGVyVHlwZSgoc2hvcnQpIDUpOwoJCVJlc3VsdFQ8QmlsbE9yZGVyPiB1cGRhdGUgPSBiaWxsT3JkZXJTZXJ2aWNlLnVwZGF0ZShiaWxsT3JkZXIpOwoJCWlmICh1cGRhdGUuZ2V0Q29kZSgpICE9IDIwMCkgewoJCQlUcmFuc2FjdGlvbkFzcGVjdFN1cHBvcnQuY3VycmVudFRyYW5zYWN0aW9uU3RhdHVzKCkuc2V0Um9sbGJhY2tPbmx5KCk7CgkJCWxvZy5lcnJvcigi5L+u5pS55pSv5LuY6K6i5Y2VW2JpbGxPcmRlcklkOiB7fV3nirbmgIHlpLHotKUiLCBiaWxsT3JkZXJJZCk7CgkJCXJldHVybjsKCQk=</text>
+        <text encoding="base64">CktFWV9CTE9DS19TSVpFID0gMApNQVhfUk9XUyA9IDAKTUlOX1JPV1MgPSAwClJPV19GT1JNQVQgPSBEeW5hbWljClNUQVRTX1NBTVBMRV9QQUdFUyA9IDA=</text>
       </register>
     </registers>
     <search>
