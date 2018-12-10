@@ -6,9 +6,8 @@
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="LIGHTER" />
     <option name="userId" value="2d28b3fd:16738fb62ea:-8000" />
     <option name="version" value="3.0.0-pre3" />
   </component>
