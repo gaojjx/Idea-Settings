@@ -308,10 +308,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookCalendarMapper.xml" timestamp="1544426312142">
         <mark key="[" line="147" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/entity/DoctorBookCalendarSchedule.java" timestamp="1544579905303">
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="66" column="26" />
-        <mark key="." line="66" column="26" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/entity/DoctorBookCalendarSchedule.java" timestamp="1544580979961">
+        <mark key="[" line="58" column="4" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+        <mark key="^" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/UserDoc.java" timestamp="1538200917815">
         <mark key="[" line="6" column="28" />
@@ -443,7 +444,7 @@
         <mark key="^" line="50" column="70" />
         <mark key="." line="50" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544432662004">
+      <file name="/Dummy.txt" timestamp="1544581121720">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1142,10 +1143,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">TG9jYWxEYXRlVGltZSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">TG9jYWxEYXRlVGltZSA=</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
@@ -1154,35 +1155,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKc29uRm9ybWF0KHRpbWV6b25lID0gIiIpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgamF2YS50aW1lLkxvY2FsRGF0ZVRpbWUgZW5kVGltZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0U2NoZWR1bGUuc2V0VGltZVBlcmlvZChzY2hlZHVsZS5nZXRUaW1lUGVyaW9kKCkpOwo=</text>
+        <text encoding="base64">ICAgIEBEYXRlVGltZUZvcm1hdChpc28gPSBEYXRlVGltZUZvcm1hdC5JU08uREFURV9USU1FKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uRm9ybWF0KHRpbWV6b25lID0gIiIpCg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJzd2FnZ2VyIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFyZ2V0U2NoZWR1bGUuc2V0VGltZVBlcmlvZChzY2hlZHVsZS5nZXRUaW1lUGVyaW9kKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuYmhoeC5lbnRpdHkuRG9jdG9yQm9va0luZm87Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuYmhoeC5lbnRpdHkuRG9jdG9yQm9va0luZm87Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbFRpbWUK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>AUTO_INCREMENT = 1
-AVG_ROW_LENGTH = 0</text>
+      <register name="6" type="2">
+        <text encoding="base64">QEVuYWJsZUNvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKCJzd2FnZ2VyIikK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuYmhoeC5lbnRpdHkuRG9jdG9yQm9va0luZm87Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuYmhoeC5lbnRpdHkuRG9jdG9yQm9va0luZm87Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBMb2NhbFRpbWUK</text>
       </register>
     </registers>
     <search>
