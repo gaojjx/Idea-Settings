@@ -867,6 +867,7 @@
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1533109031658">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookRecordMapper.xml" timestamp="1544667407822" />
       <file name="/RegExp Fragment (CallBackController.java:5872).regexp" timestamp="1536291072613">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1013,7 +1014,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/Test.java" timestamp="1533611332540">
         <mark key="[" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorBookRecordMapper.xml" timestamp="1544408387014">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorBookRecordMapper.xml" timestamp="1544667481623">
         <mark key="[" line="187" column="21" />
         <mark key="]" line="187" column="21" />
         <mark key="." line="187" column="21" />
