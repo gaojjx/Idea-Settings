@@ -444,7 +444,7 @@
         <mark key="^" line="50" column="70" />
         <mark key="." line="50" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544606732656">
+      <file name="/Dummy.txt" timestamp="1544671445851">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -504,8 +504,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1543042645158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Application.http" timestamp="1544667302424">
-        <mark key="[" line="195" column="64" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Application.http" timestamp="1544671635981">
+        <mark key="[" line="195" column="87" />
+        <mark key="]" line="195" column="87" />
+        <mark key="." line="195" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/WeixinQRModel.java" timestamp="1533203093713">
         <mark key="[" line="2" column="28" />
@@ -797,7 +799,7 @@
         <mark key="]" line="22" column="94" />
         <mark key="." line="22" column="94" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/DoctorBookCalendarScheduleServiceImpl.java" timestamp="1544667201851">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/DoctorBookCalendarScheduleServiceImpl.java" timestamp="1544671631592">
         <mark key="[" line="502" column="64" />
         <mark key="]" line="296" column="0" />
         <mark key="." line="296" column="0" />
@@ -861,8 +863,8 @@
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1533109031658">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookRecordMapper.xml" timestamp="1544668988779">
-        <mark key="[" line="4" column="34" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookRecordMapper.xml" timestamp="1544671498497">
+        <mark key="[" line="156" column="12" />
       </file>
       <file name="/RegExp Fragment (CallBackController.java:5872).regexp" timestamp="1536291072613">
         <mark key="[" line="0" column="0" />
@@ -1146,10 +1148,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>localDateTime</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>localDateTime</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>toekn</text>
