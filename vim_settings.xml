@@ -155,6 +155,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/WuhuaCubicServiceImplTest.java" timestamp="1536026665762">
         <mark key="[" line="13" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/BookPatientInfoModel.java" timestamp="1544667192689">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1543047291470">
         <mark key="[" line="0" column="0" />
       </file>
@@ -505,6 +510,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1543042645158">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Application.http" timestamp="1544667302424">
+        <mark key="[" line="195" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/WeixinQRModel.java" timestamp="1533203093713">
         <mark key="[" line="2" column="28" />
       </file>
@@ -795,8 +803,8 @@
         <mark key="]" line="22" column="94" />
         <mark key="." line="22" column="94" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/DoctorBookCalendarScheduleServiceImpl.java" timestamp="1544577283606">
-        <mark key="[" line="293" column="61" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/DoctorBookCalendarScheduleServiceImpl.java" timestamp="1544667201851">
+        <mark key="[" line="502" column="64" />
         <mark key="]" line="296" column="0" />
         <mark key="." line="296" column="0" />
       </file>
@@ -1141,10 +1149,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>localDateTime</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>localDateTime</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
