@@ -241,7 +241,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatPayConfiguration.java" timestamp="1543304477181">
         <mark key="[" line="33" column="104" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1543986602875">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1544670183855">
         <mark key="[" line="252" column="60" />
         <mark key="]" line="252" column="60" />
         <mark key="." line="252" column="60" />
@@ -312,12 +312,6 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookCalendarMapper.xml" timestamp="1544426312142">
         <mark key="[" line="147" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/entity/DoctorBookCalendarSchedule.java" timestamp="1544580979961">
-        <mark key="[" line="58" column="4" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/UserDoc.java" timestamp="1538200917815">
         <mark key="[" line="6" column="28" />
@@ -795,7 +789,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/front/bhhx3-user/src/components/home/user(position).vue" timestamp="1542873286481">
         <mark key="[" line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/doc/退款流程.md" timestamp="1543981242251">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/doc/退款流程.md" timestamp="1544670739550">
         <mark key="[" line="64" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FamilyCardServiceImplTest.java" timestamp="1544407488158">
