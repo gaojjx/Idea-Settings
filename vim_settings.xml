@@ -504,10 +504,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1543042645158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/Application.http" timestamp="1544671635981">
-        <mark key="[" line="195" column="87" />
-        <mark key="]" line="195" column="87" />
-        <mark key="." line="195" column="87" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Application.http" timestamp="1544683258749">
+        <mark key="[" line="195" column="86" />
+        <mark key="]" line="195" column="86" />
+        <mark key="." line="195" column="86" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/WeixinQRModel.java" timestamp="1533203093713">
         <mark key="[" line="2" column="28" />
@@ -1148,10 +1148,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
