@@ -178,8 +178,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1543042600454">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorBookCalendarSchedule.java" timestamp="1545035387541">
-        <mark key="[" line="57" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorBookCalendarSchedule.java" timestamp="1545038360659">
+        <mark key="[" line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/mapper/ArticleMapper.java" timestamp="1542678850703">
         <mark key="[" line="28" column="41" />
@@ -272,11 +272,8 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/DoctorBookCalendarScheduleController.java" timestamp="1545035697873">
-        <mark key="[" line="193" column="64" />
-        <mark key="]" line="193" column="63" />
-        <mark key="^" line="193" column="63" />
-        <mark key="." line="193" column="63" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/DoctorBookCalendarScheduleController.java" timestamp="1545038375927">
+        <mark key="[" line="57" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/service/impl/DoctorPatientGroupServiceImpl.java" timestamp="1542681084315">
         <mark key="[" line="33" column="0" />
@@ -463,7 +460,7 @@
       <file name="/dummy.sql" timestamp="1543213818762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545032674373">
+      <file name="/Dummy.txt" timestamp="1545038405564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
