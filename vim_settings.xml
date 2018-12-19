@@ -134,8 +134,13 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebsocketEndpoint.java" timestamp="1535596201818">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/wxpay/WechatProperties.java" timestamp="1545207370797">
-        <mark key="[" line="5" column="31" />
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/wxpay/WechatProperties.java" timestamp="1545207514520">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/Application.java" timestamp="1545207611819">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/wxpay/common/WeChatConfig.java" timestamp="1545205925211">
         <mark key="[" line="11" column="14" />
@@ -379,8 +384,8 @@
         <mark key="]" line="22" column="37" />
         <mark key="." line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/test/Test.java" timestamp="1545206088960">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/test/Test.java" timestamp="1545208600251">
+        <mark key="[" line="7" column="15" />
       </file>
       <file name="/RegExp Fragment (DisposableCompletableObserver.java:2423).regexp" timestamp="1543043347303">
         <mark key="[" line="0" column="0" />
@@ -493,7 +498,7 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545204464204">
+      <file name="/Dummy.txt" timestamp="1545208864737">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -541,6 +546,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardService.java" timestamp="1543975045647">
         <mark key="[" line="147" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/weahan/payment-provider/payment-provider-pay/payment-provider-pay-provider/src/main/java/com/weahan/base/payment/provider/pay/provider/PayProvider.java" timestamp="1545209897607">
+        <mark key="[" line="51" column="94" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3b3c4a3a-7046-4c35-9688-760003636f26/console.sql" timestamp="1542360089753">
         <mark key="[" line="0" column="0" />
       </file>
@@ -558,7 +566,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupUserServiceImplTest.java" timestamp="1537260364945">
         <mark key="[" line="32" column="98" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/util/WechatUtil.java" timestamp="1545207141230">
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/util/WechatUtil.java" timestamp="1545208212561">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -595,7 +603,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorAccountServiceImpl.java" timestamp="1543972202192">
         <mark key="[" line="134" column="43" />
       </file>
-      <file name="/fragment.java" timestamp="1545207337736">
+      <file name="/fragment.java" timestamp="1545208864746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/UserPatitentModel.java" timestamp="1536821981535">
@@ -613,7 +621,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/DemoApplication.http" timestamp="1534917971544">
         <mark key="[" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/dev/jdbc.properties" timestamp="1545204314182" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
         <mark key="[" line="1" column="0" />
       </file>
@@ -913,11 +920,19 @@
       <file name="/XSLT Stylesheet.txt.ft" timestamp="1533109031658">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/controller/HomeController.java" timestamp="1545207239692">
-        <mark key="[" line="116" column="42" />
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/controller/HomeController.java" timestamp="1545208262941">
+        <mark key="[" line="934" column="34" />
+        <mark key="]" line="934" column="74" />
+        <mark key="." line="934" column="74" />
+        <mark key="^" line="934" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookRecordMapper.xml" timestamp="1544671498497">
         <mark key="[" line="156" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/wxpay/common/WeChatConfig.java" timestamp="1545208772576">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="/RegExp Fragment (CallBackController.java:5872).regexp" timestamp="1536291072613">
         <mark key="[" line="0" column="0" />
@@ -952,10 +967,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyService.java" timestamp="1536736001095">
         <mark key="[" line="76" column="85" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/application-rds.yml" timestamp="1545205747887">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/application-rds.yml" timestamp="1545208745804">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542360454419">
         <mark key="[" line="19" column="53" />
@@ -1000,7 +1015,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/BillOrderMapperTest.java" timestamp="1535942798865">
         <mark key="[" line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/rds/wechat.properties" timestamp="1545205882559" />
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542683247768">
         <mark key="[" line="58" column="38" />
         <mark key="]" line="31" column="12" />
@@ -1018,11 +1032,16 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/CardServiceMapper.xml" timestamp="1536051613251">
         <mark key="[" line="117" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/application.yml" timestamp="1545204509733">
-        <mark key="[" line="13" column="29" />
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/application.yml" timestamp="1545207620712">
+        <mark key="[" line="32" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SuggestionController.java" timestamp="1538990058819">
         <mark key="[" line="53" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/controller/ExpressController.java" timestamp="1545208877969">
+        <mark key="[" line="778" column="28" />
+        <mark key="]" line="778" column="28" />
+        <mark key="." line="778" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DictionaryMapper.java" timestamp="1542955792225">
         <mark key="[" line="36" column="38" />
@@ -1101,12 +1120,6 @@
       <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/filter/JWTLoginFilter.java" timestamp="1542358970552">
         <mark key="[" line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/controller/ExpressController.java" timestamp="1545206281485">
-        <mark key="'" line="1853" column="0" />
-        <mark key="[" line="1008" column="67" />
-        <mark key="]" line="1008" column="67" />
-        <mark key="." line="1008" column="67" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorTodoServiceImplTest.java" timestamp="1533542767687">
         <mark key="[" line="30" column="82" />
       </file>
@@ -1131,6 +1144,11 @@
         <mark key="[" line="16" column="82" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/wxpay/WechatConfig.java" timestamp="1545207579385">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/pojo.ftl" timestamp="1543453922896">
         <mark key="[" line="2" column="0" />
@@ -1221,10 +1239,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>weixin</text>
+        <text>WeChatConfig.APPID</text>
       </register>
       <register name="-" type="4">
-        <text>weixin</text>
+        <text>WeChatConfig.APPID</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
@@ -1233,36 +1251,36 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuZmVuZ2NoYW8udGhyZWFkLlRva2VuVGhyZWFkOwo=</text>
+        <text encoding="base64">ICBtZXJjaGFudDoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zZi5pbnRlZ3JhdGlvbi5leHByZXNzc2VydmljZS5zZXJ2aWNlLkNvbW1vbkV4cHJlc3NTZXJ2aWNlU2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>mediaFile:
-    #    targetPath: /var/lib/jenkins/data
-    compressionRatio: 0.8</text>
+      <register name="3" type="2">
+        <text encoding="base64">QE1hcHBlclNjYW4oYmFzZVBhY2thZ2VzID0gImNvbS5jbi5obnVzdC5kYW8iKQo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtZXJjaGFudDoK</text>
+        <text encoding="base64">CQl3eE1wSW5NZW1vcnlDb25maWdTdG9yYWdlLnNldFRtcERpckZpbGUobmV3IEZpbGUodGhpcy53ZWNoYXRQcm9wZXJ0aWVzLmdldE1lZGlhRmlsZSgpLmdldFRhcmdldFBhdGgoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuZmVuZ2NoYW8udGhyZWFkLlRva2VuVGhyZWFkOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zZi5pbnRlZ3JhdGlvbi5leHByZXNzc2VydmljZS5zZXJ2aWNlLkNvbW1vbkV4cHJlc3NTZXJ2aWNlU2VydmljZTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text>mediaFile:
+    #    targetPath: /var/lib/jenkins/data
+    compressionRatio: 0.8</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBtZXJjaGFudDoK</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHJpbmc6CiAgZGF0YXNvdXJjZToKICAgIHVzZXJuYW1lOiByb290CiAgICB1cmw6IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MTMzMDYvd3hfbGluP2NoYXJhY3RlckVuY29kaW5nPXV0ZjgmdXNlU1NMPWZhbHNlCiAgICBwYXNzd29yZDogbmV3c3lzNHdlaWxhaSQKICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubXlzcWwuamRiYy5Ecml2ZXIKICAgIGhpa2FyaToKICAgICAgY29ubmVjdGlvbi1pbml0LXNxbDogU0VUIE5BTUVTIHV0ZjhtYjQgQ09MTEFURSB1dGY4bWI0X3VuaWNvZGVfY2kKICB0aHltZWxlYWY6CiAgICBwcmVmaXg6IHdlYmFwcC9zdGF0aWMvCiAgICBzdWZmaXg6IC5odG1sCiAgICBjYWNoZTogZmFsc2UKICByZXNvdXJjZXM6CiAgICBzdGF0aWMtbG9jYXRpb25zOiB3ZWJhcHAvCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CndlaXhpbjoKICBtZXJjaGFudDoKICAgIHRva2VuOiBteXRva2VuCiAgICBhcHBfaWQ6IHd4MDg0MTgwMDE4MWVmZTFiMgogICAgYXBwX3NlY3JldDogZTIwMTQwYTBlYjRjY2MwNGFhYTYzODVkNmIzZjVjNjQKICAgIG1jaElkOiAxNTExOTQ1MDQxCiAgICBtY2hLZXk6IFZkNE1JMlFPTHlreUhQcUtmemZmaTlXTkd6dXluZ2VPCiAgICBzaWduVHlwZTogTUQ1CiAgICBub3RpZnlVcmw6IGh0dHA6Ly93d3cueWlyZG9jLmNvbS5jbi9iaGh4L2FwaS9wYXlOb3RpZnkvd3hwYXkKICAgIHRlbXBsYXRlSWQ6IGdCcWZkREYzdXJHdzJYQmZoODVwb0ttNlN3RXhJeGNSTjR5Zm92UEFPaVUKICBtZWRpYUZpbGU6CiAgICB0YXJnZXRQYXRoOiAvZGF0YS9iaGh4L3dlY2hhdF9tZWRpYQogICAgY29tcHJlc3Npb25SYXRpbzogMC44CgoKbXliYXRpczoKICBtYXBwZXItbG9jYXRpb25zOiBjbGFzc3BhdGg6bWFwcGluZy8qTWFwcGVyLnhtbAojICB0eXBlLWFsaWFzZXMtcGFja2FnZTogY29tLmNuLmhudXN0LmRhbwojICAgIG1hcC11bmRlcnNjb3JlLXRvLWNhbWVsLWNhc2U6IHRydWUKc2VydmVyOgogIHBvcnQ6IDgwODAKICBzZXJ2bGV0OgogICAgY29udGV4dC1wYXRoOiAvCiAgICBwYXRoOiAvYXBpCgpsb2dnaW5nOgogIGxldmVsOgogICAgcm9vdDogSU5GTwogICAgY29tLmNuLmhudXN0OiBERUJVRwpzd2FnZ2VyOgogIGVuYWJsZWQ6IGZhbHNlCiAgYmFzZS1wYWNrYWdlOiBjb20uY24uaG51c3QuY29udHJvbGxlcgogIHByZWZpeC1iYXNlLXVybDogL2JoaHgvYXBpCgojcHJvZHVjdDoKZmFtaWx5LWNhcmQtZXhwaXJlLXRpbWU6IDMKCgotLS0K</text>
       </register>
     </registers>
     <search>
