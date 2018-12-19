@@ -134,6 +134,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebsocketEndpoint.java" timestamp="1535596201818">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/wxpay/common/WeChatConfig.java" timestamp="1545205925211">
+        <mark key="[" line="11" column="14" />
+      </file>
       <file name="/JSON Fragment (DisposableCompletableObserver.java:2421).json" timestamp="1543043361571">
         <mark key="[" line="0" column="0" />
       </file>
@@ -312,6 +315,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/basicPayModel.java" timestamp="1534140709610">
         <mark key="[" line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/Application.java" timestamp="1545206161745">
+        <mark key="[" line="7" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DictionaryServiceImplTest.java" timestamp="1542958205447">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="22" column="31" />
@@ -369,6 +375,9 @@
         <mark key="[" line="22" column="37" />
         <mark key="]" line="22" column="37" />
         <mark key="." line="22" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/test/Test.java" timestamp="1545206088960">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/RegExp Fragment (DisposableCompletableObserver.java:2423).regexp" timestamp="1543043347303">
         <mark key="[" line="0" column="0" />
@@ -428,10 +437,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/service/impl/MedicineServiceImpl.java" timestamp="1542684671410">
         <mark key="[" line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/application-dev.yml" timestamp="1545204456509">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/application-dev.yml" timestamp="1545205915169">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="2" />
+        <mark key="." line="16" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/TagMapper.xml" timestamp="1534405636978">
         <mark key="[" line="136" column="71" />
@@ -495,7 +504,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientGroupMemberMapper.java" timestamp="1536307693186">
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/rds/jdbc.properties" timestamp="1545103890070">
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/rds/jdbc.properties" timestamp="1545205738017">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
@@ -634,10 +643,6 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardPayLogMapper.java" timestamp="1543473374002">
         <mark key="[" line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/dao/HospitalAzMapper.java" timestamp="1545110947311">
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserDocMapper.java" timestamp="1533286274840">
         <mark key="[" line="28" column="41" />
@@ -936,6 +941,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyService.java" timestamp="1536736001095">
         <mark key="[" line="76" column="85" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/application-rds.yml" timestamp="1545205747887">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542360454419">
         <mark key="[" line="19" column="53" />
       </file>
@@ -947,8 +957,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/CardTypeServiceImplTest.java" timestamp="1538039330198">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/pom.xml" timestamp="1545204931200">
-        <mark key="[" line="3" column="13" />
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/pom.xml" timestamp="1545205599998">
+        <mark key="[" line="136" column="21" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
@@ -979,6 +989,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/BillOrderMapperTest.java" timestamp="1535942798865">
         <mark key="[" line="17" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/rds/wechat.properties" timestamp="1545205882559" />
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542683247768">
         <mark key="[" line="58" column="38" />
         <mark key="]" line="31" column="12" />
@@ -1079,9 +1090,11 @@
       <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/filter/JWTLoginFilter.java" timestamp="1542358970552">
         <mark key="[" line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/controller/ExpressController.java" timestamp="1545106056996">
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/controller/ExpressController.java" timestamp="1545206281485">
         <mark key="'" line="1853" column="0" />
-        <mark key="[" line="91" column="4" />
+        <mark key="[" line="1008" column="67" />
+        <mark key="]" line="1008" column="67" />
+        <mark key="." line="1008" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorTodoServiceImplTest.java" timestamp="1533542767687">
         <mark key="[" line="30" column="82" />
@@ -1197,10 +1210,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hnust</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>hnust</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
@@ -1209,34 +1222,36 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zZi5pbnRlZ3JhdGlvbi5leHByZXNzc2VydmljZS5zZXJ2aWNlLkNvbW1vbkV4cHJlc3NTZXJ2aWNlU2VydmljZTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>mediaFile:
+    #    targetPath: /var/lib/jenkins/data
+    compressionRatio: 0.8</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cwo=</text>
+        <text encoding="base64">ICBtZXJjaGFudDoK</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHJpbmc6CiAgZGF0YXNvdXJjZToKICAgIHVzZXJuYW1lOiByb290CiAgICB1cmw6IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MTMzMDYvd3hfbGluP2NoYXJhY3RlckVuY29kaW5nPXV0ZjgmdXNlU1NMPWZhbHNlCiAgICBwYXNzd29yZDogbmV3c3lzNHdlaWxhaSQKICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubXlzcWwuamRiYy5Ecml2ZXIKICAgIGhpa2FyaToKICAgICAgY29ubmVjdGlvbi1pbml0LXNxbDogU0VUIE5BTUVTIHV0ZjhtYjQgQ09MTEFURSB1dGY4bWI0X3VuaWNvZGVfY2kKICB0aHltZWxlYWY6CiAgICBwcmVmaXg6IHdlYmFwcC9zdGF0aWMvCiAgICBzdWZmaXg6IC5odG1sCiAgICBjYWNoZTogZmFsc2UKICByZXNvdXJjZXM6CiAgICBzdGF0aWMtbG9jYXRpb25zOiB3ZWJhcHAvCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CndlaXhpbjoKICBtZXJjaGFudDoKICAgIHRva2VuOiBteXRva2VuCiAgICBhcHBfaWQ6IHd4MDg0MTgwMDE4MWVmZTFiMgogICAgYXBwX3NlY3JldDogZTIwMTQwYTBlYjRjY2MwNGFhYTYzODVkNmIzZjVjNjQKICAgIG1jaElkOiAxNTExOTQ1MDQxCiAgICBtY2hLZXk6IFZkNE1JMlFPTHlreUhQcUtmemZmaTlXTkd6dXluZ2VPCiAgICBzaWduVHlwZTogTUQ1CiAgICBub3RpZnlVcmw6IGh0dHA6Ly93d3cueWlyZG9jLmNvbS5jbi9iaGh4L2FwaS9wYXlOb3RpZnkvd3hwYXkKICAgIHRlbXBsYXRlSWQ6IGdCcWZkREYzdXJHdzJYQmZoODVwb0ttNlN3RXhJeGNSTjR5Zm92UEFPaVUKICBtZWRpYUZpbGU6CiAgICB0YXJnZXRQYXRoOiAvZGF0YS9iaGh4L3dlY2hhdF9tZWRpYQogICAgY29tcHJlc3Npb25SYXRpbzogMC44CgoKbXliYXRpczoKICBtYXBwZXItbG9jYXRpb25zOiBjbGFzc3BhdGg6bWFwcGluZy8qTWFwcGVyLnhtbAojICB0eXBlLWFsaWFzZXMtcGFja2FnZTogY29tLmNuLmhudXN0LmRhbwojICAgIG1hcC11bmRlcnNjb3JlLXRvLWNhbWVsLWNhc2U6IHRydWUKc2VydmVyOgogIHBvcnQ6IDgwODAKICBzZXJ2bGV0OgogICAgY29udGV4dC1wYXRoOiAvCiAgICBwYXRoOiAvYXBpCgpsb2dnaW5nOgogIGxldmVsOgogICAgcm9vdDogSU5GTwogICAgY29tLmNuLmhudXN0OiBERUJVRwpzd2FnZ2VyOgogIGVuYWJsZWQ6IGZhbHNlCiAgYmFzZS1wYWNrYWdlOiBjb20uY24uaG51c3QuY29udHJvbGxlcgogIHByZWZpeC1iYXNlLXVybDogL2JoaHgvYXBpCgojcHJvZHVjdDoKZmFtaWx5LWNhcmQtZXhwaXJlLXRpbWU6IDMKCgotLS0K</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">cwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tYXBzdHJ1Y3QuTWFwcGVyOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">cHJpbmc6CiAgZGF0YXNvdXJjZToKICAgIHVzZXJuYW1lOiByb290CiAgICB1cmw6IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MTMzMDYvd3hfbGluP2NoYXJhY3RlckVuY29kaW5nPXV0ZjgmdXNlU1NMPWZhbHNlCiAgICBwYXNzd29yZDogbmV3c3lzNHdlaWxhaSQKICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubXlzcWwuamRiYy5Ecml2ZXIKICAgIGhpa2FyaToKICAgICAgY29ubmVjdGlvbi1pbml0LXNxbDogU0VUIE5BTUVTIHV0ZjhtYjQgQ09MTEFURSB1dGY4bWI0X3VuaWNvZGVfY2kKICB0aHltZWxlYWY6CiAgICBwcmVmaXg6IHdlYmFwcC9zdGF0aWMvCiAgICBzdWZmaXg6IC5odG1sCiAgICBjYWNoZTogZmFsc2UKICByZXNvdXJjZXM6CiAgICBzdGF0aWMtbG9jYXRpb25zOiB3ZWJhcHAvCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dG1wLnR4dAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CndlaXhpbjoKICBtZXJjaGFudDoKICAgIHRva2VuOiBteXRva2VuCiAgICBhcHBfaWQ6IHd4MDg0MTgwMDE4MWVmZTFiMgogICAgYXBwX3NlY3JldDogZTIwMTQwYTBlYjRjY2MwNGFhYTYzODVkNmIzZjVjNjQKICAgIG1jaElkOiAxNTExOTQ1MDQxCiAgICBtY2hLZXk6IFZkNE1JMlFPTHlreUhQcUtmemZmaTlXTkd6dXluZ2VPCiAgICBzaWduVHlwZTogTUQ1CiAgICBub3RpZnlVcmw6IGh0dHA6Ly93d3cueWlyZG9jLmNvbS5jbi9iaGh4L2FwaS9wYXlOb3RpZnkvd3hwYXkKICAgIHRlbXBsYXRlSWQ6IGdCcWZkREYzdXJHdzJYQmZoODVwb0ttNlN3RXhJeGNSTjR5Zm92UEFPaVUKICBtZWRpYUZpbGU6CiAgICB0YXJnZXRQYXRoOiAvZGF0YS9iaGh4L3dlY2hhdF9tZWRpYQogICAgY29tcHJlc3Npb25SYXRpbzogMC44CgoKbXliYXRpczoKICBtYXBwZXItbG9jYXRpb25zOiBjbGFzc3BhdGg6bWFwcGluZy8qTWFwcGVyLnhtbAojICB0eXBlLWFsaWFzZXMtcGFja2FnZTogY29tLmNuLmhudXN0LmRhbwojICAgIG1hcC11bmRlcnNjb3JlLXRvLWNhbWVsLWNhc2U6IHRydWUKc2VydmVyOgogIHBvcnQ6IDgwODAKICBzZXJ2bGV0OgogICAgY29udGV4dC1wYXRoOiAvCiAgICBwYXRoOiAvYXBpCgpsb2dnaW5nOgogIGxldmVsOgogICAgcm9vdDogSU5GTwogICAgY29tLmNuLmhudXN0OiBERUJVRwpzd2FnZ2VyOgogIGVuYWJsZWQ6IGZhbHNlCiAgYmFzZS1wYWNrYWdlOiBjb20uY24uaG51c3QuY29udHJvbGxlcgogIHByZWZpeC1iYXNlLXVybDogL2JoaHgvYXBpCgojcHJvZHVjdDoKZmFtaWx5LWNhcmQtZXhwaXJlLXRpbWU6IDMKCgotLS0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9AQ29uZmlndXJhdGlvbgo=</text>
+        <text encoding="base64">QFJlcG9zaXRvcnkK</text>
       </register>
     </registers>
     <search>
