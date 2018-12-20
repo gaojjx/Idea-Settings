@@ -498,7 +498,7 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545208864737">
+      <file name="/Dummy.txt" timestamp="1545273201443">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -745,6 +745,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientWeeklyReportMapper.xml" timestamp="1534752016014">
         <mark key="[" line="158" column="67" />
       </file>
+      <file name="$USER_HOME$/Projects/weahan/payment-provider/payment-provider-pay/pom.xml" timestamp="1545210870032">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1544424972099">
         <mark key="[" line="11" column="36" />
         <mark key="]" line="9" column="45" />
@@ -929,10 +934,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookRecordMapper.xml" timestamp="1544671498497">
         <mark key="[" line="156" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/wxpay/common/WeChatConfig.java" timestamp="1545208772576">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="11" />
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/wxpay/common/WeChatConfig.java" timestamp="1545273524728">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="15" column="11" />
       </file>
       <file name="/RegExp Fragment (CallBackController.java:5872).regexp" timestamp="1536291072613">
         <mark key="[" line="0" column="0" />
@@ -983,7 +988,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/CardTypeServiceImplTest.java" timestamp="1538039330198">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/pom.xml" timestamp="1545205599998">
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/pom.xml" timestamp="1545210989857">
         <mark key="[" line="136" column="21" />
         <mark key="]" line="3" column="13" />
         <mark key="." line="3" column="13" />
@@ -1239,10 +1244,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>WeChatConfig.APPID</text>
+        <text>weahan</text>
       </register>
       <register name="-" type="4">
-        <text>WeChatConfig.APPID</text>
+        <text>weahan</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
