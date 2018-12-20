@@ -279,10 +279,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatPayConfiguration.java" timestamp="1543304477181">
         <mark key="[" line="33" column="104" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1544670183855">
-        <mark key="[" line="252" column="60" />
-        <mark key="]" line="252" column="60" />
-        <mark key="." line="252" column="60" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1545293485726">
+        <mark key="[" line="331" column="9" />
+        <mark key="]" line="331" column="9" />
+        <mark key="." line="331" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536736390926">
         <mark key="[" line="218" column="5" />
@@ -404,11 +404,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/Test.java" timestamp="1540795326964">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/doc/doctor_book.md" timestamp="1545282999357">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="24" />
-        <mark key="." line="23" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorCardModel.java" timestamp="1539669392210">
         <mark key="[" line="10" column="29" />
       </file>
@@ -500,7 +495,7 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545275267261">
+      <file name="/Dummy.txt" timestamp="1545293840086">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -1242,7 +1237,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>time</text>
+        <text encoding="base64">IGVsc2UgewoJCQlsb2dnZXIuaW5mbygi5omr56CB6ICB55So5oi3Ont9IiwgSlNPTi50b0pTT04odXNlcikpOwoJCQlmYW1pbHlJZCA9IHVzZXIuZ2V0RmFtaWx5SWQoKTsKCQkJcmVzcENvbnRlbnQgPSAi5qyi6L+O5Yqg5Yiw6JaE6I235ZG85ZC4LOS5i+WJjeeahOeUqOaIt+S/oeaBr+WPr+S7pee7p+e7reS9v+eUqCI7CgkJfQ==</text>
       </register>
       <register name="-" type="4">
         <text>time</text>
@@ -1253,37 +1248,35 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">IGVsc2UgewoJCQlsb2dnZXIuaW5mbygi5omr56CB6ICB55So5oi3Ont9IiwgSlNPTi50b0pTT04odXNlcikpOwoJCQlmYW1pbHlJZCA9IHVzZXIuZ2V0RmFtaWx5SWQoKTsKCQkJcmVzcENvbnRlbnQgPSAi5qyi6L+O5Yqg5Yiw6JaE6I235ZG85ZC4LOS5i+WJjeeahOeUqOaIt+S/oeaBr+WPr+S7pee7p+e7reS9v+eUqCI7CgkJfQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZSgiJHt3ZWNoYXQuYXBwSWR9IikK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CgpAUmVwb3NpdG9yeQpATWFwcGVyCmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnN0ZXJlb3R5cGUuUmVwb3NpdG9yeTs=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBtZXJjaGFudDoK</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtZXJjaGFudDoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QE1hcHBlclNjYW4oYmFzZVBhY2thZ2VzID0gImNvbS5jbi5obnVzdC5kYW8iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQl3eE1wSW5NZW1vcnlDb25maWdTdG9yYWdlLnNldFRtcERpckZpbGUobmV3IEZpbGUodGhpcy53ZWNoYXRQcm9wZXJ0aWVzLmdldE1lZGlhRmlsZSgpLmdldFRhcmdldFBhdGgoKSkpOwo=</text>
+        <text encoding="base64">QE1hcHBlclNjYW4oYmFzZVBhY2thZ2VzID0gImNvbS5jbi5obnVzdC5kYW8iKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuZmVuZ2NoYW8udGhyZWFkLlRva2VuVGhyZWFkOwo=</text>
+        <text encoding="base64">CQl3eE1wSW5NZW1vcnlDb25maWdTdG9yYWdlLnNldFRtcERpckZpbGUobmV3IEZpbGUodGhpcy53ZWNoYXRQcm9wZXJ0aWVzLmdldE1lZGlhRmlsZSgpLmdldFRhcmdldFBhdGgoKSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zZi5pbnRlZ3JhdGlvbi5leHByZXNzc2VydmljZS5zZXJ2aWNlLkNvbW1vbkV4cHJlc3NTZXJ2aWNlU2VydmljZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MuZmVuZ2NoYW8udGhyZWFkLlRva2VuVGhyZWFkOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>mediaFile:
-    #    targetPath: /var/lib/jenkins/data
-    compressionRatio: 0.8</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5zZi5pbnRlZ3JhdGlvbi5leHByZXNzc2VydmljZS5zZXJ2aWNlLkNvbW1vbkV4cHJlc3NTZXJ2aWNlU2VydmljZTsK</text>
       </register>
     </registers>
     <search>
