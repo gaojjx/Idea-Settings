@@ -279,12 +279,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatPayConfiguration.java" timestamp="1543304477181">
         <mark key="[" line="33" column="104" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1545374741672">
-        <mark key="[" line="211" column="52" />
-        <mark key="]" line="78" column="42" />
-        <mark key="." line="78" column="42" />
-        <mark key="^" line="78" column="42" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536736390926">
         <mark key="[" line="218" column="5" />
       </file>
@@ -779,7 +773,7 @@
       <file name="$USER_HOME$/refund_order.sql" timestamp="1543219850240">
         <mark key="[" line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketHandler.java" timestamp="1543482424787">
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketHandler.java" timestamp="1545376679329">
         <mark key="[" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/pom.xml" timestamp="1544578781035">
