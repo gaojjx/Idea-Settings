@@ -279,11 +279,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatPayConfiguration.java" timestamp="1543304477181">
         <mark key="[" line="33" column="104" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1545358994547">
-        <mark key="[" line="88" column="68" />
-        <mark key="]" line="88" column="68" />
-        <mark key="^" line="97" column="44" />
-        <mark key="." line="88" column="68" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/CallBackController.java" timestamp="1545362506524">
+        <mark key="[" line="79" column="11" />
+        <mark key="]" line="79" column="11" />
+        <mark key="." line="79" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536736390926">
         <mark key="[" line="218" column="5" />
@@ -667,8 +666,8 @@
         <mark key="]" line="38" column="13" />
         <mark key="." line="38" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatConfig.java" timestamp="1543304061544">
-        <mark key="[" line="27" column="112" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatConfig.java" timestamp="1545363400844">
+        <mark key="[" line="57" column="5" />
       </file>
       <file name="$USER_HOME$/Untitled.sql" timestamp="1535185078316">
         <mark key="[" line="7" column="50" />
@@ -1233,10 +1232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>void</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>toekn</text>
