@@ -375,10 +375,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/Dictionary.java" timestamp="1542892689986">
         <mark key="[" line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1545614902549">
-        <mark key="[" line="159" column="86" />
-        <mark key="]" line="167" column="17" />
-        <mark key="." line="167" column="17" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1545621379234">
+        <mark key="[" line="211" column="30" />
+        <mark key="]" line="211" column="30" />
+        <mark key="." line="211" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/target/classes/log4j.properties" timestamp="1545104489846">
         <mark key="[" line="22" column="37" />
@@ -396,6 +396,11 @@
       </file>
       <file name="$USER_HOME$/git-demo/.gitignore" timestamp="1541815634120">
         <mark key="[" line="30" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/weahan/SmileCodeGenerator/src/main/resources/application.properties" timestamp="1545618607513">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="52" />
+        <mark key="." line="5" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/pom.xml" timestamp="1542679191858">
         <mark key="[" line="7" column="26" />
@@ -834,6 +839,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
         <mark key="[" line="26" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/weahan/SmileCodeGenerator/src/main/resources/provider.properties" timestamp="1545618787280">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardMapper.java" timestamp="1543046304689">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -1259,10 +1269,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>filePath + &quot;provider&quot; +
+                                File.separator + &quot;repository&quot; +
+                                File.separator + &quot;mapping&quot; +
+                                File.separator + mappingFileName,
+                        config.getDestPath() +
+                                File.separator + &quot;provider&quot; +
+                                File.separator + projectName +
+                                File.separator + projectName + &quot;-Web&quot; +
+                                File.separator + &quot;src&quot; +
+                                File.separator + &quot;main&quot; +
+                                File.separator + &quot;resources&quot; +
+                                File.separator + &quot;mapping&quot; +
+                                File.separator + mappingFileName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
@@ -1270,35 +1292,54 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29kZS5nZW5lcmF0b3IucHJvdmlkZXIucHJvdmlkZXIudGVtcGxhdGVVcmw9IHRlbXBsYXRlLXByb3ZpZGVyLwo=</text>
+      <register name="1" type="4">
+        <text>filePath + &quot;provider&quot; +
+                                File.separator + &quot;repository&quot; +
+                                File.separator + &quot;mapping&quot; +
+                                File.separator + mappingFileName,
+                        config.getDestPath() +
+                                File.separator + &quot;provider&quot; +
+                                File.separator + projectName +
+                                File.separator + projectName + &quot;-Web&quot; +
+                                File.separator + &quot;src&quot; +
+                                File.separator + &quot;main&quot; +
+                                File.separator + &quot;resources&quot; +
+                                File.separator + &quot;mapping&quot; +
+                                File.separator + mappingFileName</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+      <register name="2" type="4">
+        <text>filePath + &quot;provider&quot; + File.separator + &quot;model&quot; +
+                                File.separator + modelFileName,
+                        config.getDestPath() +
+                                File.separator + &quot;provider&quot; + File.separator + projectName +
+                                File.separator + projectName + &quot;-Models&quot; + File.separator + &quot;src&quot; +
+                                File.separator + &quot;main&quot; + File.separator + &quot;java&quot; +
+                                File.separator + packagePath + File.separator + &quot;model&quot; +
+                                File.separator + modelFileName)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFByb3BlcnR5U291cmNlKCJjbGFzc3BhdGg6YXBwbGljYXRpb24ucHJvcGVydGllcyIpCkBDb25maWd1cmF0aW9uUHJvcGVydGllcyhwcmVmaXggPSAiY29kZS5nZW5lcmF0b3IiKQo=</text>
+        <text encoding="base64">Y29kZS5nZW5lcmF0b3IucHJvdmlkZXIucHJvdmlkZXIudGVtcGxhdGVVcmw9IHRlbXBsYXRlLXByb3ZpZGVyLwo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ki5yZWxlYXNlQmFja3VwCg==</text>
+        <text encoding="base64">QFByb3BlcnR5U291cmNlKCJjbGFzc3BhdGg6YXBwbGljYXRpb24ucHJvcGVydGllcyIpCkBDb25maWd1cmF0aW9uUHJvcGVydGllcyhwcmVmaXggPSAiY29kZS5nZW5lcmF0b3IiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dGFyZ2V0Lwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAuZ2l0aWdub3JlIGZvciBtYXZlbiAK</text>
+        <text encoding="base64">Ki5yZWxlYXNlQmFja3VwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGFyZ2V0Lwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgLmdpdGlnbm9yZSBmb3IgR3JhaWxzIDEuMiBhbmQgMS4zCg==</text>
+        <text encoding="base64">IyAuZ2l0aWdub3JlIGZvciBtYXZlbiAK</text>
       </register>
     </registers>
     <search>
