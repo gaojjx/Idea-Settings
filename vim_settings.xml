@@ -162,7 +162,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/FamilyCardModel.java" timestamp="1544778557055">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Services.ftl" timestamp="1545631850666" />
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/target/classes/com/cn/hnust/mapping/HospitalAZMapper.xml" timestamp="1545115350520">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="15" column="45" />
@@ -386,9 +385,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/Dictionary.java" timestamp="1542892689986">
         <mark key="[" line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1545630801854">
-        <mark key="]" line="187" column="56" />
-        <mark key="." line="187" column="56" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1545633341325">
+        <mark key="[" line="233" column="115" />
+        <mark key="]" line="233" column="115" />
+        <mark key="." line="233" column="115" />
         <mark key="^" line="187" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/target/classes/log4j.properties" timestamp="1545104489846">
@@ -1295,10 +1295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>packageName</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>packageName</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
@@ -1307,34 +1307,37 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8d2VhaGFuLnN0YXJ0LmNsYXNzPmNvbS53ZWFoYW4ucGxhdGZvcm0uQXBwbGljYXRpb248L3dlYWhhbi5zdGFydC5jbGFzcz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bXlzcWwudmVyc2lvbj41LjEuMzU8L215c3FsLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8d2VhaGFuLnN0YXJ0LmNsYXNzPmNvbS53ZWFoYW4ucGxhdGZvcm0uQXBwbGljYXRpb248L3dlYWhhbi5zdGFydC5jbGFzcz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NS4xLjM4PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8bXlzcWwudmVyc2lvbj41LjEuMzU8L215c3FsLnZlcnNpb24+Cg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NS4xLjM4PC92ZXJzaW9uPgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8bW9kdWxlPiR7cHJvamVjdE5hbWV9LUludGVyZmFjZXM8L21vZHVsZT4K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>config.getDestPath() +
                             File.separator + &quot;provider&quot; +
                             File.separator + projectName +
                             File.separator + projectName +</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>config.getDestPath() +
                             File.separator + &quot;provider&quot; +</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ZmlsZVBhdGggKyAicHJvdmlkZXIiICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZpbGUuc2VwYXJhdG9yIA==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>filePath + &quot;provider&quot; +
                                 File.separator + &quot;repository&quot; +
                                 File.separator + &quot;mapping&quot; +
@@ -1348,16 +1351,6 @@
                                 File.separator + &quot;resources&quot; +
                                 File.separator + &quot;mapping&quot; +
                                 File.separator + mappingFileName</text>
-      </register>
-      <register name="9" type="4">
-        <text>filePath + &quot;provider&quot; + File.separator + &quot;model&quot; +
-                                File.separator + modelFileName,
-                        config.getDestPath() +
-                                File.separator + &quot;provider&quot; + File.separator + projectName +
-                                File.separator + projectName + &quot;-Models&quot; + File.separator + &quot;src&quot; +
-                                File.separator + &quot;main&quot; + File.separator + &quot;java&quot; +
-                                File.separator + packagePath + File.separator + &quot;model&quot; +
-                                File.separator + modelFileName)</text>
       </register>
     </registers>
     <search>
