@@ -233,10 +233,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/Dictionary.java" timestamp="1542892689986">
         <mark key="[" line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1545644186772">
-        <mark key="[" line="204" column="114" />
-        <mark key="]" line="204" column="114" />
-        <mark key="." line="204" column="114" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1545698690162">
+        <mark key="[" line="199" column="116" />
+        <mark key="]" line="199" column="116" />
+        <mark key="." line="199" column="116" />
         <mark key="^" line="187" column="59" />
       </file>
       <file name="/RegExp Fragment (DisposableCompletableObserver.java:2423).regexp" timestamp="1543043347303">
@@ -1402,10 +1402,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>S</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
