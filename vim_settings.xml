@@ -182,9 +182,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Service.ftl" timestamp="1545726454599">
-        <mark key="[" line="21" column="8" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536736390926">
         <mark key="[" line="218" column="5" />
       </file>
@@ -408,10 +405,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorMapper.xml" timestamp="1539316799565">
         <mark key="[" line="191" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Repository.ftl" timestamp="1545726490807">
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="21" column="48" />
-        <mark key="." line="21" column="48" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Repository.ftl" timestamp="1545872774359">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="23" column="48" />
+        <mark key="." line="23" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorPatientGroupMapper.java" timestamp="1536807023869">
         <mark key="[" line="40" column="90" />
@@ -422,8 +419,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BaseInfoGuomin.java" timestamp="1537328977853">
         <mark key="[" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/service.ftl" timestamp="1545817738304">
-        <mark key="[" line="4" column="43" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/service.ftl" timestamp="1545873352550">
+        <mark key="[" line="5" column="47" />
         <mark key="]" line="28" column="32" />
         <mark key="." line="28" column="32" />
       </file>
@@ -462,8 +459,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorBookInfoServiceImpl.java" timestamp="1544773991956">
         <mark key="[" line="30" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Model.ftl" timestamp="1545726641892">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Model.ftl" timestamp="1545872796504">
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientDailyLogController.java" timestamp="1537425165735">
         <mark key="[" line="45" column="30" />
@@ -969,6 +966,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorCardModel.java" timestamp="1539669392210">
         <mark key="[" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/SfReceiveAddressService.java" timestamp="1545873329771">
+        <mark key="[" line="5" column="60" />
+      </file>
       <file name="/Maven Profiles.txt.ft" timestamp="1533109066535">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1148,10 +1148,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/yirdoc.lease.provider-Model/pom.xml" timestamp="1545700999553">
         <mark key="[" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Web.ftl" timestamp="1545726152738">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="28" column="50" />
-        <mark key="." line="28" column="50" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Web.ftl" timestamp="1545872746112">
+        <mark key="]" line="29" column="50" />
+        <mark key="." line="29" column="50" />
       </file>
       <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/controller/LoginController.java" timestamp="1542273141990">
         <mark key="[" line="31" column="24" />
@@ -1439,7 +1438,6 @@
       <file name="$USER_HOME$/test/Web/src/main/java/com/yirdoc/lease/provider/mapper/TestMapper.java" timestamp="1545721855185">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/SfCabinetService.java" timestamp="1545817719731" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
         <mark key="[" line="52" column="28" />
       </file>
