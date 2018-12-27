@@ -525,12 +525,6 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Web/src/main/resources/application.yml" timestamp="1545816424609">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="12" column="6" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="12" column="6" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/provider.properties" timestamp="1545815657831">
         <mark key="[" line="5" column="34" />
         <mark key="]" line="5" column="34" />
@@ -664,9 +658,6 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/config/SwaggerConfig.java" timestamp="1542614408345">
         <mark key="[" line="35" column="16" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/fileWriter/EnumTemplateType.java" timestamp="1545466799429">
-        <mark key="[" line="24" column="37" />
       </file>
       <file name="/bhhx.bill_order [rds]" timestamp="1543041189460">
         <mark key="[" line="0" column="0" />
@@ -842,12 +833,6 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/WebSocketInterceptor.java" timestamp="1535447329228">
         <mark key="[" line="2" column="34" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/lease/service/OrderFeeService.java" timestamp="1545804213019">
-        <mark key="[" line="28" column="12" />
-        <mark key="]" line="28" column="11" />
-        <mark key="." line="28" column="11" />
-        <mark key="^" line="28" column="11" />
       </file>
       <file name="/a.sql" timestamp="1538292821382">
         <mark key="[" line="0" column="0" />
