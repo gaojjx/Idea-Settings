@@ -9,8 +9,7 @@
       <file name="/JSON Fragment (JWTAuthenticationFilter.java:2957).json" timestamp="1542246364048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/application-yml.ftl" timestamp="1545874417220" />
-      <file name="/a.dummy" timestamp="1545372107487">
+      <file name="/a.dummy" timestamp="1545882373518">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/impl/SfCabinetServiceImpl.java" timestamp="1545729690589">
@@ -36,8 +35,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientActionLogMapper.xml" timestamp="1539656259135">
         <mark key="[" line="157" column="79" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/util/TableUtil.java" timestamp="1544418893472">
-        <mark key="[" line="416" column="13" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/util/TableUtil.java" timestamp="1545882027915">
+        <mark key="[" line="359" column="122" />
+        <mark key="]" line="359" column="122" />
+        <mark key="." line="359" column="122" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/provider/yirdoc.lease.provider-Repository/pom.xml" timestamp="1545636264956">
         <mark key="[" line="21" column="8" />
@@ -260,10 +261,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/Dictionary.java" timestamp="1542892689986">
         <mark key="[" line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1545874811105">
-        <mark key="[" line="66" column="54" />
-        <mark key="]" line="66" column="54" />
-        <mark key="." line="66" column="54" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1545882270302">
+        <mark key="s" line="165" column="86" />
+        <mark key="[" line="130" column="46" />
       </file>
       <file name="/RegExp Fragment (DisposableCompletableObserver.java:2423).regexp" timestamp="1543043347303">
         <mark key="[" line="0" column="0" />
@@ -342,6 +342,11 @@
       </file>
       <file name="$USER_HOME$/Projects/weahan/payment-provider/payment-provider-pay/payment-provider-pay-provider/src/main/java/com/weahan/base/payment/provider/pay/provider/PayProvider.java" timestamp="1545209897607">
         <mark key="[" line="51" column="94" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/table/Table.java" timestamp="1545882047404">
+        <mark key="[" line="70" column="123" />
+        <mark key="]" line="70" column="123" />
+        <mark key="." line="70" column="123" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Application.http" timestamp="1545875455874">
         <mark key="[" line="274" column="36" />
@@ -690,8 +695,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Repository/src/main/java/com/yirdoc/lease/provider/repository/SfCabinetRepository.java" timestamp="1545709339222">
         <mark key="[" line="37" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/config/BaseConfig.java" timestamp="1545483578870">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/config/BaseConfig.java" timestamp="1545881569233">
+        <mark key="[" line="4" column="3" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -922,6 +927,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowUpGroupUserModel.java" timestamp="1537251600755">
         <mark key="[" line="8" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/sqlXml.ftl" timestamp="1545881772228">
+        <mark key="[" line="29" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/weahan/codeGenerator/pom.xml" timestamp="1545631723084">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -1012,7 +1020,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookInfoMapper.xml" timestamp="1544427285272">
         <mark key="[" line="124" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/fileWriter/FileWriterFactory.java" timestamp="1545630247756">
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/fileWriter/FileWriterFactory.java" timestamp="1545882302354">
         <mark key="[" line="67" column="31" />
         <mark key="]" line="67" column="31" />
         <mark key="." line="67" column="31" />
@@ -1331,6 +1339,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/config/ProviderConfig.java" timestamp="1545881596171">
+        <mark key="[" line="38" column="18" />
+      </file>
       <file name="/RegExp Fragment (CallBackController.java:5872).regexp" timestamp="1536291072613">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1540,10 +1551,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>provider</text>
+        <text>providerUrl</text>
       </register>
       <register name="-" type="4">
-        <text>provider</text>
+        <text>providerUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
