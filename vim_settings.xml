@@ -9,7 +9,7 @@
       <file name="/JSON Fragment (JWTAuthenticationFilter.java:2957).json" timestamp="1542246364048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1545882373518">
+      <file name="/a.dummy" timestamp="1545883890209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/impl/SfCabinetServiceImpl.java" timestamp="1545729690589">
@@ -261,9 +261,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/Dictionary.java" timestamp="1542892689986">
         <mark key="[" line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1545882270302">
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1545883876625">
         <mark key="s" line="165" column="86" />
-        <mark key="[" line="130" column="46" />
+        <mark key="[" line="74" column="67" />
+        <mark key="]" line="74" column="67" />
+        <mark key="." line="74" column="67" />
       </file>
       <file name="/RegExp Fragment (DisposableCompletableObserver.java:2423).regexp" timestamp="1543043347303">
         <mark key="[" line="0" column="0" />
@@ -1020,7 +1022,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookInfoMapper.xml" timestamp="1544427285272">
         <mark key="[" line="124" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/fileWriter/FileWriterFactory.java" timestamp="1545882302354">
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/fileWriter/FileWriterFactory.java" timestamp="1545883938843">
         <mark key="[" line="67" column="31" />
         <mark key="]" line="67" column="31" />
         <mark key="." line="67" column="31" />
@@ -1551,10 +1553,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>providerUrl</text>
+        <text>Pom</text>
       </register>
       <register name="-" type="4">
-        <text>providerUrl</text>
+        <text>Pom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
