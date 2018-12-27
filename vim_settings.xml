@@ -101,13 +101,11 @@
         <mark key="]" line="27" column="46" />
         <mark key="." line="27" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/lease/service/OrderStateLogService.java" timestamp="1545804365848" />
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/yirdoc.lease.provider-Repository/src/main/java/com/yirdoc/lease/provider/repository/repository/SfHospitalRepository.java" timestamp="1545642930131">
         <mark key="[" line="23" column="73" />
         <mark key="]" line="23" column="73" />
         <mark key="." line="23" column="73" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/Generator.java" timestamp="1545803045896" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/AliPayServiceImpl.java" timestamp="1534131273761">
         <mark key="[" line="8" column="0" />
       </file>
@@ -324,7 +322,7 @@
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545815401675">
+      <file name="/Dummy.txt" timestamp="1545817346474">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -424,7 +422,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BaseInfoGuomin.java" timestamp="1537328977853">
         <mark key="[" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/service.ftl" timestamp="1545815029164" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/service.ftl" timestamp="1545817738304">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="28" column="32" />
+        <mark key="." line="28" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WechatPayNotifyController.java" timestamp="1544001902815">
         <mark key="[" line="39" column="37" />
         <mark key="]" line="16" column="0" />
@@ -522,8 +524,11 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Web/src/main/resources/application.yml" timestamp="1545726755025">
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Web/src/main/resources/application.yml" timestamp="1545816424609">
         <mark key="[" line="3" column="37" />
+        <mark key="]" line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="12" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/provider.properties" timestamp="1545815657831">
         <mark key="[" line="5" column="34" />
@@ -567,6 +572,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookRecordMapper.xml" timestamp="1544671498497">
         <mark key="[" line="156" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/SfCabinetService.java" timestamp="1545816582832">
+        <mark key="[" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ServiceEvaluateReportMapper.java" timestamp="1535444136432">
         <mark key="[" line="14" column="7" />
@@ -828,6 +836,12 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/WebSocketInterceptor.java" timestamp="1535447329228">
         <mark key="[" line="2" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/lease/service/OrderFeeService.java" timestamp="1545804213019">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="28" column="11" />
       </file>
       <file name="/a.sql" timestamp="1538292821382">
         <mark key="[" line="0" column="0" />
@@ -1177,8 +1191,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientTagMapper.java" timestamp="1534398702481">
         <mark key="[" line="32" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Repository/pom.xml" timestamp="1545725823642">
-        <mark key="[" line="22" column="8" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Repository/pom.xml" timestamp="1545817140809">
+        <mark key="[" line="12" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/test/com/yirdoc/bhhx/console/service/impl/DoctorServiceImplTest.java" timestamp="1542695376329">
         <mark key="[" line="48" column="52" />
@@ -1425,6 +1439,7 @@
       <file name="$USER_HOME$/test/Web/src/main/java/com/yirdoc/lease/provider/mapper/TestMapper.java" timestamp="1545721855185">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/SfCabinetService.java" timestamp="1545817719731" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
         <mark key="[" line="52" column="28" />
       </file>
@@ -1457,7 +1472,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/TestController.java" timestamp="1544598107846">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="/serviceImpl.ftl" timestamp="1545814212358" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/config/WechatProperties.java" timestamp="1542788224876">
         <mark key="[" line="30" column="35" />
       </file>
@@ -1529,10 +1543,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fig.getOpenRepository());</text>
+        <text>Impl</text>
       </register>
       <register name="-" type="4">
-        <text>fig.getOpenRepository());</text>
+        <text>Impl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
