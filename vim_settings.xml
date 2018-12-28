@@ -161,8 +161,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/FamilyCardModel.java" timestamp="1544778557055">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderMainConsumer.java" timestamp="1545983677831">
-        <mark key="[" line="20" column="53" />
+      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderMainConsumer.java" timestamp="1545984583863">
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/WebSocketInterceptor.java" timestamp="1535447329228">
         <mark key="[" line="2" column="34" />
@@ -530,7 +531,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorAccountServiceImpl.java" timestamp="1543972202192">
         <mark key="[" line="134" column="43" />
       </file>
-      <file name="/fragment.java" timestamp="1545966491884">
+      <file name="/fragment.java" timestamp="1545984542760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/UserPatitentModel.java" timestamp="1536821981535">
@@ -978,11 +979,11 @@
       <file name="$USER_HOME$/git-demo/README.md" timestamp="1541815976084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1545983687693">
-        <mark key="[" line="16" column="58" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="36" column="56" />
+      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1545984535933">
+        <mark key="[" line="17" column="38" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="39" column="56" />
       </file>
     </filemarks>
     <jumps>
@@ -1044,7 +1045,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihyZXN0VGVtcGxhdGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -1056,12 +1057,24 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihyZXN0VGVtcGxhdGUpOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+      </register>
+      <register name="s" type="4">
+        <text encoding="base64">ICJcbiI=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS53ZWFoYW4uY29yZS5jb25zdW1lci5CYXNlUHJvcGVydHk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>'南通':[121.05,32.08],
     '拉萨':[91.11,29.97],
     '云浮':[112.02,22.93],
@@ -1078,26 +1091,14 @@
     '太仓':[121.1,31.45],
     '曲靖':[103.79,25.51],</text>
       </register>
-      <register name="s" type="4">
-        <text encoding="base64">ICJcbiI=</text>
-      </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkKCQlyZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8JCVR5cGUgZGF0YVR5cGUgPSAgKChQYXJhbWV0ZXJpemVkVHlwZSkgZ2V0Q2xhc3MoKS5nZXRHZW5lcmljU3VwZXJjbGFzcygpKS5nZXRBY3R1YWxUeXBlQXJndW1lbnRzKClbMF07Ci8vCQlUeXBlIHR5cGUgPSBuZXcgUGFyYW1ldGVyaXplZFR5cGVJbXBsKG5ldyBUeXBlW117ZGF0YVR5cGV9LCBudWxsLCBSZXN1bHRULmNsYXNzKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi4qOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi4qOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
