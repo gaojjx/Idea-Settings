@@ -606,6 +606,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/dao/SfGoodsMapper.java" timestamp="1545106158046">
         <mark key="[" line="20" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weahan/core/consumer/Weahan.Core.Consumer/1.0.7-SNAPSHOT/Weahan.Core.Consumer-1.0.7-SNAPSHOT.jar!/com/weahan/core/consumer/BaseConsumer.class" timestamp="1545968509105" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1542867836528">
         <mark key="[" line="266" column="35" />
       </file>
@@ -968,10 +969,10 @@
       <file name="$USER_HOME$/git-demo/README.md" timestamp="1541815976084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1545967423462">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1545968512998">
+        <mark key="[" line="30" column="47" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1033,7 +1034,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8JCVR5cGUgZGF0YVR5cGUgPSAgKChQYXJhbWV0ZXJpemVkVHlwZSkgZ2V0Q2xhc3MoKS5nZXRHZW5lcmljU3VwZXJjbGFzcygpKS5nZXRBY3R1YWxUeXBlQXJndW1lbnRzKClbMF07Ci8vCQlUeXBlIHR5cGUgPSBuZXcgUGFyYW1ldGVyaXplZFR5cGVJbXBsKG5ldyBUeXBlW117ZGF0YVR5cGV9LCBudWxsLCBSZXN1bHRULmNsYXNzKTsK</text>
+        <text encoding="base64">CQkKCQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1045,10 +1046,10 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCVR5cGUgZGF0YVR5cGUgPSAgKChQYXJhbWV0ZXJpemVkVHlwZSkgZ2V0Q2xhc3MoKS5nZXRHZW5lcmljU3VwZXJjbGFzcygpKS5nZXRBY3R1YWxUeXBlQXJndW1lbnRzKClbMF07Ci8vCQlUeXBlIHR5cGUgPSBuZXcgUGFyYW1ldGVyaXplZFR5cGVJbXBsKG5ldyBUeXBlW117ZGF0YVR5cGV9LCBudWxsLCBSZXN1bHRULmNsYXNzKTsK</text>
+        <text encoding="base64">CQkKCQlyZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCVR5cGUgZGF0YVR5cGUgPSAgKChQYXJhbWV0ZXJpemVkVHlwZSkgZ2V0Q2xhc3MoKS5nZXRHZW5lcmljU3VwZXJjbGFzcygpKS5nZXRBY3R1YWxUeXBlQXJndW1lbnRzKClbMF07Ci8vCQlUeXBlIHR5cGUgPSBuZXcgUGFyYW1ldGVyaXplZFR5cGVJbXBsKG5ldyBUeXBlW117ZGF0YVR5cGV9LCBudWxsLCBSZXN1bHRULmNsYXNzKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1057,22 +1058,22 @@
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi4qOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi4qOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiLyIpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi4qOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tYXBzdHJ1Y3QuTWFwcGVyOwo=</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiLyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QE1hcHBlcgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tYXBzdHJ1Y3QuTWFwcGVyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuaWJhdGlzLmFubm90YXRpb25zLk1hcHBlcjsK</text>
+        <text encoding="base64">QE1hcHBlcgo=</text>
       </register>
     </registers>
     <search>
