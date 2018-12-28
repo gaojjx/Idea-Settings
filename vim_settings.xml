@@ -139,6 +139,7 @@
       <file name="/JSON Fragment (DisposableCompletableObserver.java:2421).json" timestamp="1543043361571">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weahan/core/consumer/Weahan.Core.Consumer/1.0.7-SNAPSHOT/Weahan.Core.Consumer-1.0.7-SNAPSHOT.jar!/com/weahan/core/util/SpringContextUtil.class" timestamp="1545982016908" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/ServiceEvaluate.java" timestamp="1535617398270">
         <mark key="[" line="29" column="7" />
       </file>
@@ -730,6 +731,7 @@
       <file name="/bhhx_dev.article [rds]" timestamp="1543050969320">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/370200.json" timestamp="1545981585758" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/TagMapper.java" timestamp="1534405586547">
         <mark key="[" line="29" column="0" />
       </file>
@@ -780,6 +782,9 @@
       </file>
       <file name="/bhhx.dictionary [rds]" timestamp="1543040744755">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseProperty.java" timestamp="1545982088045">
+        <mark key="[" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/entity/Article.java" timestamp="1540801376235">
         <mark key="[" line="32" column="7" />
