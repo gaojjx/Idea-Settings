@@ -320,6 +320,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ChatLogMapper.java" timestamp="1540276877072">
         <mark key="[" line="34" column="65" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/lease/consumer/lease-provider-Consumer/1.0.0-SNAPSHOT/lease-provider-Consumer-1.0.0-SNAPSHOT-sources.jar!/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1546067207442" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardModel.java" timestamp="1543374600747">
         <mark key="[" line="7" column="31" />
       </file>
@@ -544,7 +545,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1546047025787">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1546052532545">
+      <file name="/fragment.java" timestamp="1546067794084">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/UserPatitentModel.java" timestamp="1536821981535">
@@ -701,8 +702,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientGroupMemberMapper.xml" timestamp="1536307746604">
         <mark key="[" line="119" column="97" />
       </file>
-      <file name="$USER_HOME$/test/consumer/pom.xml" timestamp="1546046214282">
-        <mark key="[" line="5" column="23" />
+      <file name="$USER_HOME$/test/consumer/pom.xml" timestamp="1546067359299">
+        <mark key="[" line="31" column="25" />
         <mark key="]" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
@@ -982,11 +983,14 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/WxTemplateService.java" timestamp="1538013773034">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-provider/1.0.0/yirdoc-core-provider-1.0.0.pom" timestamp="1545640993033">
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-provider/1.0.0/yirdoc-core-provider-1.0.0.pom" timestamp="1546067430278">
         <mark key="[" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/OrderMainService.java" timestamp="1546061478341">
-        <mark key="[" line="78" column="5" />
+      <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/OrderMainService.java" timestamp="1546068121814">
+        <mark key="[" line="78" column="15" />
+        <mark key="]" line="78" column="14" />
+        <mark key="^" line="78" column="14" />
+        <mark key="." line="78" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
         <mark key="[" line="5" column="0" />
@@ -1000,10 +1004,10 @@
       <file name="$USER_HOME$/git-demo/README.md" timestamp="1541815976084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1546061229472">
-        <mark key="[" line="60" column="62" />
-        <mark key="]" line="60" column="21" />
-        <mark key="." line="60" column="21" />
+      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1546067248221">
+        <mark key="[" line="26" column="82" />
+        <mark key="]" line="26" column="82" />
+        <mark key="." line="26" column="82" />
         <mark key="^" line="60" column="72" />
       </file>
     </filemarks>
@@ -1066,10 +1070,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>delete</text>
+        <text>.toString();</text>
       </register>
       <register name="-" type="4">
-        <text>delete</text>
+        <text>.toString();</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
