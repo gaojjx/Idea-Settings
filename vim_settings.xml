@@ -115,11 +115,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/PatientTagMapper.xml" timestamp="1538038537945">
         <mark key="[" line="122" column="68" />
       </file>
-      <file name="$USER_HOME$/test/example/src/main/java/com/example/example/HelloController.java" timestamp="1546060307490">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="26" column="20" />
+      <file name="$USER_HOME$/test/example/src/main/java/com/example/example/HelloController.java" timestamp="1546062033993">
+        <mark key="[" line="38" column="47" />
+        <mark key="]" line="38" column="47" />
         <mark key="^" line="38" column="30" />
-        <mark key="." line="26" column="20" />
+        <mark key="." line="38" column="47" />
       </file>
       <file name="/JSON Fragment (JWTAuthenticationFilter.java:3968).json" timestamp="1542248830659">
         <mark key="[" line="0" column="0" />
@@ -985,8 +985,8 @@
       <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-provider/1.0.0/yirdoc-core-provider-1.0.0.pom" timestamp="1545640993033">
         <mark key="[" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/OrderMainService.java" timestamp="1546049532016">
-        <mark key="[" line="34" column="37" />
+      <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/OrderMainService.java" timestamp="1546061478341">
+        <mark key="[" line="78" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
         <mark key="[" line="5" column="0" />
@@ -1000,10 +1000,10 @@
       <file name="$USER_HOME$/git-demo/README.md" timestamp="1541815976084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1546060591841">
-        <mark key="[" line="60" column="36" />
-        <mark key="]" line="60" column="72" />
-        <mark key="." line="60" column="72" />
+      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1546061229472">
+        <mark key="[" line="60" column="62" />
+        <mark key="]" line="60" column="21" />
+        <mark key="." line="60" column="21" />
         <mark key="^" line="60" column="72" />
       </file>
     </filemarks>
@@ -1066,10 +1066,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>delete</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>delete</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
