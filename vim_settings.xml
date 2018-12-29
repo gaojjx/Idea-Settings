@@ -320,7 +320,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ChatLogMapper.java" timestamp="1540276877072">
         <mark key="[" line="34" column="65" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/yirdoc/lease/consumer/lease-provider-Consumer/1.0.0-SNAPSHOT/lease-provider-Consumer-1.0.0-SNAPSHOT-sources.jar!/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1546052530444" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardModel.java" timestamp="1543374600747">
         <mark key="[" line="7" column="31" />
       </file>
@@ -892,7 +891,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1542849876218">
         <mark key="[" line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/test/provider/Repository/src/main/java/com/yirdoc/lease/provider/repository/OrderMainRepository.java" timestamp="1546048206077" />
+      <file name="$USER_HOME$/test/provider/Repository/src/main/java/com/yirdoc/lease/provider/repository/OrderMainRepository.java" timestamp="1546055117272" />
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/spring-mybatis.xml" timestamp="1545810045495">
         <mark key="[" line="42" column="97" />
       </file>
@@ -1001,8 +1000,8 @@
       <file name="$USER_HOME$/git-demo/README.md" timestamp="1541815976084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1546052625317">
-        <mark key="[" line="52" column="26" />
+      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1546054546968">
+        <mark key="[" line="52" column="122" />
         <mark key="]" line="41" column="27" />
         <mark key="." line="41" column="27" />
       </file>
