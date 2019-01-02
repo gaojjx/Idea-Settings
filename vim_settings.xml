@@ -44,7 +44,6 @@
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/yirdoc/lease/consumer/lease-provider-Consumer/1.0.0-SNAPSHOT/lease-provider-Consumer-1.0.0-SNAPSHOT-sources.jar!/com/yirdoc/lease/provider/consumer/RedisBaseRepository.java" timestamp="1546395226352" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientDailyLogServiceImpl.java" timestamp="1539835330575">
         <mark key="[" line="310" column="49" />
       </file>
@@ -150,6 +149,12 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/provider/yirdoc.lease.provider-Web/src/main/java/resources/application.yml" timestamp="1545637820068">
         <mark key="[" line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/.gitignore" timestamp="1546400546122">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="26" column="1" />
+        <mark key="^" line="26" column="1" />
+        <mark key="." line="26" column="1" />
       </file>
       <file name="$USER_HOME$/code/springBootDemo/src/main/java/com/example/demo/entity/Emoji.java" timestamp="1539324537421">
         <mark key="[" line="2" column="20" />
@@ -287,8 +292,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/basicPayModel.java" timestamp="1534140709610">
         <mark key="[" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/resources/application.yml" timestamp="1546078428619">
-        <mark key="[" line="7" column="8" />
+      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/resources/application.yml" timestamp="1546400777770">
+        <mark key="[" line="24" column="38" />
         <mark key="]" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
@@ -391,7 +396,6 @@
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/weahan/util/util-data/1.2.0-SNAPSHOT/util-data-1.2.0-SNAPSHOT.jar!/com/weahan/utility/data/repository/redis/RedisBaseRepository.class" timestamp="1546394577631" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/config/WechatConfig.java" timestamp="1536213804068">
         <mark key="[" line="20" column="50" />
       </file>
@@ -407,10 +411,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/service/impl/MedicineServiceImpl.java" timestamp="1542684671410">
         <mark key="[" line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/pom.xml" timestamp="1546078530584">
-        <mark key="[" line="116" column="21" />
-        <mark key="]" line="115" column="25" />
-        <mark key="." line="115" column="25" />
+      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/pom.xml" timestamp="1546398925931">
+        <mark key="[" line="116" column="23" />
+        <mark key="]" line="116" column="23" />
+        <mark key="." line="116" column="23" />
       </file>
       <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/Test.java" timestamp="1545966557940">
         <mark key="[" line="13" column="82" />
@@ -435,6 +439,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardServiceTimeMapper.java" timestamp="1533798692121">
         <mark key="[" line="39" column="66" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java" timestamp="1546400653517" />
       <file name="$USER_HOME$/code/test/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1534753857417">
         <mark key="[" line="8" column="30" />
       </file>
@@ -461,7 +466,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1543476989369">
         <mark key="[" line="123" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545974778915">
+      <file name="/Dummy.txt" timestamp="1546400504583">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
@@ -552,7 +557,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1546047025787">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1546396210055">
+      <file name="/fragment.java" timestamp="1546399767524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -820,11 +825,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/PatientMapper.xml" timestamp="1538209949814">
         <mark key="[" line="37" column="72" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/resources/logback.xml" timestamp="1546077062252">
-        <mark key="[" line="157" column="38" />
-        <mark key="]" line="157" column="38" />
-        <mark key="." line="157" column="38" />
-      </file>
       <file name="/bhhx.dictionary [rds]" timestamp="1543040744755">
         <mark key="[" line="0" column="0" />
       </file>
@@ -958,8 +958,8 @@
       <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/service/impl/CustomAuthenticationProvider.java" timestamp="1542359410114">
         <mark key="[" line="36" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/java/com/haier/config/MybatisMasterDataSourceConfig.java" timestamp="1546077496009">
-        <mark key="[" line="17" column="56" />
+      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/java/com/haier/config/MybatisMasterDataSourceConfig.java" timestamp="1546400688909">
+        <mark key="[" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/Test.java" timestamp="1533611332540">
         <mark key="[" line="8" column="47" />
@@ -1096,10 +1096,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">QmFzZVByb3BlcnR5IA==</text>
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QmFzZVByb3BlcnR5IA==</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
