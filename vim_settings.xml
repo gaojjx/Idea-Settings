@@ -319,8 +319,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowUpGroupUserModel.java" timestamp="1537251600755">
         <mark key="[" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/test/example/pom.xml" timestamp="1546070681443">
-        <mark key="[" line="29" column="21" />
+      <file name="$USER_HOME$/test/example/pom.xml" timestamp="1546422380320">
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/sqlXml.ftl" timestamp="1545974713909">
         <mark key="[" line="33" column="11" />
@@ -734,15 +736,12 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpArticleServiceImpl.java" timestamp="1537234469469">
         <mark key="[" line="48" column="77" />
       </file>
-      <file name="$USER_HOME$/test/example/src/main/java/com/example/example/ExampleApplication.java" timestamp="1546047072971">
-        <mark key="[" line="7" column="42" />
-      </file>
       <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/RedisBaseRepository.java" timestamp="1546394936506">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/test/provider/Service/pom.xml" timestamp="1546418987092">
+      <file name="$USER_HOME$/test/provider/Service/pom.xml" timestamp="1546419958539">
         <mark key="[" line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/RefundOrderMapper.java" timestamp="1544063942456">
@@ -1052,6 +1051,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/TestController.java" timestamp="1544598107846">
         <mark key="[" line="15" column="28" />
       </file>
+      <file name="$USER_HOME$/test/example/src/main/java/com/example/example/feign/OrderMainService.java" timestamp="1546429021534">
+        <mark key="[" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/WxTemplateService.java" timestamp="1538013773034">
         <mark key="[" line="1" column="0" />
       </file>
@@ -1135,11 +1137,11 @@
       <jump line="640" column="28" filename="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/controller/HomeController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>jackson</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>jackson</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
