@@ -53,6 +53,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceLogServiceImpl.java" timestamp="1533192369778">
         <mark key="[" line="93" column="117" />
       </file>
+      <file name="$USER_HOME$/code/feign-demo/src/main/java/com/example/fegindemo/FeginDemoApplication.java" timestamp="1546432191401">
+        <mark key="[" line="7" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketController.java" timestamp="1535449531275">
         <mark key="[" line="33" column="83" />
       </file>
@@ -412,7 +415,7 @@
         <mark key="]" line="22" column="14" />
         <mark key="." line="22" column="14" />
       </file>
-      <file name="$USER_HOME$/test/provider/Model/pom.xml" timestamp="1545890593626">
+      <file name="$USER_HOME$/test/provider/Model/pom.xml" timestamp="1546430559514">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
@@ -465,6 +468,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyCardService.java" timestamp="1543914139881">
         <mark key="[" line="151" column="8" />
+      </file>
+      <file name="$USER_HOME$/code/feign-demo/src/test/java/com/example/fegindemo/client/OrderMainServiceTest.java" timestamp="1546432707076">
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookInfoMapper.xml" timestamp="1544427285272">
         <mark key="[" line="124" column="89" />
@@ -578,7 +584,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1546047025787">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1546413117234">
+      <file name="/fragment.java" timestamp="1546432383723">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -721,6 +727,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1535439910265">
         <mark key="[" line="84" column="94" />
       </file>
+      <file name="$USER_HOME$/code/feign-demo/pom.xml" timestamp="1546430356882">
+        <mark key="[" line="45" column="21" />
+      </file>
       <file name="$USER_HOME$/refund_order.sql" timestamp="1543219850240">
         <mark key="[" line="10" column="50" />
       </file>
@@ -741,7 +750,7 @@
         <mark key="]" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/test/provider/Service/pom.xml" timestamp="1546419958539">
+      <file name="$USER_HOME$/test/provider/Service/pom.xml" timestamp="1546430539490">
         <mark key="[" line="30" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/RefundOrderMapper.java" timestamp="1544063942456">
@@ -891,6 +900,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/CardTypeServiceImplTest.java" timestamp="1538039330198">
         <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/feign-demo/src/main/resources/application.properties" timestamp="1546432237843">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Model/pom.xml" timestamp="1545725894435">
         <mark key="[" line="10" column="0" />
