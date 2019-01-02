@@ -439,7 +439,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardServiceTimeMapper.java" timestamp="1533798692121">
         <mark key="[" line="39" column="66" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java" timestamp="1546400653517" />
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2-sources.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.java" timestamp="1546401514142" />
       <file name="$USER_HOME$/code/test/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1534753857417">
         <mark key="[" line="8" column="30" />
       </file>
@@ -672,8 +672,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/HospitalController.java" timestamp="1542361199217">
         <mark key="[" line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/java/com/haier/ProxyAdminApplication.java" timestamp="1546078626681">
-        <mark key="[" line="15" column="48" />
+      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/java/com/haier/ProxyAdminApplication.java" timestamp="1546401748389">
+        <mark key="[" line="15" column="45" />
         <mark key="]" line="15" column="47" />
         <mark key="." line="15" column="47" />
       </file>
@@ -937,6 +937,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorArticleController.java" timestamp="1537241933230">
         <mark key="[" line="33" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/binding/MapperRegistry.java" timestamp="1546401930177" />
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/config/SwaggerConfig.java" timestamp="1542614408345">
         <mark key="[" line="35" column="16" />
       </file>
@@ -958,8 +959,10 @@
       <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/service/impl/CustomAuthenticationProvider.java" timestamp="1542359410114">
         <mark key="[" line="36" column="69" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/java/com/haier/config/MybatisMasterDataSourceConfig.java" timestamp="1546400688909">
-        <mark key="[" line="16" column="27" />
+      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/java/com/haier/config/MybatisMasterDataSourceConfig.java" timestamp="1546401656143">
+        <mark key="[" line="38" column="62" />
+        <mark key="]" line="38" column="62" />
+        <mark key="." line="38" column="62" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/Test.java" timestamp="1533611332540">
         <mark key="[" line="8" column="47" />
@@ -1096,10 +1099,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>7</text>
+        <text>@Qualifier(&quot;mybatisMasterSqlSessionFactory&quot;)S</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>@Qualifier(&quot;mybatisMasterSqlSessionFactory&quot;)S</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
