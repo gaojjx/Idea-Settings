@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorBookCalendarController.java" timestamp="1542613683971">
         <mark key="[" line="45" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1545983090183">
+      <file name="/a.dummy" timestamp="1546397362526">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/impl/SfCabinetServiceImpl.java" timestamp="1545729690589">
@@ -110,11 +110,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/PatientTagMapper.xml" timestamp="1538038537945">
         <mark key="[" line="122" column="68" />
       </file>
-      <file name="$USER_HOME$/test/example/src/main/java/com/example/example/HelloController.java" timestamp="1546394810221">
-        <mark key="[" line="27" column="26" />
-        <mark key="]" line="42" column="8" />
-        <mark key="^" line="42" column="30" />
-        <mark key="." line="42" column="8" />
+      <file name="$USER_HOME$/test/example/src/main/java/com/example/example/HelloController.java" timestamp="1546397323011">
+        <mark key="[" line="38" column="69" />
+        <mark key="]" line="38" column="8" />
+        <mark key="^" line="38" column="30" />
+        <mark key="." line="38" column="8" />
       </file>
       <file name="/JSON Fragment (JWTAuthenticationFilter.java:3968).json" timestamp="1542248830659">
         <mark key="[" line="0" column="0" />
@@ -125,8 +125,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/SfRecordMapper.java" timestamp="1540632076356">
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderFeeConsumer.java" timestamp="1546393673137">
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderFeeConsumer.java" timestamp="1546397388587">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="38" />
+        <mark key="." line="22" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientDailyLogMapper.xml" timestamp="1542352613235">
         <mark key="[" line="192" column="90" />
@@ -1032,8 +1034,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1546396301115">
-        <mark key="[" line="26" column="106" />
-        <mark key="^" line="63" column="72" />
+        <mark key="^" line="57" column="72" />
       </file>
     </filemarks>
     <jumps>
@@ -1095,10 +1096,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.getGenericSuperclass()</text>
+        <text encoding="base64">QmFzZVByb3BlcnR5IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.getGenericSuperclass()</text>
+        <text encoding="base64">QmFzZVByb3BlcnR5IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
