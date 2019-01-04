@@ -669,8 +669,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/service.ftl" timestamp="1546415979561">
         <mark key="[" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-web-1.0.0-pom.xml" timestamp="1546572471808">
-        <mark key="[" line="6" column="15" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-web-1.0.0-pom.xml" timestamp="1546574144095">
+        <mark key="[" line="19" column="64" />
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
