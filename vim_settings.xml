@@ -143,10 +143,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/wxpay/WechatProperties.java" timestamp="1545207514520">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/test/yirdoc.lease/pom.xml" timestamp="1546585314684">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
+      <file name="$USER_HOME$/test/yirdoc.lease/pom.xml" timestamp="1546585392077">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="15" />
+        <mark key="." line="9" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-boot-1.0.0-pom.xml" timestamp="1546585199049" />
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/wxpay/common/WeChatConfig.java" timestamp="1545205925211">
@@ -312,7 +312,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowUpGroupUserModel.java" timestamp="1537251600755">
         <mark key="[" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/test/example/pom.xml" timestamp="1546422380320">
+      <file name="$USER_HOME$/test/example/pom.xml" timestamp="1546585354169">
         <mark key="[" line="37" column="30" />
         <mark key="]" line="37" column="30" />
         <mark key="." line="37" column="30" />
@@ -1157,10 +1157,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>pom</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>pom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
