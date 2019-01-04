@@ -155,10 +155,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/wxpay/WechatProperties.java" timestamp="1545207514520">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-boot-1.0.0-pom.xml" timestamp="1546570395550">
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="81" column="37" />
-        <mark key="." line="81" column="37" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-boot-1.0.0-pom.xml" timestamp="1546572509180">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/wxpay/common/WeChatConfig.java" timestamp="1545205925211">
         <mark key="[" line="11" column="14" />
@@ -504,7 +504,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1543476989369">
         <mark key="[" line="123" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546566917406">
+      <file name="/Dummy.txt" timestamp="1546572291496">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
@@ -669,8 +669,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/service.ftl" timestamp="1546415979561">
         <mark key="[" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-web-1.0.0-pom.xml" timestamp="1545641479121">
-        <mark key="[" line="34" column="21" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-web-1.0.0-pom.xml" timestamp="1546572471808">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/CardServiceChatModel.java" timestamp="1542867871754">
         <mark key="[" line="25" column="34" />
@@ -727,6 +729,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientTagMapper.java" timestamp="1534398702481">
         <mark key="[" line="32" column="58" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/weahan/core/weahan-core-cloud/1.1.2/weahan-core-cloud-1.1.2.pom" timestamp="1546572358309" />
       <file name="$USER_HOME$/Projects/yirdoc/front/bhhx3-user/src/components/home/changeUser.vue" timestamp="1542873442362">
         <mark key="[" line="6" column="42" />
       </file>
@@ -1178,10 +1181,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>boot</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>boot</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
