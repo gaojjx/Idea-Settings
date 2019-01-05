@@ -144,14 +144,13 @@
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/wxpay/WechatProperties.java" timestamp="1545207514520">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/test/yirdoc.lease/pom.xml" timestamp="1546590177137">
-        <mark key="[" line="34" column="21" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
+      <file name="$USER_HOME$/test/yirdoc.lease/pom.xml" timestamp="1546665809687">
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="14" column="19" />
+        <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-boot-1.0.0-pom.xml" timestamp="1546659773197">
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-boot-1.0.0-pom.xml" timestamp="1546665717637">
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/wxpay/common/WeChatConfig.java" timestamp="1545205925211">
         <mark key="[" line="11" column="14" />
@@ -653,10 +652,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/service.ftl" timestamp="1546415979561">
         <mark key="[" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-web-1.0.0-pom.xml" timestamp="1546585203861">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-web-1.0.0-pom.xml" timestamp="1546666333652">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/CardServiceChatModel.java" timestamp="1542867871754">
         <mark key="[" line="25" column="34" />
@@ -798,6 +797,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/doc/退款流程.md" timestamp="1544670739550">
         <mark key="[" line="64" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/.gitignore" timestamp="1546665458828">
+        <mark key="[" line="4" column="15" />
       </file>
       <file name="/RegExp Fragment (WeixinPayServiceImpl.java:1668).regexp" timestamp="1534146709579">
         <mark key="[" line="0" column="0" />
@@ -1162,10 +1164,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08RTU+PDhGPjxBRj48RTQ+PEJCPjxBNT48RTY+PDhBPjw4QT48RTQ+PEJFPjw5RD48RTg+PEI1Pjw5Nj48RTc+PDlBPjw4ND48RTU+PDhDPjw4NT48RTk+PDgzPjxCRD48RTY+PDg5Pjw5Mz48RTU+PDhDPjw4NT48RTU+PDg4PjxCMD48RTc+PDk0Pjw5Rj48RTY+PDg4Pjw5MD48RTc+PDlBPjw4ND5KYXI8RTU+PDhDPjw4NT48RTQ+PEI4PjxBRD4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWFpbkNsYXNzPiR7c3RhcnQtY2xhc3N9PC9tYWluQ2xhc3M+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
@@ -1174,34 +1176,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08RTU+PDhGPjxBRj48RTQ+PEJCPjxBNT48RTY+PDhBPjw4QT48RTQ+PEJFPjw5RD48RTg+PEI1Pjw5Nj48RTc+PDlBPjw4ND48RTU+PDhDPjw4NT48RTk+PDgzPjxCRD48RTY+PDg5Pjw5Mz48RTU+PDhDPjw4NT48RTU+PDg4PjxCMD48RTc+PDk0Pjw5Rj48RTY+PDg4Pjw5MD48RTc+PDlBPjw4ND5KYXI8RTU+PDhDPjw4NT48RTQ+PEI4PjxBRD4tLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWFpbkNsYXNzPiR7c3RhcnQtY2xhc3N9PC9tYWluQ2xhc3M+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAoRU5EKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS08RTU+PDhGPjxBRj48RTQ+PEJCPjxBNT48RTY+PDhBPjw4QT48RTQ+PEJFPjw5RD48RTg+PEI1Pjw5Nj48RTc+PDlBPjw4ND48RTU+PDhDPjw4NT48RTk+PDgzPjxCRD48RTY+PDg5Pjw5Mz48RTU+PDhDPjw4NT48RTU+PDg4PjxCMD48RTc+PDk0Pjw5Rj48RTY+PDg4Pjw5MD48RTc+PDlBPjw4ND5KYXI8RTU+PDhDPjw4NT48RTQ+PEI4PjxBRD4tLT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25maWctbG9jYXRpb246IGNsYXNzcGF0aDpteWJhdGlzLWNvbmZpZy54bWwKICB0eXBlLWFsaWFzZXMtcGFja2FnZTogY29tLnlpcmRvYy5sZWFzZS5tYXBwZXIK</text>
+        <text encoding="base64">ICAgICAgICAoRU5EKQo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtzcHJpbmctY2xvdWQudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICBjb25maWctbG9jYXRpb246IGNsYXNzcGF0aDpteWJhdGlzLWNvbmZpZy54bWwKICB0eXBlLWFsaWFzZXMtcGFja2FnZTogY29tLnlpcmRvYy5sZWFzZS5tYXBwZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtzcHJpbmctY2xvdWQudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBSZXF1ZXN0TGluZSgiR0VUIC9vcmRlck1haW4ve2lkfSIpCg==</text>
+        <text encoding="base64">CXB1YmxpYyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIve2lkfSIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQo=</text>
+        <text encoding="base64">CUBSZXF1ZXN0TGluZSgiR0VUIC9vcmRlck1haW4ve2lkfSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIve2lkfSIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS53ZWFoYW4udXRpbGl0eS5kYXRhLnJlcG9zaXRvcnkucmVkaXMuUmVkaXNCYXNlUmVwb3NpdG9yeTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
