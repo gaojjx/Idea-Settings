@@ -496,7 +496,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1543476989369">
         <mark key="[" line="123" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546667962645">
+      <file name="/Dummy.txt" timestamp="1546673463043">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
@@ -1099,11 +1099,6 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1544772796295">
         <mark key="[" line="42" column="8" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/application.yml" timestamp="1546502460462">
-        <mark key="[" line="78" column="45" />
-        <mark key="]" line="78" column="45" />
-        <mark key="." line="78" column="45" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-consumer/1.0.0-SNAPSHOT/yirdoc-core-consumer-1.0.0-SNAPSHOT.pom" timestamp="1545890753198">
         <mark key="[" line="42" column="21" />
