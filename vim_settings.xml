@@ -3,43 +3,195 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardModel.java" timestamp="1536047049568">
+        <mark key="[" line="87" column="47" />
+      </file>
+      <file name="/JSON Fragment (JWTAuthenticationFilter.java:3766).json" timestamp="1542247871845">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JSON Fragment (JWTAuthenticationFilter.java:2957).json" timestamp="1542246364048">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/test/yirdoc.lease/src/main/resources/application-prod.yml" timestamp="1546679391551">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="12" />
         <mark key="." line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorBookCalendarController.java" timestamp="1542613683971">
+        <mark key="[" line="45" column="30" />
+      </file>
+      <file name="/a.dummy" timestamp="1546506881029">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/impl/SfCabinetServiceImpl.java" timestamp="1545729690589">
+        <mark key="[" line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-doctor-pc/src/main/resources/druid.properties" timestamp="1541401331300">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/Maven Project.txt.ft" timestamp="1533109069540">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/DoctorConfiguration.java" timestamp="1537948297219">
+        <mark key="[" line="0" column="34" />
+      </file>
+      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/ProviderUri.java" timestamp="1545987601218">
+        <mark key="[" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/payDoctorCardModel.java" timestamp="1533976497549">
+        <mark key="[" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/README.md" timestamp="1537415857860">
+        <mark key="[" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Consumer.ftl" timestamp="1546919100885">
         <mark key="[" line="5" column="28" />
         <mark key="]" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientDailyLogServiceImpl.java" timestamp="1539835330575">
+        <mark key="[" line="310" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/ArticleServiceImpl.java" timestamp="1543048146249">
+        <mark key="[" line="37" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceLogServiceImpl.java" timestamp="1533192369778">
+        <mark key="[" line="93" column="117" />
+      </file>
+      <file name="$USER_HOME$/code/feign-demo/src/main/java/com/example/fegindemo/FeginDemoApplication.java" timestamp="1546563345186">
+        <mark key="[" line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketController.java" timestamp="1535449531275">
+        <mark key="[" line="33" column="83" />
+      </file>
       <file name="$USER_HOME$/Downloads/map-polygon.html" timestamp="1545982895740">
         <mark key="[" line="42" column="4" />
         <mark key="]" line="42" column="4" />
         <mark key="." line="42" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientActionLogMapper.xml" timestamp="1539656259135">
+        <mark key="[" line="157" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/pom.xml" timestamp="1545897321684">
+        <mark key="[" line="49" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientCardPayLogMapper.xml" timestamp="1543977752879">
+        <mark key="[" line="169" column="90" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/provider/yirdoc.lease.provider-Repository/pom.xml" timestamp="1545636264956">
+        <mark key="[" line="21" column="8" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Application localhost.http" timestamp="1542071661566">
+        <mark key="[" line="0" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/serviceImpl.ftl" timestamp="1545642728539">
+        <mark key="[" line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/OrderFeeService.java" timestamp="1546851999728">
+        <mark key="[" line="4" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/util-core/src/main/java/com/yirdoc/util/file/AmrToMp3.java" timestamp="1540388935598">
+        <mark key="[" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/test/yirdoc.lease.provider/provider/Web/src/main/resources/application.yml" timestamp="1546918651435">
         <mark key="[" line="3" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/DoctorTodoModel.java" timestamp="1537147333784">
+        <mark key="[" line="2" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-boot-pom.xml" timestamp="1546852529091">
         <mark key="[" line="20" column="33" />
         <mark key="]" line="20" column="33" />
         <mark key="." line="20" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorTodoController.java" timestamp="1538881998822">
+        <mark key="[" line="25" column="12" />
+      </file>
+      <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderStateLogConsumer.java" timestamp="1546410277897">
+        <mark key="[" line="22" column="55" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/core/yirdoc-core-consumer/src/main/java/com/yirdoc/consumer/BaseConsumer.java" timestamp="1546413389267">
         <mark key="[" line="32" column="39" />
         <mark key="]" line="32" column="39" />
         <mark key="." line="32" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/BillOrderMapper.xml" timestamp="1543299839040">
+        <mark key="[" line="239" column="82" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/WeixinPayServiceImplTest.java" timestamp="1543214134593">
+        <mark key="[" line="42" column="5" />
+      </file>
+      <file name="/bhhx.card_service_type [rds]" timestamp="1542695202117">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/controller/HospitalAZController.java" timestamp="1545815181477">
+        <mark key="[" line="16" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TagServiceImpl.java" timestamp="1534405725283">
+        <mark key="[" line="90" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/build/Test.java" timestamp="1545897683704">
+        <mark key="[" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/PatientTagMapper.xml" timestamp="1538038537945">
+        <mark key="[" line="122" column="68" />
+      </file>
+      <file name="$USER_HOME$/test/example/src/main/java/com/example/example/HelloController.java" timestamp="1546930267169">
+        <mark key="[" line="40" column="64" />
+        <mark key="]" line="40" column="64" />
+        <mark key="." line="40" column="64" />
+      </file>
+      <file name="/JSON Fragment (JWTAuthenticationFilter.java:3968).json" timestamp="1542248830659">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/DoctorCardServiceTest.java" timestamp="1536743564852">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/SfRecordMapper.java" timestamp="1540632076356">
+        <mark key="[" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderFeeConsumer.java" timestamp="1546397388587">
         <mark key="[" line="22" column="38" />
         <mark key="]" line="22" column="38" />
         <mark key="." line="22" column="38" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientDailyLogMapper.xml" timestamp="1542352613235">
+        <mark key="[" line="192" column="90" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebsocketEndpoint.java" timestamp="1535596201818">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/wxpay/WechatProperties.java" timestamp="1545207514520">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-boot-1.0.0-pom.xml" timestamp="1546665717637">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/wxpay/common/WeChatConfig.java" timestamp="1545205925211">
+        <mark key="[" line="11" column="14" />
+      </file>
+      <file name="/JSON Fragment (DisposableCompletableObserver.java:2421).json" timestamp="1543043361571">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/FeginDemoApplication.http" timestamp="1546486948313">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="11" column="26" />
         <mark key="." line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/ServiceEvaluate.java" timestamp="1535617398270">
+        <mark key="[" line="29" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/provider/yirdoc.lease.provider-Web/src/main/java/resources/application.yml" timestamp="1545637820068">
+        <mark key="[" line="3" column="37" />
+      </file>
+      <file name="$USER_HOME$/code/springBootDemo/src/main/java/com/example/demo/entity/Emoji.java" timestamp="1539324537421">
+        <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/Test.java" timestamp="1535015399271">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/FamilyCardModel.java" timestamp="1544778557055">
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/RedisConsumer.java" timestamp="1546394916165">
         <mark key="[" line="4" column="0" />
@@ -56,29 +208,195 @@
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/WebSocketInterceptor.java" timestamp="1535447329228">
+        <mark key="[" line="2" column="34" />
+      </file>
+      <file name="/a.sql" timestamp="1538292821382">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/test/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/OrderFeeService.java" timestamp="1546911803309" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BillOrder.java" timestamp="1543887652027">
+        <mark key="[" line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientWeeklyReportMapper.java" timestamp="1534735024507">
+        <mark key="[" line="32" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/WuhuaCubicServiceImplTest.java" timestamp="1536026665762">
+        <mark key="[" line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/AliPayServiceImpl.java" timestamp="1534131273761">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1543042600454">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1543047291470">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorBookCalendarSchedule.java" timestamp="1545038360659">
+        <mark key="[" line="64" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/mapper/ArticleMapper.java" timestamp="1542678850703">
+        <mark key="[" line="28" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/CardServiceController.java" timestamp="1542360976397">
+        <mark key="[" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/test/yirdoc.lease/src/main/resources/application-dev.yml" timestamp="1546679408855">
+        <mark key="[" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/UserFamilyModel.java" timestamp="1539056144904">
+        <mark key="[" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/TestController.java" timestamp="1535611569067">
+        <mark key="[" line="21" column="25" />
+      </file>
+      <file name="/RegExp Fragment (CallBackController.java:4915).regexp" timestamp="1542618477726">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserMapper.java" timestamp="1540524267713">
+        <mark key="[" line="39" column="101" />
+      </file>
       <file name="$USER_HOME$/test/provider/Web/src/main/resources/application.yml" timestamp="1546505055796">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="32" />
         <mark key="." line="4" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/weixinlib/src/main/java/com/yirdoc_utils_weixin/wxpay/common/WeChatConfig.java" timestamp="1534833913137">
+        <mark key="[" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/WechatTemplateServiceImpl.java" timestamp="1536201748197">
+        <mark key="[" line="28" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientWeeklyReportMapperTest.java" timestamp="1534733994785">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceTimeServiceImpl.java" timestamp="1533799686980">
+        <mark key="[" line="117" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientGroupModel.java" timestamp="1536313004618">
+        <mark key="[" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/RefundOrder.java" timestamp="1545442666906">
+        <mark key="[" line="19" column="19" />
+      </file>
+      <file name="/Maven Settings.txt.ft" timestamp="1533109068149">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/BasicPayModel.java" timestamp="1543214247035">
+        <mark key="[" line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/CardServiceController.java" timestamp="1542614698199">
+        <mark key="[" line="27" column="56" />
+      </file>
+      <file name="$USER_HOME$/10.12.md" timestamp="1539333274662">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/CardServiceChatModel.java" timestamp="1540877928881">
+        <mark key="[" line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorTodoModel.java" timestamp="1538881319403">
+        <mark key="[" line="7" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatPayConfiguration.java" timestamp="1543304477181">
+        <mark key="[" line="33" column="104" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Service.ftl" timestamp="1546917858587">
         <mark key="[" line="22" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/FamilyServiceImpl.java" timestamp="1536736390926">
+        <mark key="[" line="218" column="5" />
+      </file>
+      <file name="$USER_HOME$/follow_up.sql" timestamp="1537178520323">
+        <mark key="[" line="72" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/entity/Patient.java" timestamp="1538209777696">
+        <mark key="[" line="61" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/WechatTemplateService.java" timestamp="1536201139134">
+        <mark key="[" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/Family.java" timestamp="1536823346674">
+        <mark key="[" line="36" column="24" />
+      </file>
+      <file name="/JSON Fragment (WebSocketEndpoint.java:1034).json" timestamp="1535610690619">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/FamilyCardMapper.xml" timestamp="1544778614805">
+        <mark key="[" line="165" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/Application.java" timestamp="1545206161745">
+        <mark key="[" line="7" column="46" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/basicPayModel.java" timestamp="1534140709610">
+        <mark key="[" line="4" column="52" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/lease/consumer/lease-provider-Consumer/1.0.0-SNAPSHOT/lease-provider-Consumer-1.0.0-SNAPSHOT-sources.jar!/com/yirdoc/lease/provider/consumer/OrderMainConsumer.java" timestamp="1546930225116" />
       <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/resources/application.yml" timestamp="1546400777770">
         <mark key="[" line="24" column="38" />
         <mark key="]" line="7" column="8" />
         <mark key="." line="7" column="8" />
       </file>
-      <file name="$USER_HOME$/test/example/pom.xml" timestamp="1546915480538">
-        <mark key="[" line="48" column="21" />
-        <mark key="]" line="37" column="30" />
-        <mark key="." line="37" column="30" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowUpGroupUserModel.java" timestamp="1537251600755">
+        <mark key="[" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1546917083132">
-        <mark key="[" line="117" column="54" />
-        <mark key="]" line="117" column="54" />
-        <mark key="." line="117" column="54" />
+      <file name="$USER_HOME$/test/example/pom.xml" timestamp="1546929992333">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="37" column="45" />
+        <mark key="." line="37" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/sqlXml.ftl" timestamp="1545974713909">
+        <mark key="[" line="33" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/config-server/src/main/java/com/yirdoc/configserver/ConfigServerApplication.java" timestamp="1536046434355">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b7b579c-2edb-4f99-9bac-bcd15eac4289/console.sql" timestamp="1543041248717">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/RefundOrderService.java" timestamp="1543911397965">
+        <mark key="[" line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookCalendarMapper.xml" timestamp="1544426312142">
+        <mark key="[" line="147" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/UserDoc.java" timestamp="1538200917815">
+        <mark key="[" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/springBootDemo/src/main/java/com/example/demo/mapper/EmojiMapper.java" timestamp="1539328527736">
+        <mark key="[" line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ChatLogMapper.java" timestamp="1540276877072">
+        <mark key="[" line="34" column="65" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/PatientCardModel.java" timestamp="1543374600747">
+        <mark key="[" line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/active_code.sql" timestamp="1540618255606">
+        <mark key="[" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/Dictionary.java" timestamp="1542892689986">
+        <mark key="[" line="10" column="49" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/generator/GeneratorProvider.java" timestamp="1546924640657">
+        <mark key="[" line="86" column="67" />
+        <mark key="]" line="118" column="54" />
+        <mark key="." line="118" column="54" />
+      </file>
+      <file name="$USER_HOME$/test/example/src/main/java/com/example/example/TestMapper.java" timestamp="1545723770917">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/test/Test.java" timestamp="1545208600251">
+        <mark key="[" line="7" column="15" />
+      </file>
+      <file name="/RegExp Fragment (DisposableCompletableObserver.java:2423).regexp" timestamp="1543043347303">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/chat_log.sql" timestamp="1538015923736">
+        <mark key="[" line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/git-demo/.gitignore" timestamp="1541815634120">
+        <mark key="[" line="30" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/consumer/pom.xml" timestamp="1545890050176">
         <mark key="[" line="21" column="45" />
@@ -90,6 +408,36 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/spring-mvc.xml" timestamp="1545808460198">
+        <mark key="[" line="22" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/Test.java" timestamp="1540795326964">
+        <mark key="[" line="2" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/builders/RequestHandlerSelectors.java" timestamp="1545889611465">
+        <mark key="[" line="97" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorCardModel.java" timestamp="1539669392210">
+        <mark key="[" line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/SfReceiveAddressService.java" timestamp="1545873329771">
+        <mark key="[" line="5" column="60" />
+      </file>
+      <file name="/Maven Profiles.txt.ft" timestamp="1533109066535">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebSocketEndpoint.java" timestamp="1535611582904">
+        <mark key="[" line="57" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/SfRecordMapper.xml" timestamp="1540633799710">
+        <mark key="[" line="140" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/pojo/BaseGuomin.java" timestamp="1540266010875">
+        <mark key="[" line="135" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorAccountBalanceLog.java" timestamp="1543916020366">
+        <mark key="[" line="14" column="27" />
+      </file>
       <file name="$USER_HOME$/test/provider/Web/pom.xml" timestamp="1546415134626">
         <mark key="[" line="36" column="21" />
         <mark key="]" line="22" column="14" />
@@ -99,6 +447,21 @@
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="13" />
         <mark key="." line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/config/WechatConfig.java" timestamp="1536213804068">
+        <mark key="[" line="20" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorModel.java" timestamp="1541732014593">
+        <mark key="[" line="11" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/ArticleController.java" timestamp="1542675011062">
+        <mark key="[" line="39" column="60" />
+      </file>
+      <file name="/XML Properties File.txt.ft" timestamp="1533109034838">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/service/impl/MedicineServiceImpl.java" timestamp="1542684671410">
+        <mark key="[" line="29" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/pom.xml" timestamp="1546501183814">
         <mark key="[" line="112" column="23" />
@@ -110,43 +473,229 @@
         <mark key="]" line="13" column="82" />
         <mark key="." line="13" column="82" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/TagMapper.xml" timestamp="1534405636978">
+        <mark key="[" line="136" column="71" />
+      </file>
+      <file name="$USER_HOME$/test/example/src/main/java/com/example/example/feign/OrderMainFeignBuilder.java" timestamp="1546478700379">
+        <mark key="[" line="2" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/Appliction.java" timestamp="1540274310864">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/SwaggerConfig.java" timestamp="1545889525667">
+        <mark key="[" line="25" column="92" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/FengChaoServiceImplTest.java" timestamp="1540628695884">
+        <mark key="[" line="30" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientMedicalHistoryServiceImpl.java" timestamp="1532748456867">
+        <mark key="[" line="36" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardServiceTimeMapper.java" timestamp="1533798692121">
+        <mark key="[" line="39" column="66" />
+      </file>
+      <file name="$USER_HOME$/code/test/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1534753857417">
+        <mark key="[" line="8" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyCardService.java" timestamp="1543914139881">
+        <mark key="[" line="151" column="8" />
+      </file>
       <file name="$USER_HOME$/code/feign-demo/src/test/java/com/example/fegindemo/client/OrderMainServiceTest.java" timestamp="1546497567826">
         <mark key="[" line="17" column="56" />
         <mark key="]" line="17" column="56" />
         <mark key="." line="17" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookInfoMapper.xml" timestamp="1544427285272">
+        <mark key="[" line="124" column="89" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/PatientCardServiceImpl.java" timestamp="1538977129418">
+        <mark key="[" line="47" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/fileWriter/FileWriterFactory.java" timestamp="1545887587712">
         <mark key="[" line="113" column="60" />
         <mark key="]" line="71" column="31" />
         <mark key="." line="71" column="31" />
       </file>
+      <file name="/Dummy.vm" timestamp="1543048031483">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1543213818762">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1543476989369">
+        <mark key="[" line="123" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1546843473921">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
+        <mark key="[" line="18" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-1.0.0-pom.xml" timestamp="1546670516796">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientGroupMemberMapper.java" timestamp="1536307693186">
+        <mark key="[" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Web/src/main/java/resources/application.yml" timestamp="1545715205511">
+        <mark key="[" line="0" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatProperties.java" timestamp="1545210815667">
+        <mark key="[" line="31" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/CardTypeController.java" timestamp="1542360984556">
+        <mark key="[" line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/controller/HospitalController.java" timestamp="1542772069264">
+        <mark key="[" line="48" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientTagService.java" timestamp="1534398926518">
+        <mark key="[" line="60" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/FollowUpGroupUserService.java" timestamp="1539056313640">
+        <mark key="[" line="87" column="75" />
+      </file>
+      <file name="$USER_HOME$/code/RxJava/src/main/java/io/reactivex/observers/DisposableCompletableObserver.java" timestamp="1543045522418">
+        <mark key="[" line="58" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/pom.xml" timestamp="1546852389600">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/weahan/payment-provider/payment-provider-pay/payment-provider-pay-provider/src/main/java/com/weahan/base/payment/provider/pay/provider/PayProvider.java" timestamp="1545209897607">
+        <mark key="[" line="51" column="94" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/table/Table.java" timestamp="1545882047404">
         <mark key="[" line="70" column="123" />
         <mark key="]" line="70" column="123" />
         <mark key="." line="70" column="123" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardService.java" timestamp="1543975045647">
+        <mark key="[" line="147" column="47" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3b3c4a3a-7046-4c35-9688-760003636f26/console.sql" timestamp="1542360089753">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1543042645158">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/Application.http" timestamp="1546591083857">
         <mark key="[" line="300" column="35" />
         <mark key="]" line="274" column="36" />
         <mark key="." line="274" column="36" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/WeixinQRModel.java" timestamp="1533203093713">
+        <mark key="[" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupUserServiceImplTest.java" timestamp="1537260364945">
+        <mark key="[" line="32" column="98" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorAccountService.java" timestamp="1534149772480">
+        <mark key="[" line="53" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/DataTransfer.java" timestamp="1538884357301">
+        <mark key="[" line="60" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientActionPlanMedicineMapper.java" timestamp="1537519844739">
+        <mark key="[" line="31" column="80" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/RefundOrderModel.java" timestamp="1543472280967">
+        <mark key="[" line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WxConfiguration.java" timestamp="1534838276104">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="/JSON Fragment (CallBackController.java:5725).json" timestamp="1536290650147">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/settings.xml" timestamp="1546669958075">
+        <mark key="[" line="11" column="83" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserDocMapper.xml" timestamp="1533286284477">
+        <mark key="[" line="152" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientAllergyItemMapperTest.java" timestamp="1539743282433">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorAccountServiceImpl.java" timestamp="1543972202192">
+        <mark key="[" line="134" column="43" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1546047025787">
+        <mark key="[" line="0" column="26" />
+      </file>
       <file name="/fragment.java" timestamp="1546843480381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/UserPatitentModel.java" timestamp="1536821981535">
+        <mark key="[" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/test/demo/src/main/resources/application.properties" timestamp="1534754654948">
+        <mark key="[" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/service/impl/UserServiceImpl.java" timestamp="1540281540574">
+        <mark key="[" line="10" column="25" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Application_localhost.http" timestamp="1540781727730">
+        <mark key="[" line="36" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/DemoApplication.http" timestamp="1534917971544">
+        <mark key="[" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/dev/jdbc.properties" timestamp="1545804715003">
+        <mark key="[" line="1" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SwaggerController.java" timestamp="1533009472678">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/WeChatMenuRedirectController.java" timestamp="1543989871149">
+        <mark key="[" line="39" column="12" />
+      </file>
+      <file name="/article [rds]" timestamp="1543213751822">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/lease/service/impl/OrderStateLogServiceImpl.java" timestamp="1545804379813">
+        <mark key="[" line="41" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Service/pom.xml" timestamp="1545725864131">
+        <mark key="[" line="20" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/BillOrderMapper.java" timestamp="1543299805933">
+        <mark key="[" line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardPayLogMapper.java" timestamp="1543473374002">
+        <mark key="[" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserDocMapper.java" timestamp="1533286274840">
+        <mark key="[" line="28" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorMapper.xml" timestamp="1539316799565">
+        <mark key="[" line="191" column="19" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Repository.ftl" timestamp="1546917910548">
         <mark key="[" line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorPatientGroupMapper.java" timestamp="1536807023869">
+        <mark key="[" line="40" column="90" />
+      </file>
+      <file name="$USER_HOME$/test/provider/Repository/pom.xml" timestamp="1546853434924">
+        <mark key="[" line="28" column="64" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/yirdoc.lease.provider-Service/src/main/java/com/yirdoc/lease/provider/service/impl/SfRefundResultRecordServiceImpl.java" timestamp="1545643912526">
+        <mark key="[" line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatConfig.java" timestamp="1545368838200">
+        <mark key="[" line="57" column="5" />
+      </file>
+      <file name="$USER_HOME$/Untitled.sql" timestamp="1535185078316">
+        <mark key="[" line="7" column="50" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BaseInfoGuomin.java" timestamp="1537328977853">
+        <mark key="[" line="2" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/service.ftl" timestamp="1546911794575">
         <mark key="[" line="4" column="39" />
@@ -159,15 +708,59 @@
         <mark key="]" line="19" column="33" />
         <mark key="." line="19" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/CardServiceChatModel.java" timestamp="1542867871754">
+        <mark key="[" line="25" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/WebSocketEventListener.java" timestamp="1535447730099">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/application-yml.ftl" timestamp="1546667839840">
         <mark key="[" line="3" column="39" />
         <mark key="]" line="3" column="39" />
         <mark key="." line="3" column="39" />
       </file>
-      <file name="$USER_HOME$/test/example/src/main/resources/application.yml" timestamp="1546416314714">
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="33" />
+      <file name="$USER_HOME$/test/example/src/main/resources/application.yml" timestamp="1546928956073">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/yirdoc.lease.provider-Model/pom.xml" timestamp="1545700999553">
+        <mark key="[" line="11" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/dao/SfGoodsMapper.java" timestamp="1545106158046">
+        <mark key="[" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1542867836528">
+        <mark key="[" line="266" column="35" />
+      </file>
+      <file name="$USER_HOME$/test/yirdoc.lease.provider/consumer/pom.xml" timestamp="1546925421113">
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/DoctorBookInfoServiceImpl.java" timestamp="1544773991956">
+        <mark key="[" line="30" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Model.ftl" timestamp="1545878372518">
+        <mark key="[" line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/CallBackController.java" timestamp="1542614910517">
+        <mark key="[" line="38" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/util-core/src/main/java/com/yirdoc/util/result/ResultT.java" timestamp="1546670586081">
+        <mark key="[" line="33" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientDailyLogController.java" timestamp="1537425165735">
+        <mark key="[" line="45" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/RecIssue.java" timestamp="1542351740719">
+        <mark key="[" line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PayNotificationController.java" timestamp="1534128089859">
+        <mark key="[" line="16" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientWeeklyReportMapper.xml" timestamp="1534752016014">
+        <mark key="[" line="158" column="67" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" timestamp="1546589504216">
         <mark key="[" line="6" column="60" />
@@ -179,15 +772,57 @@
         <mark key="]" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/util-core/pom.xml" timestamp="1546825476371">
+        <mark key="[" line="26" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/HospitalController.java" timestamp="1542361199217">
+        <mark key="[" line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/java/com/haier/ProxyAdminApplication.java" timestamp="1546401748389">
         <mark key="[" line="15" column="45" />
         <mark key="]" line="15" column="47" />
         <mark key="." line="15" column="47" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientTagMapper.java" timestamp="1534398702481">
+        <mark key="[" line="32" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/front/bhhx3-user/src/components/home/changeUser.vue" timestamp="1542873442362">
+        <mark key="[" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Repository/pom.xml" timestamp="1545817140809">
+        <mark key="[" line="12" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/test/com/yirdoc/bhhx/console/service/impl/DoctorServiceImplTest.java" timestamp="1542695376329">
+        <mark key="[" line="48" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardServiceTimeService.java" timestamp="1535439910265">
+        <mark key="[" line="84" column="94" />
+      </file>
       <file name="$USER_HOME$/code/feign-demo/pom.xml" timestamp="1546563357235">
         <mark key="[" line="65" column="21" />
         <mark key="]" line="39" column="24" />
         <mark key="." line="39" column="24" />
+      </file>
+      <file name="$USER_HOME$/refund_order.sql" timestamp="1543219850240">
+        <mark key="[" line="10" column="50" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1543042877054">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketHandler.java" timestamp="1545377349653">
+        <mark key="[" line="30" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/pom.xml" timestamp="1544578781035">
+        <mark key="[" line="28" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpArticleServiceImpl.java" timestamp="1537234469469">
+        <mark key="[" line="48" column="77" />
+      </file>
+      <file name="$USER_HOME$/test/example/src/main/java/com/example/example/ExampleApplication.java" timestamp="1546930704538">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="60" />
+        <mark key="." line="6" column="60" />
+        <mark key="^" line="6" column="60" />
       </file>
       <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/RedisBaseRepository.java" timestamp="1546394936506">
         <mark key="[" line="7" column="1" />
@@ -199,66 +834,383 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/RefundOrderMapper.java" timestamp="1544063942456">
+        <mark key="[" line="32" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientGroupMemberMapper.xml" timestamp="1536307746604">
+        <mark key="[" line="119" column="97" />
+      </file>
       <file name="$USER_HOME$/test/consumer/pom.xml" timestamp="1546919097115">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/demo/src/test/com/example/demo/controller/HelloTest.java" timestamp="1535013259104">
+        <mark key="[" line="19" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1543481631214">
+        <mark key="[" line="161" column="52" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/ChatController.java" timestamp="1535596081277">
+        <mark key="[" line="26" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FengChaoService.java" timestamp="1540523832963">
+        <mark key="[" line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/controller/WuhuaUserController.java" timestamp="1536400875805">
+        <mark key="[" line="83" column="49" />
+      </file>
       <file name="$USER_HOME$/test/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/OrderStateLogService.java" timestamp="1546911730564" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupServiceImplTest.java" timestamp="1537255735020">
+        <mark key="[" line="32" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowPatientModel.java" timestamp="1537952450474">
+        <mark key="[" line="2" column="40" />
+      </file>
+      <file name="$USER_HOME$/lease.sql" timestamp="1545802134521">
+        <mark key="[" line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/provider.properties" timestamp="1546915892437">
         <mark key="[" line="11" column="47" />
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/front/bhhx3-user/src/components/home/user(position).vue" timestamp="1542873286481">
+        <mark key="[" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/doc/退款流程.md" timestamp="1544670739550">
+        <mark key="[" line="64" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/.gitignore" timestamp="1546665458828">
+        <mark key="[" line="4" column="15" />
+      </file>
+      <file name="/RegExp Fragment (WeixinPayServiceImpl.java:1668).regexp" timestamp="1534146709579">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/RegExp Fragment (ChatLogServiceImplTest.java:464).regexp" timestamp="1536721438722">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/feign-demo/src/main/java/com/example/fegindemo/client/impl/OrderMainServiceImpl.java" timestamp="1546500707706">
+        <mark key="[" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/weixinlib/.gitignore" timestamp="1536644605950">
+        <mark key="[" line="31" column="6" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/security/CustomAuthenticationProvider.java" timestamp="1542614360705">
+        <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientWeeklyReportService.java" timestamp="1534731018066">
+        <mark key="[" line="52" column="60" />
+      </file>
+      <file name="$USER_HOME$/code/yirdoc-demo/src/main/java/com/yirdoc/demo/DemoApplication.java" timestamp="1535965293310">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="/bhhx_dev.article [rds]" timestamp="1543050969320">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-consumer/1.0.0/yirdoc-core-consumer-1.0.0.pom" timestamp="1546929556987">
+        <mark key="[" line="19" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/TagMapper.java" timestamp="1534405586547">
+        <mark key="[" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/core/yirdoc-core-consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseConsumer.java" timestamp="1546406174665">
+        <mark key="[" line="24" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WxCpConfiguration.java" timestamp="1534838363075">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/lease.provider/provider/yirdoc.lease.provider-Web/pom.xml" timestamp="1545639957083">
+        <mark key="[" line="20" column="51" />
+      </file>
+      <file name="/JSON Fragment (CallBackController.java:5745).json" timestamp="1536290884457">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DictionaryService.java" timestamp="1542954588834">
+        <mark key="[" line="66" column="55" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-provider-pom.xml" timestamp="1546912832969">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/TaskSchedulerConfig.java" timestamp="1536551307903">
+        <mark key="[" line="10" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/generator.properties" timestamp="1546911685289">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
+      </file>
+      <file name="/XSLT Stylesheet.txt.ft" timestamp="1533109031658">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookRecordMapper.xml" timestamp="1544671498497">
+        <mark key="[" line="156" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-consumer-pom.xml" timestamp="1546926300036">
+        <mark key="[" line="48" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/config/ProviderConfig.java" timestamp="1545881596171">
+        <mark key="[" line="38" column="18" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/SfCabinetService.java" timestamp="1545816582832">
+        <mark key="[" line="27" column="0" />
+      </file>
+      <file name="/RegExp Fragment (CallBackController.java:5872).regexp" timestamp="1536291072613">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardPayLogService.java" timestamp="1543473057346">
+        <mark key="[" line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ServiceEvaluateReportMapper.java" timestamp="1535444136432">
+        <mark key="[" line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/PatientMapper.xml" timestamp="1538209949814">
+        <mark key="[" line="37" column="72" />
+      </file>
+      <file name="$USER_HOME$/test/yirdoc.lease/src/main/java/com/yirdoc/lease/controller/OrderMainController.java" timestamp="1546592456826">
+        <mark key="[" line="65" column="79" />
+      </file>
+      <file name="/bhhx.dictionary [rds]" timestamp="1543040744755">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/BaseProperty.java" timestamp="1546046816424">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/entity/Article.java" timestamp="1540801376235">
+        <mark key="[" line="32" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/weixinlib/src/main/java/com/yirdoc_utils_weixin/wxpay/utils/WeChatProperties.java" timestamp="1534833917322">
+        <mark key="[" line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/ServiceEvaluateMapper.java" timestamp="1535445332974">
+        <mark key="[" line="29" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/ChatLogMapper.xml" timestamp="1540797652000">
+        <mark key="[" line="173" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientMapper.java" timestamp="1534388701655">
+        <mark key="[" line="33" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/FamilyService.java" timestamp="1536736001095">
+        <mark key="[" line="76" column="85" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfiguration.java" timestamp="1542360454419">
+        <mark key="[" line="19" column="53" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/CardTypeServiceImplTest.java" timestamp="1538039330198">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/feign-demo/src/main/resources/application.properties" timestamp="1546481947507">
+        <mark key="[" line="0" column="177" />
+      </file>
+      <file name="$USER_HOME$/test/yirdoc.lease.provider/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderFeeConsumer.java" timestamp="1546926115092">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Model/pom.xml" timestamp="1545725894435">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/Dockerfile" timestamp="1539166198322">
+        <mark key="[" line="2" column="4" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1533109030897">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImpl.java" timestamp="1534734910721">
+        <mark key="[" line="95" column="20" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/DoctorService.java" timestamp="1541668499274">
+        <mark key="[" line="87" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/pom.ftl" timestamp="1546667882486">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="9" column="15" />
         <mark key="." line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/code/springBootDemo/src/test/java/com/example/demo/mapper/EmojiMapperTest.java" timestamp="1539327744302">
+        <mark key="[" line="13" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/lease/src/main/resources/application-prod.yml" timestamp="1546841569338">
+        <mark key="[" line="2" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/mapper/ServiceChatMapper.java" timestamp="1540876572343">
+        <mark key="[" line="47" column="101" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/MedicalRecord.java" timestamp="1538183663014">
+        <mark key="[" line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/test/demo/src/main/java/com/example/demo/HelloController.java" timestamp="1534753355036">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/BillOrderMapperTest.java" timestamp="1535942798865">
+        <mark key="[" line="17" column="15" />
+      </file>
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1533109025400">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/RegExp Fragment (UserServiceImpl.java:60977).regexp" timestamp="1539402564925">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/RedisRepository.java" timestamp="1546394658944">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/CardServiceMapper.xml" timestamp="1536051613251">
+        <mark key="[" line="117" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/application.yml" timestamp="1545207620712">
+        <mark key="[" line="32" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/SuggestionController.java" timestamp="1538990058819">
+        <mark key="[" line="53" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/mapping/OrderFeeMapper.xml" timestamp="1545809141929">
+        <mark key="[" line="19" column="38" />
+      </file>
       <file name="$USER_HOME$/code/feign-demo/src/main/java/com/example/fegindemo/consumer/OrderMainConsumer.java" timestamp="1546502057271">
         <mark key="[" line="44" column="29" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/java/com/haier/controller/OrderMainController.java" timestamp="1546076616067">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/bhhx.doctor_todo_type [rds]" timestamp="1538292726896">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1542849876218">
+        <mark key="[" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/lease/src/main/resources/application-dev.yml" timestamp="1546841560363">
         <mark key="[" line="2" column="43" />
         <mark key="]" line="2" column="43" />
         <mark key="." line="2" column="43" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/resources/spring-mybatis.xml" timestamp="1545810045495">
+        <mark key="[" line="42" column="97" />
+      </file>
+      <file name="$USER_HOME$/test/yirdoc.lease/src/main/resources/application.yml" timestamp="1546679396005">
+        <mark key="[" line="11" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorTodoTypeMapper.xml" timestamp="1538880330776">
+        <mark key="[" line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/TestModel.java" timestamp="1543048113572">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/mapper/FollowUpGroupMapper.java" timestamp="1537250488482">
+        <mark key="[" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorService.java" timestamp="1535709699863">
+        <mark key="[" line="73" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorArticleController.java" timestamp="1537241933230">
+        <mark key="[" line="33" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/config/SwaggerConfig.java" timestamp="1542614408345">
+        <mark key="[" line="35" column="16" />
+      </file>
+      <file name="/bhhx.bill_order [rds]" timestamp="1543041189460">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientCardController.java" timestamp="1545355121642">
+        <mark key="[" line="159" column="155" />
+      </file>
+      <file name="/JSON Fragment (JWTAuthenticationFilter.java:2244).json" timestamp="1542178952370">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/Application.java" timestamp="1536743462980">
+        <mark key="[" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/Dockerfile" timestamp="1539162392284">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/service/impl/CustomAuthenticationProvider.java" timestamp="1542359410114">
+        <mark key="[" line="36" column="69" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/java/com/haier/config/MybatisMasterDataSourceConfig.java" timestamp="1546401656143">
         <mark key="[" line="38" column="62" />
         <mark key="]" line="38" column="62" />
         <mark key="." line="38" column="62" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/Test.java" timestamp="1533611332540">
+        <mark key="[" line="8" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfigration.java" timestamp="1541999774316">
+        <mark key="[" line="7" column="75" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1542873732527">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/test/provider/Web/src/main/java/com/yirdoc/lease/provider/Application.java" timestamp="1545728168081">
+        <mark key="[" line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorPatientGroupService.java" timestamp="1536314611674">
+        <mark key="[" line="162" column="57" />
+      </file>
+      <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/filter/JWTLoginFilter.java" timestamp="1542358970552">
+        <mark key="[" line="41" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorTodoServiceImplTest.java" timestamp="1533542767687">
+        <mark key="[" line="30" column="82" />
+      </file>
       <file name="$USER_HOME$/test/yirdoc.lease.provider/provider/Service/pom.xml" timestamp="1546918526267">
         <mark key="[" line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/consumer.ftl" timestamp="1546416701849">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Repository/src/main/java/com/yirdoc/lease/provider/repository/SfCabinetRepository.java" timestamp="1545709339222">
+        <mark key="[" line="37" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/PatientWeeklyReport.java" timestamp="1534735672207">
+        <mark key="[" line="145" column="11" />
+      </file>
+      <file name="/bhhx.doctor_card [rds]" timestamp="1539669099617">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/test/Web/src/main/java/com/yirdoc/lease/provider/mapper/TestMapper.java" timestamp="1545721855185">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
+        <mark key="[" line="52" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/consumer.ftl" timestamp="1546926140765" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1544772796295">
+        <mark key="[" line="42" column="8" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/sqlXml.ftl" timestamp="1546924736676" />
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-consumer/1.0.0-SNAPSHOT/yirdoc-core-consumer-1.0.0-SNAPSHOT.pom" timestamp="1545890753198">
+        <mark key="[" line="42" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/UserFamilyModel.java" timestamp="1539592732615">
+        <mark key="[" line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/TestController.java" timestamp="1544598107846">
+        <mark key="[" line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/mapper.ftl" timestamp="1546924378586" />
+      <file name="/pom.xml" timestamp="1546926240497" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/WxTemplateService.java" timestamp="1538013773034">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-provider/1.0.0/yirdoc-core-provider-1.0.0.pom" timestamp="1546067430278">
+        <mark key="[" line="27" column="34" />
       </file>
       <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/OrderMainService.java" timestamp="1546911213138" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/yirdoc.lease.provider-Repository/src/main/java/com/yirdoc/lease/provider/repository/SfCabinetRepository.java" timestamp="1545700404980">
+        <mark key="[" line="19" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/config/WechatProperties.java" timestamp="1542788224876">
+        <mark key="[" line="30" column="35" />
+      </file>
+      <file name="$USER_HOME$/git-demo/README.md" timestamp="1541815976084">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="12" column="35" filename="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/application.properties" />
@@ -319,10 +1271,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>provider</text>
+        <text>openfeign-core</text>
       </register>
       <register name="-" type="4">
-        <text>provider</text>
+        <text>openfeign-core</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
