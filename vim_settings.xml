@@ -24,8 +24,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-doctor-pc/src/main/resources/druid.properties" timestamp="1541401331300">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/lease/pom.xml" timestamp="1546933345440">
-        <mark key="[" line="53" column="45" />
+      <file name="$USER_HOME$/Projects/yirdoc/lease/pom.xml" timestamp="1546939756711">
+        <mark key="[" line="49" column="21" />
       </file>
       <file name="/Maven Project.txt.ft" timestamp="1533109069540">
         <mark key="[" line="0" column="0" />
@@ -268,6 +268,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/entity/Patient.java" timestamp="1538209777696">
         <mark key="[" line="61" column="26" />
+      </file>
+      <file name="$USER_HOME$/test/yirdoc.lease.provider/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderMainConsumer.java" timestamp="1546939827625">
+        <mark key="[" line="15" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/WechatTemplateService.java" timestamp="1536201139134">
         <mark key="[" line="6" column="21" />
@@ -606,6 +609,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/dao/SfGoodsMapper.java" timestamp="1545106158046">
         <mark key="[" line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/test/yirdoc.lease.provider/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderStateLogConsumer.java" timestamp="1546939949505">
+        <mark key="[" line="28" column="49" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/ServiceChatMapper.xml" timestamp="1542867836528">
         <mark key="[" line="266" column="35" />
       </file>
@@ -853,8 +859,8 @@
       <file name="$USER_HOME$/code/feign-demo/src/main/resources/application.properties" timestamp="1546481947507">
         <mark key="[" line="0" column="177" />
       </file>
-      <file name="$USER_HOME$/test/yirdoc.lease.provider/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderFeeConsumer.java" timestamp="1546926115092">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/test/yirdoc.lease.provider/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderFeeConsumer.java" timestamp="1546939940834">
+        <mark key="[" line="28" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Model/pom.xml" timestamp="1545725894435">
         <mark key="[" line="10" column="0" />
