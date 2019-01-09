@@ -450,6 +450,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1543476989369">
         <mark key="[" line="123" column="32" />
       </file>
+      <file name="/Dummy.txt" timestamp="1547018109220">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
         <mark key="[" line="18" column="34" />
       </file>
@@ -748,8 +751,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/doc/退款流程.md" timestamp="1544670739550">
         <mark key="[" line="64" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/.gitignore" timestamp="1546665458828">
-        <mark key="[" line="4" column="15" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/.gitignore" timestamp="1547018134659">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/RegExp Fragment (WeixinPayServiceImpl.java:1668).regexp" timestamp="1534146709579">
         <mark key="[" line="0" column="0" />
@@ -1012,6 +1017,9 @@
       <file name="$USER_HOME$/test/provider/Web/src/main/java/com/yirdoc/lease/provider/Application.java" timestamp="1545728168081">
         <mark key="[" line="11" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/README.md" timestamp="1547018335227">
+        <mark key="[" line="7" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorPatientGroupService.java" timestamp="1536314611674">
         <mark key="[" line="162" column="57" />
       </file>
@@ -1132,10 +1140,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IyMjIyDlj6/pgInlrZfmrrUKPHByZT48Y29kZT4KICAgIGRlc3RQYXRo77ya5aaC5p6c5oOz5bCG5Luj56CB5Lmf55Sf5oiQ5Yiw5bel56iL5Luj56CB55qE5L2N572u77yM5Y+v5Lul5Zyo6K+l6YCJ6aG55Lit6L6T5YWl5bel56iL5Li755uu5b2V5L2N572uCiAgICDmlbDmja7lupPooajvvJrovpPlhaXooajlkI3vvIzmjIflrpropoHnlJ/miJDmlbDmja7lupPlk6rkuKrooajnmoTnm7jlupTku6PnoIHvvIzlpJrkuKrooajnlKjpgJflj7fliIbpmpTvvIzlpoLkuI3ovpPlhaXlgLzvvIzpu5jorqTnlJ/miJDmiYDmnInooajnmoQKPC9jb2RlPjwvcHJlPgoKIyMjIyDmnIDlkI7pgInmi6nopoHnlJ/miJDnmoTmlofku7bvvJoKPHByZT48Y29kZT4KICAgIOWPr+S7pemAieaLqeeahOaWh+S7tuaciToKICAgIHBvam8KICAgIG1hcHBlcgogICAgaVJlcG9zaXRvcnkKICAgIHJlcG9zaXRvcnkKICAgIHNlcnZpY2UKICAgIHNxbFhtbAoKICAgIOmAieS4reaWh+S7tuWQju+8jOWPr+S7peaMh+Wumui/meS6m+aWh+S7tuaJgOWcqOeahOWtkOW3peeoi++8jOS4jeaMh+Wumum7mOiupOeUn+aIkOWcqOS4u+ebruW9leS4iwo8L2NvZGU+PC9wcmU+CgojIyMgNC7kv67mlLnmlbDmja7lupPov57mjqUKPHByZT48Y29kZT4KICAgIOaVsOaNruW6k+WcsOWdgOmcgOWIsOS7o+eggemHjOaJvuWIsGFwcGxpY2F0aW9uLnByb3BlcnRpZXPmlofku7bvvIzlsIbov57mjqXkv6Hmga/mlLnmiJDoh6rlt7Hmg7PopoHkvb/nlKjnmoTmlbDmja7lupPlnLDlnYAKICAgIHdlYWhhbi5jb2RlLmdlbmVyYXRvci5kYi5jb25uZWN0aW9uVXJs77ya5pWw5o2u5bqT6L+e5o6lCiAgICB3ZWFoYW4uY29kZS5nZW5lcmF0b3IuZGIuY29ubmVjdGlvblVzZXLvvJrotKblj7cKICAgIHdlYWhhbi5jb2RlLmdlbmVyYXRvci5kYi5jb25uZWN0aW9uUGFzc++8muWvhueggQogICAg5YW35L2T5YaZ5rOV5Y+C54WnYXBwbGljYXRpb24ucHJvcGVydGllc+aWh+S7tgo8L2NvZGU+PC9wcmU+</text>
+        <text>-boot</text>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:8888/index/    进入代码生成页面，输入相应的参数</text>
+        <text>-boot</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
