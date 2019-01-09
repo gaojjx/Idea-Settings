@@ -1017,8 +1017,10 @@
       <file name="$USER_HOME$/test/provider/Web/src/main/java/com/yirdoc/lease/provider/Application.java" timestamp="1545728168081">
         <mark key="[" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/README.md" timestamp="1547018335227">
-        <mark key="[" line="7" column="11" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/README.md" timestamp="1547019163238">
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorPatientGroupService.java" timestamp="1536314611674">
         <mark key="[" line="162" column="57" />
@@ -1140,10 +1142,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-boot</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>-boot</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
