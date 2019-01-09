@@ -372,6 +372,11 @@
       <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/builders/RequestHandlerSelectors.java" timestamp="1545889611465">
         <mark key="[" line="97" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-web-pom.xml" timestamp="1547020278404">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorCardModel.java" timestamp="1539669392210">
         <mark key="[" line="10" column="29" />
       </file>
@@ -450,7 +455,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1543476989369">
         <mark key="[" line="123" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547018109220">
+      <file name="/Dummy.txt" timestamp="1547020316730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
@@ -1017,10 +1022,10 @@
       <file name="$USER_HOME$/test/provider/Web/src/main/java/com/yirdoc/lease/provider/Application.java" timestamp="1545728168081">
         <mark key="[" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/README.md" timestamp="1547019163238">
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/README.md" timestamp="1547020096712">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorPatientGroupService.java" timestamp="1536314611674">
         <mark key="[" line="162" column="57" />
@@ -1141,11 +1146,11 @@
       <jump line="640" column="28" filename="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/controller/HomeController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>引入</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
@@ -1153,23 +1158,23 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IyMjIyDlj6/pgInlrZfmrrUKPHByZT48Y29kZT4KICAgIGRlc3RQYXRo77ya5aaC5p6c5oOz5bCG5Luj56CB5Lmf55Sf5oiQ5Yiw5bel56iL5Luj56CB55qE5L2N572u77yM5Y+v5Lul5Zyo6K+l6YCJ6aG55Lit6L6T5YWl5bel56iL5Li755uu5b2V5L2N572uCiAgICDmlbDmja7lupPooajvvJrovpPlhaXooajlkI3vvIzmjIflrpropoHnlJ/miJDmlbDmja7lupPlk6rkuKrooajnmoTnm7jlupTku6PnoIHvvIzlpJrkuKrooajnlKjpgJflj7fliIbpmpTvvIzlpoLkuI3ovpPlhaXlgLzvvIzpu5jorqTnlJ/miJDmiYDmnInooajnmoQKPC9jb2RlPjwvcHJlPgoKIyMjIyDmnIDlkI7pgInmi6nopoHnlJ/miJDnmoTmlofku7bvvJoKPHByZT48Y29kZT4KICAgIOWPr+S7pemAieaLqeeahOaWh+S7tuaciToKICAgIHBvam8KICAgIG1hcHBlcgogICAgaVJlcG9zaXRvcnkKICAgIHJlcG9zaXRvcnkKICAgIHNlcnZpY2UKICAgIHNxbFhtbAoKICAgIOmAieS4reaWh+S7tuWQju+8jOWPr+S7peaMh+Wumui/meS6m+aWh+S7tuaJgOWcqOeahOWtkOW3peeoi++8jOS4jeaMh+Wumum7mOiupOeUn+aIkOWcqOS4u+ebruW9leS4iwo8L2NvZGU+PC9wcmU+CgojIyMgNC7kv67mlLnmlbDmja7lupPov57mjqUKPHByZT48Y29kZT4KICAgIOaVsOaNruW6k+WcsOWdgOmcgOWIsOS7o+eggemHjOaJvuWIsGFwcGxpY2F0aW9uLnByb3BlcnRpZXPmlofku7bvvIzlsIbov57mjqXkv6Hmga/mlLnmiJDoh6rlt7Hmg7PopoHkvb/nlKjnmoTmlbDmja7lupPlnLDlnYAKICAgIHdlYWhhbi5jb2RlLmdlbmVyYXRvci5kYi5jb25uZWN0aW9uVXJs77ya5pWw5o2u5bqT6L+e5o6lCiAgICB3ZWFoYW4uY29kZS5nZW5lcmF0b3IuZGIuY29ubmVjdGlvblVzZXLvvJrotKblj7cKICAgIHdlYWhhbi5jb2RlLmdlbmVyYXRvci5kYi5jb25uZWN0aW9uUGFzc++8muWvhueggQogICAg5YW35L2T5YaZ5rOV5Y+C54WnYXBwbGljYXRpb24ucHJvcGVydGllc+aWh+S7tgo8L2NvZGU+PC9wcmU+</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovL2xvY2FsaG9zdDozMzA2Lz9jaGFyYWN0ZXJFbmNvZGluZz11dGY4JnVzZVNTTD1mYWxzZQo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29kZS5nZW5lcmF0b3IucHJvdmlkZXIuZGVzdFBhdGg9IC9Vc2Vycy9nYW9qangvdGVzdAo=</text>
+        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovL2xvY2FsaG9zdDozMzA2Lz9jaGFyYWN0ZXJFbmNvZGluZz11dGY4JnVzZVNTTD1mYWxzZQo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Y29kZS5nZW5lcmF0b3IucHJvdmlkZXIuZGVzdFBhdGg9IC9Vc2Vycy9nYW9qangvdGVzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1181,7 +1186,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWFpbkNsYXNzPiR7c3RhcnQtY2xhc3N9PC9tYWluQ2xhc3M+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
