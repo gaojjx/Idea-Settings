@@ -24,8 +24,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-doctor-pc/src/main/resources/druid.properties" timestamp="1541401331300">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/lease/pom.xml" timestamp="1546939756711">
-        <mark key="[" line="49" column="21" />
+      <file name="$USER_HOME$/Projects/yirdoc/lease/pom.xml" timestamp="1546996475406">
+        <mark key="[" line="54" column="28" />
       </file>
       <file name="/Maven Project.txt.ft" timestamp="1533109069540">
         <mark key="[" line="0" column="0" />
@@ -175,7 +175,6 @@
       <file name="/a.sql" timestamp="1538292821382">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/test/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/OrderFeeService.java" timestamp="1546911803309" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BillOrder.java" timestamp="1543887652027">
         <mark key="[" line="17" column="18" />
       </file>
@@ -290,7 +289,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/basicPayModel.java" timestamp="1534140709610">
         <mark key="[" line="4" column="52" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/yirdoc/lease/consumer/lease-provider-Consumer/1.0.0-SNAPSHOT/lease-provider-Consumer-1.0.0-SNAPSHOT-sources.jar!/com/yirdoc/lease/provider/consumer/OrderMainConsumer.java" timestamp="1546930225116" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/FollowUpGroupUserModel.java" timestamp="1537251600755">
         <mark key="[" line="8" column="32" />
       </file>
@@ -717,7 +715,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/controller/WuhuaUserController.java" timestamp="1536400875805">
         <mark key="[" line="83" column="49" />
       </file>
-      <file name="$USER_HOME$/test/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/OrderStateLogService.java" timestamp="1546911730564" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/test/com/yirdoc/bhhx/doctor/service/impl/FollowUpGroupServiceImplTest.java" timestamp="1537255735020">
         <mark key="[" line="32" column="36" />
       </file>
@@ -765,7 +762,7 @@
       <file name="/bhhx_dev.article [rds]" timestamp="1543050969320">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-consumer/1.0.0/yirdoc-core-consumer-1.0.0.pom" timestamp="1546929556987">
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-consumer/1.0.0/yirdoc-core-consumer-1.0.0.pom" timestamp="1546996338149">
         <mark key="[" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/TagMapper.java" timestamp="1534405586547">
@@ -805,8 +802,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/mapping/DoctorBookRecordMapper.xml" timestamp="1544671498497">
         <mark key="[" line="156" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-consumer-pom.xml" timestamp="1546926300036">
-        <mark key="[" line="48" column="27" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-consumer-pom.xml" timestamp="1546996324188">
+        <mark key="[" line="43" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/java/com.yirdoc.base.code_generator/config/ProviderConfig.java" timestamp="1545881596171">
         <mark key="[" line="38" column="18" />
@@ -886,7 +883,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/lease/src/main/resources/application-prod.yml" timestamp="1546841569338">
         <mark key="[" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/lease/src/main/java/com/yirdoc/lease/Application.java" timestamp="1546935970584">
+      <file name="$USER_HOME$/Projects/yirdoc/lease/src/main/java/com/yirdoc/lease/Application.java" timestamp="1546996545786">
         <mark key="[" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/mapper/ServiceChatMapper.java" timestamp="1540876572343">
@@ -1006,11 +1003,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/TagService.java" timestamp="1534405517583">
         <mark key="[" line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/consumer.ftl" timestamp="1546926140765" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/resources/application.yml" timestamp="1544772796295">
         <mark key="[" line="42" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template/sqlXml.ftl" timestamp="1546924736676" />
       <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-consumer/1.0.0-SNAPSHOT/yirdoc-core-consumer-1.0.0-SNAPSHOT.pom" timestamp="1545890753198">
         <mark key="[" line="42" column="21" />
       </file>
@@ -1020,15 +1015,12 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/TestController.java" timestamp="1544598107846">
         <mark key="[" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/mapper.ftl" timestamp="1546924378586" />
-      <file name="/pom.xml" timestamp="1546926240497" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/WxTemplateService.java" timestamp="1538013773034">
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-provider/1.0.0/yirdoc-core-provider-1.0.0.pom" timestamp="1546067430278">
         <mark key="[" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/OrderMainService.java" timestamp="1546911213138" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/SwaggerConfigProperties.java" timestamp="1533008450161">
         <mark key="[" line="5" column="0" />
       </file>
@@ -1101,10 +1093,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>openfeign-core</text>
+        <text>47</text>
       </register>
       <register name="-" type="4">
-        <text>openfeign-core</text>
+        <text>47</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
