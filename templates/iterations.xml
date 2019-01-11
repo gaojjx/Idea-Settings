@@ -4,18 +4,4 @@
     <variable name="LIMIT" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="itar" value="for(int $INDEX$ = 0; $INDEX$ &lt; $ARRAY$.length; $INDEX$++) {&#10;  $ELEMENT_TYPE$ $VAR$ = $ARRAY$[$INDEX$];&#10;  $END$&#10;}" description="Iterate elements of array" toReformat="true" toShortenFQNames="true">
-    <variable name="INDEX" expression="suggestIndexName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="ARRAY" expression="arrayVariable()" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
-    <variable name="ELEMENT_TYPE" expression="componentTypeOf(ARRAY)" defaultValue="" alwaysStopAt="false" />
-    <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="iten" value="while($ENUM$.hasMoreElements()){&#10;  $TYPE$ $VAR$ = $CAST$ $ENUM$.nextElement();&#10;  $END$&#10;}" description="Iterate java.util.Enumeration" toReformat="true" toShortenFQNames="true">
-    <variable name="ENUM" expression="variableOfType(&quot;java.util.Enumeration&quot;)" defaultValue="&quot;enumeration&quot;" alwaysStopAt="true" />
-    <variable name="TYPE" expression="rightSideType()" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
-    <variable name="VAR" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
-    <variable name="CAST" expression="castToLeftSideType()" defaultValue="" alwaysStopAt="false" />
-    <context />
-  </template>
 </templateSet>
