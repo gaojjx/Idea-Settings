@@ -782,6 +782,9 @@
       <file name="/RegExp Fragment (WeixinPayServiceImpl.java:1668).regexp" timestamp="1534146709579">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/JSON Fragment (GeoLocationServiceImplTest.java:827).json" timestamp="1547199941447">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/RegExp Fragment (ChatLogServiceImplTest.java:464).regexp" timestamp="1536721438722">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1022,8 +1025,11 @@
       <file name="/bhhx.bill_order [rds]" timestamp="1543041189460">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/lease/src/test/com/yirdoc/lease/service/impl/GeoLocationServiceImplTest.java" timestamp="1547198829760">
-        <mark key="[" line="36" column="37" />
+      <file name="$USER_HOME$/Projects/yirdoc/lease/src/test/com/yirdoc/lease/service/impl/GeoLocationServiceImplTest.java" timestamp="1547199894478">
+        <mark key="[" line="27" column="4118" />
+        <mark key="]" line="27" column="4118" />
+        <mark key="^" line="27" column="47" />
+        <mark key="." line="27" column="4118" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientCardController.java" timestamp="1545355121642">
         <mark key="[" line="159" column="155" />
@@ -1177,10 +1183,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
