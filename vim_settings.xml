@@ -552,7 +552,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1546047025787">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1547443419113">
+      <file name="/fragment.java" timestamp="1547534892002">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/UserPatitentModel.java" timestamp="1536821981535">
@@ -849,12 +849,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DictionaryService.java" timestamp="1542954588834">
         <mark key="[" line="66" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/GeoLocationController.java" timestamp="1547533211426">
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="33" />
-        <mark key="^" line="32" column="33" />
-        <mark key="." line="32" column="33" />
-      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/GeoLocationController.java" timestamp="1547535276869" />
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-provider-pom.xml" timestamp="1546912832969">
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="22" />
@@ -1203,11 +1198,11 @@
       <jump line="58" column="28" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.7.9/HikariCP-2.7.9-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bWFwKHN0cmluZ0xpc3RFbnRyeSAtPiBzdHJpbmdMaXN0RW50cnkuZ2V0VmFsdWUoKS5zaXplKCkpOw==</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">bWFwKHN0cmluZ0xpc3RFbnRyeSAtPiBzdHJpbmdMaXN0RW50cnkuZ2V0VmFsdWUoKS5zaXplKCkpOw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
