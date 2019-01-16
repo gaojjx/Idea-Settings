@@ -20,7 +20,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorBookCalendarController.java" timestamp="1542613683971">
         <mark key="[" line="45" column="30" />
       </file>
-      <file name="/a.dummy" timestamp="1547537619721">
+      <file name="/a.dummy" timestamp="1547600475254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/impl/SfCabinetServiceImpl.java" timestamp="1545729690589">
@@ -468,7 +468,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1543476989369">
         <mark key="[" line="123" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547537923587">
+      <file name="/Dummy.txt" timestamp="1547600562281">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
@@ -849,11 +849,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DictionaryService.java" timestamp="1542954588834">
         <mark key="[" line="66" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/GeoLocationController.java" timestamp="1547537606773">
-        <mark key="[" line="38" column="94" />
-        <mark key="]" line="38" column="94" />
-        <mark key="^" line="55" column="0" />
-        <mark key="." line="38" column="94" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/GeoLocationController.java" timestamp="1547600393904">
+        <mark key="^" line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-provider-pom.xml" timestamp="1546912832969">
         <mark key="[" line="8" column="22" />
