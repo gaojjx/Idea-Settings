@@ -189,6 +189,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/FamilyCardModel.java" timestamp="1544778557055">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/controller/FeignController.java" timestamp="1548498460886">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/WebSocketInterceptor.java" timestamp="1535447329228">
         <mark key="[" line="2" column="34" />
       </file>
@@ -245,6 +248,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientWeeklyReportMapperTest.java" timestamp="1534733994785">
         <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/service/HelloService.java" timestamp="1548498570773">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceTimeServiceImpl.java" timestamp="1533799686980">
         <mark key="[" line="117" column="5" />
@@ -602,6 +608,11 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/pom-Repository.ftl" timestamp="1546917910548">
         <mark key="[" line="22" column="31" />
+      </file>
+      <file name="$USER_HOME$/code/consul-demo/consul-consumer/pom.xml" timestamp="1548498254911">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/DoctorPatientGroupMapper.java" timestamp="1536807023869">
         <mark key="[" line="40" column="90" />
@@ -1201,10 +1212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this::groupByScore</text>
+        <text>demo</text>
       </register>
       <register name="-" type="4">
-        <text>this::groupByScore</text>
+        <text>demo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
