@@ -305,7 +305,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/sqlXml.ftl" timestamp="1545974713909">
         <mark key="[" line="33" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/config-server/src/main/java/com/yirdoc/configserver/ConfigServerApplication.java" timestamp="1536046434355">
+      <file name="$USER_HOME$/Projects/yirdoc/base/config-server/src/main/java/com/yirdoc/configserver/ConfigServerApplication.java" timestamp="1548663693800">
         <mark key="[" line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9b7b579c-2edb-4f99-9bac-bcd15eac4289/console.sql" timestamp="1543041248717">
@@ -810,10 +810,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DictionaryService.java" timestamp="1542954588834">
         <mark key="[" line="66" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/config-server/src/main/resources/application.yml" timestamp="1548659097952">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/config-server/src/main/resources/application.yml" timestamp="1548663601183">
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/TaskSchedulerConfig.java" timestamp="1536551307903">
         <mark key="[" line="10" column="34" />
@@ -1143,10 +1143,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>springd</text>
+        <text>HOME</text>
       </register>
       <register name="-" type="4">
-        <text>springd</text>
+        <text>HOME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
