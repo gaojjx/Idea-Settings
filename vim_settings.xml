@@ -810,10 +810,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DictionaryService.java" timestamp="1542954588834">
         <mark key="[" line="66" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/config-server/src/main/resources/application.yml" timestamp="1548665415931">
+      <file name="$USER_HOME$/Projects/yirdoc/base/config-server/src/main/resources/application.yml" timestamp="1548726497100">
         <mark key="[" line="3" column="7" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/TaskSchedulerConfig.java" timestamp="1536551307903">
         <mark key="[" line="10" column="34" />
