@@ -627,6 +627,12 @@
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/dao/SfGoodsMapper.java" timestamp="1545106158046">
         <mark key="[" line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/config/application.yml" timestamp="1548728818402">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/test/yirdoc.lease.provider/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderStateLogConsumer.java" timestamp="1546939949505">
         <mark key="[" line="28" column="49" />
       </file>
@@ -1146,11 +1152,11 @@
       <jump line="58" column="28" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.7.9/HikariCP-2.7.9-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/yirdoc/base/config</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="-" type="4">
-        <text>/yirdoc/base/config</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
@@ -1158,7 +1164,10 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">CQo=</text>
+      </register>
+      <register name="2" type="4">
         <text>spring:
   application:
     name: spring-cloud-consul-producer
@@ -1169,32 +1178,29 @@
       host: localhost
       port: 8500</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2VydmVyLnBvcnQ9ODg4OAo=</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2VydmVyLnBvcnQ9ODg4OAo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlsb25ncy4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlnZW9HZW5lcmF0b3IuZ2VuZXJhdGUoKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovL3JtLW01ZXd6MjRtbDYzODI4ODJ2bm8ubXlzcWwucmRzLmFsaXl1bmNzLmNvbTozMzA2L2xlYXNlP2NoYXJhY3RlckVuY29kaW5nPXV0ZjgmdXNlU1NMPWZhbHNlCiAgICBwYXNzd29yZDogbmV3c3lzNHdlaWxhaSQKICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubXlzcWwuamRiYy5Ecml2ZXIKbXliYXRpczoKICBtYXBwZXItbG9jYXRpb25zOiBjbGFzc3BhdGg6bWFwcGluZy8qTWFwcGVyLnhtbAogIGNvbmZpZ3VyYXRpb246CiAgICBtYXAtdW5kZXJzY29yZS10by1jYW1lbC1jYXNlOiB0cnVlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlNYXRoLnJhbmRvbSgpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IyMjIyDlj6/pgInlrZfmrrUKPHByZT48Y29kZT4KICAgIGRlc3RQYXRo77ya5aaC5p6c5oOz5bCG5Luj56CB5Lmf55Sf5oiQ5Yiw5bel56iL5Luj56CB55qE5L2N572u77yM5Y+v5Lul5Zyo6K+l6YCJ6aG55Lit6L6T5YWl5bel56iL5Li755uu5b2V5L2N572uCiAgICDmlbDmja7lupPooajvvJrovpPlhaXooajlkI3vvIzmjIflrpropoHnlJ/miJDmlbDmja7lupPlk6rkuKrooajnmoTnm7jlupTku6PnoIHvvIzlpJrkuKrooajnlKjpgJflj7fliIbpmpTvvIzlpoLkuI3ovpPlhaXlgLzvvIzpu5jorqTnlJ/miJDmiYDmnInooajnmoQKPC9jb2RlPjwvcHJlPgoKIyMjIyDmnIDlkI7pgInmi6nopoHnlJ/miJDnmoTmlofku7bvvJoKPHByZT48Y29kZT4KICAgIOWPr+S7pemAieaLqeeahOaWh+S7tuaciToKICAgIHBvam8KICAgIG1hcHBlcgogICAgaVJlcG9zaXRvcnkKICAgIHJlcG9zaXRvcnkKICAgIHNlcnZpY2UKICAgIHNxbFhtbAoKICAgIOmAieS4reaWh+S7tuWQju+8jOWPr+S7peaMh+Wumui/meS6m+aWh+S7tuaJgOWcqOeahOWtkOW3peeoi++8jOS4jeaMh+Wumum7mOiupOeUn+aIkOWcqOS4u+ebruW9leS4iwo8L2NvZGU+PC9wcmU+CgojIyMgNC7kv67mlLnmlbDmja7lupPov57mjqUKPHByZT48Y29kZT4KICAgIOaVsOaNruW6k+WcsOWdgOmcgOWIsOS7o+eggemHjOaJvuWIsGFwcGxpY2F0aW9uLnByb3BlcnRpZXPmlofku7bvvIzlsIbov57mjqXkv6Hmga/mlLnmiJDoh6rlt7Hmg7PopoHkvb/nlKjnmoTmlbDmja7lupPlnLDlnYAKICAgIHdlYWhhbi5jb2RlLmdlbmVyYXRvci5kYi5jb25uZWN0aW9uVXJs77ya5pWw5o2u5bqT6L+e5o6lCiAgICB3ZWFoYW4uY29kZS5nZW5lcmF0b3IuZGIuY29ubmVjdGlvblVzZXLvvJrotKblj7cKICAgIHdlYWhhbi5jb2RlLmdlbmVyYXRvci5kYi5jb25uZWN0aW9uUGFzc++8muWvhueggQogICAg5YW35L2T5YaZ5rOV5Y+C54WnYXBwbGljYXRpb24ucHJvcGVydGllc+aWh+S7tgo8L2NvZGU+PC9wcmU+</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlsb25ncy4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlnZW9HZW5lcmF0b3IuZ2VuZXJhdGUoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHVybDogamRiYzpteXNxbDovL3JtLW01ZXd6MjRtbDYzODI4ODJ2bm8ubXlzcWwucmRzLmFsaXl1bmNzLmNvbTozMzA2L2xlYXNlP2NoYXJhY3RlckVuY29kaW5nPXV0ZjgmdXNlU1NMPWZhbHNlCiAgICBwYXNzd29yZDogbmV3c3lzNHdlaWxhaSQKICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubXlzcWwuamRiYy5Ecml2ZXIKbXliYXRpczoKICBtYXBwZXItbG9jYXRpb25zOiBjbGFzc3BhdGg6bWFwcGluZy8qTWFwcGVyLnhtbAogIGNvbmZpZ3VyYXRpb246CiAgICBtYXAtdW5kZXJzY29yZS10by1jYW1lbC1jYXNlOiB0cnVlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlNYXRoLnJhbmRvbSgpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
