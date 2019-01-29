@@ -648,7 +648,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/CallBackController.java" timestamp="1542614910517">
         <mark key="[" line="38" column="12" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/application.yml" timestamp="1548732758731">
+      <file name="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/application.yml" timestamp="1548739545838">
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="6" />
@@ -811,6 +811,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/lease.provider/provider/yirdoc.lease.provider-Web/pom.xml" timestamp="1545639957083">
         <mark key="[" line="20" column="51" />
+      </file>
+      <file name="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/bootstrap.yml" timestamp="1548739733541">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/JSON Fragment (CallBackController.java:5745).json" timestamp="1536290884457">
         <mark key="[" line="0" column="0" />
