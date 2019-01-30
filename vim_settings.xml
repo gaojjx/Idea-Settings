@@ -168,6 +168,9 @@
       <file name="/a.sql" timestamp="1538292821382">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/config-server/.gitignore" timestamp="1548829036307">
+        <mark key="[" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/BillOrder.java" timestamp="1543887652027">
         <mark key="[" line="17" column="18" />
       </file>
@@ -446,7 +449,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1543476989369">
         <mark key="[" line="123" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548754913039">
+      <file name="/Dummy.txt" timestamp="1548829683347">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
@@ -1021,7 +1024,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/Test.java" timestamp="1533611332540">
         <mark key="[" line="8" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/config-server/pom.xml" timestamp="1548731396209">
+      <file name="$USER_HOME$/Projects/yirdoc/base/config-server/pom.xml" timestamp="1548829373455">
         <mark key="[" line="39" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/security/WebSecurityConfigration.java" timestamp="1541999774316">
@@ -1038,6 +1041,11 @@
       </file>
       <file name="$USER_HOME$/code/springboot-springsecurity-jwt-demo/src/main/java/boss/portal/filter/JWTLoginFilter.java" timestamp="1542358970552">
         <mark key="[" line="41" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/config-server/README.md" timestamp="1548829528969">
+        <mark key="[" line="0" column="21" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/DoctorTodoServiceImplTest.java" timestamp="1533542767687">
         <mark key="[" line="30" column="82" />
@@ -1157,8 +1165,8 @@
       <jump line="58" column="28" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.7.9/HikariCP-2.7.9-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>./**/*'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">6YWN572u5paH5Lu2Cg==</text>
       </register>
       <register name="-" type="4">
         <text>./**/*'</text>
@@ -1170,21 +1178,24 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">6YWN572u5paH5Lu2Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAgICAgICAgICBmb3JjZS1wdWxsOiB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjbG91ZDoKICAgIGNvbnN1bDoKICAgICAgZGlzY292ZXJ5OgogICAgICAgIHNlcnZpY2UtbmFtZTogc2VydmljZS1wcm9kdWNlcgogICAgICBob3N0OiBsb2NhbGhvc3QKICAgICAgcG9ydDogODUwMAoKCg==</text>
+        <text encoding="base64">IyAgICAgICAgICBmb3JjZS1wdWxsOiB0cnVlCg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBjbG91ZDoKICAgIGNvbnN1bDoKICAgICAgZGlzY292ZXJ5OgogICAgICAgIHNlcnZpY2UtbmFtZTogc2VydmljZS1wcm9kdWNlcgogICAgICBob3N0OiBsb2NhbGhvc3QKICAgICAgcG9ydDogODUwMAoKCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>spring:
   application:
     name: spring-cloud-consul-producer
@@ -1195,17 +1206,14 @@
       host: localhost
       port: 8500</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">c2VydmVyLnBvcnQ9ODg4OAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlsb25ncy4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlnZW9HZW5lcmF0b3IuZ2VuZXJhdGUoKQo=</text>
+        <text encoding="base64">CQlsb25ncy4K</text>
       </register>
     </registers>
     <search>
