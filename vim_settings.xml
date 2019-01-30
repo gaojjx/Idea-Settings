@@ -165,6 +165,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/WebSocketInterceptor.java" timestamp="1535447329228">
         <mark key="[" line="2" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-client/2.1.0.RELEASE/spring-cloud-config-client-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/client/ConfigServiceBootstrapConfiguration.java" timestamp="1548830651379" />
       <file name="/a.sql" timestamp="1538292821382">
         <mark key="[" line="0" column="0" />
       </file>
@@ -449,7 +450,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1543476989369">
         <mark key="[" line="123" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548829683347">
+      <file name="/Dummy.txt" timestamp="1548830707185">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
