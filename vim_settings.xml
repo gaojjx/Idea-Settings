@@ -54,8 +54,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketController.java" timestamp="1535449531275">
         <mark key="[" line="33" column="83" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1548579161140">
-        <mark key="[" line="3" column="29" />
+      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1549000003665">
+        <mark key="[" line="2" column="32" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientActionLogMapper.xml" timestamp="1539656259135">
         <mark key="[" line="157" column="79" />
@@ -165,7 +167,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/WebSocketInterceptor.java" timestamp="1535447329228">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-config-client/2.1.0.RELEASE/spring-cloud-config-client-2.1.0.RELEASE-sources.jar!/org/springframework/cloud/config/client/ConfigServiceBootstrapConfiguration.java" timestamp="1548830651379" />
       <file name="/a.sql" timestamp="1538292821382">
         <mark key="[" line="0" column="0" />
       </file>
@@ -309,7 +310,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/template-provider/sqlXml.ftl" timestamp="1545974713909">
         <mark key="[" line="33" column="11" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.6/jackson-databind-2.9.6-sources.jar!/com/fasterxml/jackson/databind/SerializationFeature.java" timestamp="1548833753276" />
       <file name="$USER_HOME$/Projects/yirdoc/base/config-server/src/main/java/com/yirdoc/configserver/ConfigServerApplication.java" timestamp="1548731433429">
         <mark key="[" line="6" column="0" />
       </file>
@@ -731,8 +731,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/service/impl/FollowUpArticleServiceImpl.java" timestamp="1537234469469">
         <mark key="[" line="48" column="77" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-demo/pom.xml" timestamp="1548731262429">
-        <mark key="[" line="37" column="21" />
+      <file name="$USER_HOME$/code/consul-demo/consul-demo/pom.xml" timestamp="1548840517442">
+        <mark key="[" line="57" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/RefundOrderMapper.java" timestamp="1544063942456">
         <mark key="[" line="32" column="66" />
@@ -1175,11 +1175,11 @@
       <jump line="58" column="28" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.7.9/HikariCP-2.7.9-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">6YWN572u5paH5Lu2Cg==</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>./**/*'</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
