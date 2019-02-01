@@ -686,8 +686,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientWeeklyReportMapper.xml" timestamp="1534752016014">
         <mark key="[" line="158" column="67" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/resources/application.properties" timestamp="1548577736727">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/resources/application.properties" timestamp="1549000891385">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/pom.xml" timestamp="1546825476371">
         <mark key="[" line="26" column="17" />
