@@ -54,10 +54,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketController.java" timestamp="1535449531275">
         <mark key="[" line="33" column="83" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1549087893925">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
+      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1549095593491">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientActionLogMapper.xml" timestamp="1539656259135">
         <mark key="[" line="157" column="79" />
@@ -1178,10 +1178,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>105.226.201</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>105.226.201</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
