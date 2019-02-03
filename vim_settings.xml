@@ -224,10 +224,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientWeeklyReportMapperTest.java" timestamp="1534733994785">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/service/HelloService.java" timestamp="1549159733212">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
+      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/service/HelloService.java" timestamp="1549165392117">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
         <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/PatientCardServiceTimeServiceImpl.java" timestamp="1533799686980">
@@ -778,7 +778,7 @@
       <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/pom.xml" timestamp="1548577620545">
         <mark key="[" line="36" column="74" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/LoadBalancerContext.class" timestamp="1549161579002" />
+      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/LoadBalancerContext.class" timestamp="1549165064760" />
       <file name="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/application.properties" timestamp="1548576395220">
         <mark key="[" line="5" column="0" />
       </file>
@@ -1179,10 +1179,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
