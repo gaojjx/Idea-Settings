@@ -54,8 +54,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketController.java" timestamp="1535449531275">
         <mark key="[" line="33" column="83" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1549095593491">
-        <mark key="[" line="6" column="23" />
+      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1549161587925">
+        <mark key="[" line="7" column="52" />
         <mark key="]" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
@@ -161,8 +161,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/FamilyCardModel.java" timestamp="1544778557055">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/controller/FeignController.java" timestamp="1548571645416">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/controller/FeignController.java" timestamp="1549160820525">
+        <mark key="[" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/WebSocketInterceptor.java" timestamp="1535447329228">
         <mark key="[" line="2" column="34" />
@@ -224,8 +224,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientWeeklyReportMapperTest.java" timestamp="1534733994785">
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/service/HelloService.java" timestamp="1548577948474">
-        <mark key="[" line="7" column="31" />
+      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/service/HelloService.java" timestamp="1549159733212">
+        <mark key="[" line="7" column="8" />
         <mark key="]" line="10" column="21" />
         <mark key="." line="10" column="21" />
         <mark key="^" line="7" column="30" />
@@ -686,8 +686,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientWeeklyReportMapper.xml" timestamp="1534752016014">
         <mark key="[" line="158" column="67" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/resources/application.properties" timestamp="1549087916260">
-        <mark key="[" line="1" column="28" />
+      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/resources/application.properties" timestamp="1549161209321">
+        <mark key="[" line="4" column="29" />
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
@@ -778,6 +778,7 @@
       <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/pom.xml" timestamp="1548577620545">
         <mark key="[" line="36" column="74" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/LoadBalancerContext.class" timestamp="1549161579002" />
       <file name="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/application.properties" timestamp="1548576395220">
         <mark key="[" line="5" column="0" />
       </file>
@@ -875,7 +876,7 @@
       <file name="$USER_HOME$/test/yirdoc.lease/src/main/java/com/yirdoc/lease/controller/OrderMainController.java" timestamp="1546592456826">
         <mark key="[" line="65" column="79" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/controller/ServiceController.java" timestamp="1548575320161">
+      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/controller/ServiceController.java" timestamp="1549160670532">
         <mark key="[" line="1" column="0" />
       </file>
       <file name="/bhhx.dictionary [rds]" timestamp="1543040744755">
