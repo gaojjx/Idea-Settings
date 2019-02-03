@@ -161,12 +161,13 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/FamilyCardModel.java" timestamp="1544778557055">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/controller/FeignController.java" timestamp="1549160820525">
+      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/controller/FeignController.java" timestamp="1549169077317">
         <mark key="[" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/WebSocketInterceptor.java" timestamp="1535447329228">
         <mark key="[" line="2" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/BaseLoadBalancer.class" timestamp="1549169549410" />
       <file name="/a.sql" timestamp="1538292821382">
         <mark key="[" line="0" column="0" />
       </file>
@@ -778,7 +779,7 @@
       <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/pom.xml" timestamp="1548577620545">
         <mark key="[" line="36" column="74" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/LoadBalancerContext.class" timestamp="1549165064760" />
+      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/LoadBalancerContext.class" timestamp="1549168880419" />
       <file name="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/application.properties" timestamp="1548576395220">
         <mark key="[" line="5" column="0" />
       </file>
