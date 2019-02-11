@@ -54,8 +54,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketController.java" timestamp="1535449531275">
         <mark key="[" line="33" column="83" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1549161587925">
-        <mark key="[" line="7" column="52" />
+      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1549865298435">
+        <mark key="[" line="6" column="59" />
         <mark key="]" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
@@ -167,7 +167,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/WebSocketInterceptor.java" timestamp="1535447329228">
         <mark key="[" line="2" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/BaseLoadBalancer.class" timestamp="1549169549410" />
       <file name="/a.sql" timestamp="1538292821382">
         <mark key="[" line="0" column="0" />
       </file>
@@ -413,7 +412,7 @@
       <file name="$USER_HOME$/test/example/src/main/java/com/example/example/feign/OrderMainFeignBuilder.java" timestamp="1546478700379">
         <mark key="[" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/java/com/example/consulconsumer/controller/HelloWorld.java" timestamp="1548575989032">
+      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/java/com/example/consulconsumer/controller/HelloWorld.java" timestamp="1549865204158">
         <mark key="[" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/Appliction.java" timestamp="1540274310864">
@@ -545,7 +544,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1546047025787">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1548754913025">
+      <file name="/fragment.java" timestamp="1549865106089">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -779,7 +778,6 @@
       <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/pom.xml" timestamp="1548577620545">
         <mark key="[" line="36" column="74" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-loadbalancer/2.3.0/ribbon-loadbalancer-2.3.0.jar!/com/netflix/loadbalancer/LoadBalancerContext.class" timestamp="1549168880419" />
       <file name="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/application.properties" timestamp="1548576395220">
         <mark key="[" line="5" column="0" />
       </file>
@@ -827,10 +825,6 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/lease.provider/provider/yirdoc.lease.provider-Web/pom.xml" timestamp="1545639957083">
         <mark key="[" line="20" column="51" />
-      </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/bootstrap.yml" timestamp="1548754994030">
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
       </file>
       <file name="/JSON Fragment (CallBackController.java:5745).json" timestamp="1536290884457">
         <mark key="[" line="0" column="0" />
