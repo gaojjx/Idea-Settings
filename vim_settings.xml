@@ -189,7 +189,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1543042600454">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1543047291470">
+      <file name="/HTML File.txt.ft" timestamp="1549942922009">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/DoctorBookCalendarSchedule.java" timestamp="1545038360659">
@@ -827,6 +827,12 @@
       <file name="$USER_HOME$/Projects/yirdoc/lease.provider/provider/yirdoc.lease.provider-Web/pom.xml" timestamp="1545639957083">
         <mark key="[" line="20" column="51" />
       </file>
+      <file name="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/bootstrap.yml" timestamp="1549942707160">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/JSON Fragment (CallBackController.java:5745).json" timestamp="1536290884457">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1178,10 +1184,12 @@
       <jump line="167" column="4" filename="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/mapping/OrderMainMapper.xml" />
       <jump line="640" column="28" filename="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/controller/HomeController.java" />
       <jump line="58" column="28" filename="$MAVEN_REPOSITORY$/com/zaxxer/HikariCP/2.7.9/HikariCP-2.7.9-sources.jar!/com/zaxxer/hikari/HikariConfig.java" />
+      <jump line="5" column="17" filename="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/bootstrap.yml" />
+      <jump line="8" column="0" filename="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/bootstrap.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>service-produce</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3ByaW5nOgogIGFwcGxpY2F0aW9uOgogICAgbmFtZTogY29uc3VsLXByb2R1Y2VyCiAgY2xvdWQ6CiAgICBjb25maWc6CiAgICAgIHVyaTogaHR0cDovL2xvY2FsaG9zdDoyNjM0NAoK</text>
       </register>
       <register name="-" type="4">
         <text>service-produce</text>
@@ -1193,24 +1201,27 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">6YWN572u5paH5Lu2Cg==</text>
+        <text encoding="base64">c3ByaW5nOgogIGFwcGxpY2F0aW9uOgogICAgbmFtZTogY29uc3VsLXByb2R1Y2VyCiAgY2xvdWQ6CiAgICBjb25maWc6CiAgICAgIHVyaTogaHR0cDovL2xvY2FsaG9zdDoyNjM0NAoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">6YWN572u5paH5Lu2Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgICBmb3JjZS1wdWxsOiB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjbG91ZDoKICAgIGNvbnN1bDoKICAgICAgZGlzY292ZXJ5OgogICAgICAgIHNlcnZpY2UtbmFtZTogc2VydmljZS1wcm9kdWNlcgogICAgICBob3N0OiBsb2NhbGhvc3QKICAgICAgcG9ydDogODUwMAoKCg==</text>
+        <text encoding="base64">IyAgICAgICAgICBmb3JjZS1wdWxsOiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICBjbG91ZDoKICAgIGNvbnN1bDoKICAgICAgZGlzY292ZXJ5OgogICAgICAgIHNlcnZpY2UtbmFtZTogc2VydmljZS1wcm9kdWNlcgogICAgICBob3N0OiBsb2NhbGhvc3QKICAgICAgcG9ydDogODUwMAoKCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>spring:
   application:
     name: spring-cloud-consul-producer
@@ -1221,14 +1232,11 @@
       host: localhost
       port: 8500</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">c2VydmVyLnBvcnQ9ODg4OAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlsb25ncy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
