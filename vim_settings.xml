@@ -54,10 +54,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketController.java" timestamp="1535449531275">
         <mark key="[" line="33" column="83" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1549866569810">
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1549940752099">
+        <mark key="[" line="6" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientActionLogMapper.xml" timestamp="1539656259135">
         <mark key="[" line="157" column="79" />
@@ -161,7 +159,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/FamilyCardModel.java" timestamp="1544778557055">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/controller/FeignController.java" timestamp="1549169077317">
+      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/java/com/example/consulfeigndemo/controller/FeignController.java" timestamp="1549939579148">
         <mark key="[" line="28" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx/src/main/java/com/cn/hnust/websocket/WebSocketInterceptor.java" timestamp="1535447329228">
@@ -454,7 +452,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorCardService.java" timestamp="1543476989369">
         <mark key="[" line="123" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548830707185">
+      <file name="/Dummy.txt" timestamp="1549939808371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/service/impl/PatientWeeklyReportServiceImplTest.java" timestamp="1534735393267">
@@ -544,7 +542,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.http" timestamp="1546047025787">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1549865106089">
+      <file name="/fragment.java" timestamp="1549940378142">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -686,8 +684,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientWeeklyReportMapper.xml" timestamp="1534752016014">
         <mark key="[" line="158" column="67" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/resources/application.properties" timestamp="1549161209321">
-        <mark key="[" line="4" column="29" />
+      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/resources/application.properties" timestamp="1549939143013">
+        <mark key="[" line="8" column="0" />
         <mark key="]" line="1" column="28" />
         <mark key="." line="1" column="28" />
       </file>
@@ -970,6 +968,12 @@
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/mapping/OrderFeeMapper.xml" timestamp="1545809141929">
         <mark key="[" line="19" column="38" />
       </file>
+      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application-dev.properties" timestamp="1549940644384">
+        <mark key="[" line="6" column="43" />
+        <mark key="]" line="9" column="52" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="9" column="52" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/java/com/haier/controller/OrderMainController.java" timestamp="1546076616067">
         <mark key="[" line="1" column="0" />
       </file>
@@ -1174,10 +1178,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>service-produce</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>service-produce</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
