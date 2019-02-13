@@ -990,6 +990,11 @@
       <file name="/bhhx.doctor_todo_type [rds]" timestamp="1538292726896">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/controller/Util.java" timestamp="1550047465263">
+        <mark key="[" line="31" column="55" />
+        <mark key="]" line="31" column="55" />
+        <mark key="." line="31" column="55" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1547624401228">
         <mark key="[" line="20" column="22" />
       </file>
@@ -1190,11 +1195,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/bootstrap.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nOgogIGFwcGxpY2F0aW9uOgogICAgbmFtZTogY29uc3VsLXByb2R1Y2VyCiAgY2xvdWQ6CiAgICBjb25maWc6CiAgICAgIHVyaTogaHR0cDovL2xvY2FsaG9zdDoyNjM0NAoK</text>
+      <register name="&quot;" type="4">
+        <text>utf</text>
       </register>
       <register name="-" type="4">
-        <text>service-produce</text>
+        <text>utf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
