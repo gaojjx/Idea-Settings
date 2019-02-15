@@ -97,10 +97,10 @@
       <file name="$USER_HOME$/test/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderStateLogConsumer.java" timestamp="1546410277897">
         <mark key="[" line="22" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/OrderXmlRequest.java" timestamp="1550199858672">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="15" />
-        <mark key="." line="14" column="15" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/OrderXmlRequest.java" timestamp="1550202153182">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="15" column="15" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/BillOrderMapper.xml" timestamp="1543299839040">
         <mark key="[" line="239" column="82" />
@@ -983,8 +983,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/lease/src/main/java/com/yirdoc/lease/entity/GeoLocation.java" timestamp="1547195089716">
         <mark key="[" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/BaseRequest.java" timestamp="1550199808796">
-        <mark key="[" line="26" column="25" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/BaseRequest.java" timestamp="1550202106666">
+        <mark key="[" line="27" column="25" />
         <mark key="]" line="28" column="14" />
         <mark key="." line="28" column="14" />
       </file>
@@ -1224,11 +1224,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/bootstrap.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlSZXF1ZXN0Qm9keQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">QmFzZVJlcXVlc3RCb2R5IA==</text>
       </register>
       <register name="-" type="4">
-        <text>xml</text>
+        <text encoding="base64">QmFzZVJlcXVlc3RCb2R5IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
