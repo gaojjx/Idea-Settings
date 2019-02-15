@@ -545,11 +545,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/settings.xml" timestamp="1546669958075">
         <mark key="[" line="11" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/config/SfConfig.java" timestamp="1550195147710">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="23" column="24" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/config/SfConfig.java" timestamp="1550196257137">
+        <mark key="[" line="26" column="60" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="24" column="24" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserDocMapper.xml" timestamp="1533286284477">
         <mark key="[" line="152" column="68" />
