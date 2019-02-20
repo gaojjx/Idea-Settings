@@ -144,6 +144,9 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-boot-1.0.0-pom.xml" timestamp="1546665717637">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/.git/info/exclude" timestamp="1550654077807">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/wxpay/common/WeChatConfig.java" timestamp="1545205925211">
         <mark key="[" line="11" column="14" />
       </file>
@@ -1002,6 +1005,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/mapping/OrderFeeMapper.xml" timestamp="1545809141929">
         <mark key="[" line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/.gitignore" timestamp="1550654080552">
+        <mark key="[" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/proxy-admin/src/main/java/com/haier/controller/OrderMainController.java" timestamp="1546076616067">
         <mark key="[" line="1" column="0" />
