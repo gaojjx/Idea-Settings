@@ -9,7 +9,7 @@
       <file name="/JSON Fragment (JWTAuthenticationFilter.java:2957).json" timestamp="1542246364048">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1550222367617">
+      <file name="/a.dummy" timestamp="1550823369217">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/test/provider/Service/src/main/java/com/yirdoc/lease/provider/service/impl/SfCabinetServiceImpl.java" timestamp="1545729690589">
@@ -126,8 +126,8 @@
       <file name="$USER_HOME$/test/yirdoc.lease/src/main/resources/application-dev.yml" timestamp="1546679408855">
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/OrderResponse.java" timestamp="1550820919272">
-        <mark key="[" line="26" column="30" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/OrderResponse.java" timestamp="1550824165494">
+        <mark key="[" line="10" column="20" />
         <mark key="]" line="9" column="30" />
         <mark key="^" line="9" column="30" />
         <mark key="." line="9" column="30" />
@@ -313,6 +313,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/settings.xml" timestamp="1546669958075">
         <mark key="[" line="11" column="83" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10-sources.jar!/com/thoughtworks/xstream/core/util/HierarchicalStreams.java" timestamp="1550823959811" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1550728052029">
         <mark key="[" line="0" column="431" />
       </file>
@@ -436,6 +437,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/TagMapper.java" timestamp="1534405586547">
         <mark key="[" line="29" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10-sources.jar!/com/thoughtworks/xstream/io/xml/XmlFriendlyNameCoder.java" timestamp="1550824143177" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorController.java" timestamp="1550366006892">
         <mark key="[" line="147" column="0" />
       </file>
@@ -553,8 +555,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Repository/src/main/java/com/yirdoc/lease/provider/repository/SfCabinetRepository.java" timestamp="1545709339222">
         <mark key="[" line="37" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/ResponseTest.java" timestamp="1550817075920">
-        <mark key="[" line="13" column="63" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/ResponseTest.java" timestamp="1550823624947">
+        <mark key="[" line="15" column="55" />
         <mark key="]" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
@@ -742,7 +744,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorCardModel.java" timestamp="1539669392210">
         <mark key="[" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/BaseResponseConvert.java" timestamp="1550821872232">
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/BaseResponseConvert.java" timestamp="1550823851692">
         <mark key="[" line="66" column="15" />
         <mark key="]" line="66" column="15" />
         <mark key="." line="66" column="15" />
@@ -774,10 +776,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/service/impl/MedicineServiceImpl.java" timestamp="1542684671410">
         <mark key="[" line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/OrderResponseConvert.java" timestamp="1550822482990">
-        <mark key="[" line="23" column="67" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/OrderResponseConvert.java" timestamp="1550823606519">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/TagMapper.xml" timestamp="1534405636978">
         <mark key="[" line="136" column="71" />
@@ -864,7 +866,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientAllergyItemMapperTest.java" timestamp="1539743282433">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1550821764854">
+      <file name="/fragment.java" timestamp="1550824115486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1246,8 +1248,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/bootstrap.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aW50IHJsc0F0dHJpYnV0ZUNvdW50ID0gcmVhZGVyLmdldEF0dHJpYnV0ZUNvdW50KCk7CgkJZm9yIChpbnQgaSA9IDA7IGkgPCBybHNBdHRyaWJ1dGVDb3VudDsgaSsrKSB7CgkJCUZpZWxkIGZpZWxkID0gcmxzRmllbGRNYXAuZ2V0KHJlYWRlci5nZXRBdHRyaWJ1dGVOYW1lKGkpKTsKCQkJZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQkJdHJ5IHsKCQkJCWZpZWxkLnNldChybHNJbmZvLCByZWFkZXIuZ2V0QXR0cmlidXRlKGkpKTsKCQkJfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiBlKSB7CgkJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCQl9CgkJfQ==</text>
       </register>
       <register name="-" type="4">
         <text>baseResponse</text>
@@ -1258,29 +1260,29 @@
       <register name="0" type="4">
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">aW50IHJsc0F0dHJpYnV0ZUNvdW50ID0gcmVhZGVyLmdldEF0dHJpYnV0ZUNvdW50KCk7CgkJZm9yIChpbnQgaSA9IDA7IGkgPCBybHNBdHRyaWJ1dGVDb3VudDsgaSsrKSB7CgkJCUZpZWxkIGZpZWxkID0gcmxzRmllbGRNYXAuZ2V0KHJlYWRlci5nZXRBdHRyaWJ1dGVOYW1lKGkpKTsKCQkJZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQkJdHJ5IHsKCQkJCWZpZWxkLnNldChybHNJbmZvLCByZWFkZXIuZ2V0QXR0cmlidXRlKGkpKTsKCQkJfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiBlKSB7CgkJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCQl9CgkJfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZWFkZXIuZ2V0QXR0cmlidXRlTmFtZXMoKS5mb3JFYWNoUmVtYWluaW5nKGEgLT4gKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Lm1hcChmaWVsZCAtPiB7CgkJCQkJCgkJCQl9KQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQlyZWFkZXIuZ2V0QXR0cmlidXRlTmFtZXMoKS5mb3JFYWNoUmVtYWluaW5nKGEgLT4gKTsK</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Lm1hcChmaWVsZCAtPiB7CgkJCQkJCgkJCQl9KQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QEJ1aWxkZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQluZXcgT3JkZXIoKQo=</text>
+        <text encoding="base64">QEJ1aWxkZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQluZXcgT3JkZXIoKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
