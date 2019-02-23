@@ -131,11 +131,10 @@
       <file name="$USER_HOME$/test/yirdoc.lease/src/main/resources/application-dev.yml" timestamp="1546679408855">
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/OrderResponse.java" timestamp="1550887478044">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="52" column="26" />
-        <mark key="^" line="52" column="35" />
-        <mark key="." line="52" column="26" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/OrderResponse.java" timestamp="1550890920555">
+        <mark key="[" line="95" column="114" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/UserFamilyModel.java" timestamp="1539056144904">
         <mark key="[" line="8" column="27" />
@@ -276,13 +275,13 @@
       <file name="/dummy.sql" timestamp="1543213818762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550644284839">
+      <file name="/Dummy.txt" timestamp="1550890979394">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/service/DefaultSFMethod.java" timestamp="1550885337410">
-        <mark key="[" line="79" column="69" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/service/DefaultSFMethod.java" timestamp="1550890819835">
+        <mark key="[" line="43" column="15" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/README.md" timestamp="1550837254853">
         <mark key="[" line="0" column="0" />
@@ -421,6 +420,11 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/RefundOrderMapper.java" timestamp="1544063942456">
         <mark key="[" line="32" column="66" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/service/ISFMethod.java" timestamp="1550889166016">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="." line="16" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientGroupMemberMapper.xml" timestamp="1536307746604">
         <mark key="[" line="119" column="97" />
@@ -709,11 +713,6 @@
       <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/java/com/example/consulconsumer/ConsulConsumerApplication.java" timestamp="1548572576892">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/BaseResponse.java" timestamp="1550887096795">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/test/yirdoc.lease.provider/consumer/src/main/java/com/yirdoc/lease/provider/consumer/OrderMainConsumer.java" timestamp="1546997606848">
         <mark key="[" line="12" column="67" />
       </file>
@@ -872,9 +871,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/config/SfConfig.java" timestamp="1550740266794">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="18" column="26" />
-        <mark key="." line="18" column="26" />
+        <mark key="[" line="24" column="40" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/UserDocMapper.xml" timestamp="1533286284477">
         <mark key="[" line="152" column="68" />
@@ -882,7 +881,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientAllergyItemMapperTest.java" timestamp="1539743282433">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1550886441476">
+      <file name="/fragment.java" timestamp="1550889135417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -912,8 +911,8 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/PatientCardPayLogMapper.java" timestamp="1543473374002">
         <mark key="[" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/test/java/com/yirdoc/sf/order/service/DefaultSFMethodTest.java" timestamp="1550885779073">
-        <mark key="[" line="32" column="25" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/test/java/com/yirdoc/sf/order/service/DefaultSFMethodTest.java" timestamp="1550889967694">
+        <mark key="[" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserDocMapper.java" timestamp="1533286274840">
         <mark key="[" line="28" column="41" />
@@ -1274,11 +1273,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/bootstrap.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBYU3RyZWFtQWxpYXMoIkVycm9yIikK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>baseResponse</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
@@ -1287,34 +1286,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBYU3RyZWFtQWxpYXMoIkVycm9yIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUAK</text>
+        <text encoding="base64">CQlyZXR1cm4gc3VwZXIuZnJvbVhtbCh4bWwpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aW50IHJsc0F0dHJpYnV0ZUNvdW50ID0gcmVhZGVyLmdldEF0dHJpYnV0ZUNvdW50KCk7CgkJZm9yIChpbnQgaSA9IDA7IGkgPCBybHNBdHRyaWJ1dGVDb3VudDsgaSsrKSB7CgkJCUZpZWxkIGZpZWxkID0gcmxzRmllbGRNYXAuZ2V0KHJlYWRlci5nZXRBdHRyaWJ1dGVOYW1lKGkpKTsKCQkJZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQkJdHJ5IHsKCQkJCWZpZWxkLnNldChybHNJbmZvLCByZWFkZXIuZ2V0QXR0cmlidXRlKGkpKTsKCQkJfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiBlKSB7CgkJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCQl9CgkJfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CUBYU3RyZWFtQWxpYXMoIkVycm9yIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlyZWFkZXIuZ2V0QXR0cmlidXRlTmFtZXMoKS5mb3JFYWNoUmVtYWluaW5nKGEgLT4gKTsK</text>
+        <text encoding="base64">CUAK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Lm1hcChmaWVsZCAtPiB7CgkJCQkJCgkJCQl9KQ==</text>
+        <text encoding="base64">aW50IHJsc0F0dHJpYnV0ZUNvdW50ID0gcmVhZGVyLmdldEF0dHJpYnV0ZUNvdW50KCk7CgkJZm9yIChpbnQgaSA9IDA7IGkgPCBybHNBdHRyaWJ1dGVDb3VudDsgaSsrKSB7CgkJCUZpZWxkIGZpZWxkID0gcmxzRmllbGRNYXAuZ2V0KHJlYWRlci5nZXRBdHRyaWJ1dGVOYW1lKGkpKTsKCQkJZmllbGQuc2V0QWNjZXNzaWJsZSh0cnVlKTsKCQkJdHJ5IHsKCQkJCWZpZWxkLnNldChybHNJbmZvLCByZWFkZXIuZ2V0QXR0cmlidXRlKGkpKTsKCQkJfSBjYXRjaCAoSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiBlKSB7CgkJCQllLnByaW50U3RhY2tUcmFjZSgpOwoJCQl9CgkJfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEJ1aWxkZXIK</text>
+        <text encoding="base64">CQlyZWFkZXIuZ2V0QXR0cmlidXRlTmFtZXMoKS5mb3JFYWNoUmVtYWluaW5nKGEgLT4gKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQluZXcgT3JkZXIoKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Lm1hcChmaWVsZCAtPiB7CgkJCQkJCgkJCQl9KQ==</text>
       </register>
     </registers>
     <search>
