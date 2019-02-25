@@ -111,9 +111,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/config-server/.gitignore" timestamp="1548829036307">
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/pom.xml" timestamp="1551062433214">
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/pom.xml" timestamp="1551066219819">
+        <mark key="[" line="41" column="21" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/AliPayServiceImpl.java" timestamp="1534131273761">
         <mark key="[" line="8" column="0" />
@@ -278,9 +279,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/service/DefaultSFMethod.java" timestamp="1551063785885">
-        <mark key="[" line="111" column="80" />
-        <mark key="]" line="79" column="35" />
-        <mark key="." line="79" column="35" />
+        <mark key="[" line="108" column="80" />
+        <mark key="]" line="76" column="35" />
+        <mark key="." line="76" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/README.md" timestamp="1550837254853">
         <mark key="[" line="0" column="0" />
@@ -350,6 +351,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Service/pom.xml" timestamp="1545725864131">
         <mark key="[" line="20" column="8" />
       </file>
+      <file name="$USER_HOME$/code/weixin-java-tools/pom.xml" timestamp="1551066211445" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/DoctorMapper.xml" timestamp="1539316799565">
         <mark key="[" line="191" column="19" />
       </file>
@@ -418,6 +420,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/code/weixin-java-tools/weixin-java-pay/src/test/java/com/github/binarywang/wxpay/testbase/ApiTestModule.java" timestamp="1551064911341" />
       <file name="$USER_HOME$/Projects/yirdoc/front/bhhx3-user/src/components/home/changeUser.vue" timestamp="1542873442362">
         <mark key="[" line="6" column="42" />
       </file>
@@ -468,6 +471,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/TagMapper.java" timestamp="1534405586547">
         <mark key="[" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/code/weixin-java-tools/weixin-java-pay/src/main/java/com/github/binarywang/wxpay/service/impl/WxPayServiceApacheHttpImpl.java" timestamp="1551065394175" />
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/test/resources/test-config.xml" timestamp="1551063463216">
         <mark key="[" line="2" column="33" />
       </file>
@@ -759,9 +763,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/FamilyCardMapper.xml" timestamp="1544778614805">
         <mark key="[" line="165" column="27" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/util/SFUtil.java" timestamp="1551063738292">
-        <mark key="[" line="42" column="49" />
-      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/util/SFUtil.java" timestamp="1551066127780" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/basicPayModel.java" timestamp="1534140709610">
         <mark key="[" line="4" column="52" />
       </file>
@@ -792,6 +794,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorCardModel.java" timestamp="1539669392210">
         <mark key="[" line="10" column="29" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" timestamp="1551065829269" />
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/SfReceiveAddressService.java" timestamp="1545873329771">
         <mark key="[" line="5" column="60" />
       </file>
@@ -1222,6 +1225,7 @@
         <mark key="]" line="3" column="42" />
         <mark key="." line="3" column="42" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/util/util-core/1.0.1-SNAPSHOT/util-core-1.0.1-SNAPSHOT.pom" timestamp="1551065027387" />
       <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-consumer/1.0.0-SNAPSHOT/yirdoc-core-consumer-1.0.0-SNAPSHOT.pom" timestamp="1545890753198">
         <mark key="[" line="42" column="21" />
       </file>
@@ -1299,8 +1303,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/bootstrap.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SFConfig.APICODE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2Muc2Yub3JkZXIuY29uZmlnLlNGQ29uZmlnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>SFConfig.APICODE</text>
@@ -1312,34 +1316,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBYU3RyZWFtQXNBdHRyaWJ1dGUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2Muc2Yub3JkZXIuY29uZmlnLlNGQ29uZmlnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlmaW5hbCBUIHQgPSAoVCkgb3JpZ2luYWw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpvZGQudXRpbC5CYXNlNjQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgo=</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdC50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20ueWlyZG9jLnV0aWw8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+dXRpbC1jb3JlPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnlpcmRvYy51dGlsPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD51dGlsLWNvcmU8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMC4xLVNOQVBTSE9UPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBYU3RyZWFtQXNBdHRyaWJ1dGUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlXYXlCaWxsUm91dGVSZXF1ZXN0IHdheUJpbGxSb3V0ZVJlcXVlc3QgPSAoV2F5QmlsbFJvdXRlUmVxdWVzdCkgb3JpZ2luYWw7Cg==</text>
+        <text encoding="base64">CQlmaW5hbCBUIHQgPSAoVCkgb3JpZ2luYWw7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gc3VwZXIuZnJvbVhtbCh4bWwpOwo=</text>
+        <text encoding="base64">CQlyZXR1cm4gdC50b1N0cmluZygpOwo=</text>
       </register>
     </registers>
     <search>
