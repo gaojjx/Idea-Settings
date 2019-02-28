@@ -726,10 +726,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorTodoModel.java" timestamp="1538881319403">
         <mark key="[" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/order/Order.java" timestamp="1551336809101">
-        <mark key="[" line="28" column="7" />
-        <mark key="]" line="163" column="38" />
-        <mark key="." line="163" column="38" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/order/Order.java" timestamp="1551338528366">
+        <mark key="[" line="143" column="7" />
+        <mark key="]" line="200" column="38" />
+        <mark key="." line="200" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/WayBillRouteResponse.java" timestamp="1550902699935">
         <mark key="[" line="14" column="42" />
@@ -887,10 +887,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/model/RefundOrderModel.java" timestamp="1543472280967">
         <mark key="[" line="13" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/request/OrderRequest.java" timestamp="1551336761237">
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/request/OrderRequest.java" timestamp="1551337876050">
         <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/JSON Fragment (CallBackController.java:5725).json" timestamp="1536290650147">
         <mark key="[" line="0" column="0" />
