@@ -214,8 +214,10 @@
       <file name="$USER_HOME$/code/springBootDemo/src/main/java/com/example/demo/mapper/EmojiMapper.java" timestamp="1539328527736">
         <mark key="[" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/OrderConvert.java" timestamp="1551325358282">
-        <mark key="[" line="2" column="26" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/OrderConvert.java" timestamp="1551333178149">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/WayBillRouteOut.java" timestamp="1550898640974">
         <mark key="[" line="2" column="28" />
@@ -283,7 +285,7 @@
       <file name="/Dummy.txt" timestamp="1550906990847">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/service/DefaultSFMethod.java" timestamp="1551325040592">
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/service/DefaultSFMethod.java" timestamp="1551332496761">
         <mark key="[" line="50" column="46" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
@@ -722,10 +724,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorTodoModel.java" timestamp="1538881319403">
         <mark key="[" line="7" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/order/Order.java" timestamp="1551325073957">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/order/Order.java" timestamp="1551332856393">
+        <mark key="[" line="157" column="38" />
+        <mark key="]" line="157" column="38" />
+        <mark key="." line="157" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/WayBillRouteResponse.java" timestamp="1550902699935">
         <mark key="[" line="14" column="42" />
@@ -780,9 +782,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/model/DoctorCardModel.java" timestamp="1539669392210">
         <mark key="[" line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/BaseResponseConvert.java" timestamp="1551324705376">
-        <mark key="[" line="29" column="0" />
-      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/BaseResponseConvert.java" timestamp="1551333154798" />
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/SfReceiveAddressService.java" timestamp="1545873329771">
         <mark key="[" line="5" column="60" />
       </file>
@@ -810,7 +810,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/console/service/impl/MedicineServiceImpl.java" timestamp="1542684671410">
         <mark key="[" line="29" column="5" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/OrderResponseConvert.java" timestamp="1551324983428">
+      <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/xml/OrderResponseConvert.java" timestamp="1551332188976">
         <mark key="[" line="32" column="70" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -891,7 +891,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/test/com/yirdoc/bhhx/mapper/PatientAllergyItemMapperTest.java" timestamp="1539743282433">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1551248120094">
+      <file name="/fragment.java" timestamp="1551332804614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1292,11 +1292,11 @@
       <jump line="12" column="33" filename="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+      <register name="&quot;" type="4">
+        <text>order.getClass().);</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>order.getClass().);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
