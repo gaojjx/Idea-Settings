@@ -449,6 +449,11 @@
       <file name="$USER_HOME$/lease.sql" timestamp="1545802134521">
         <mark key="[" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/provider.properties" timestamp="1551516565141">
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="42" />
+        <mark key="." line="10" column="42" />
+      </file>
       <file name="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/application.properties" timestamp="1548576395220">
         <mark key="[" line="5" column="0" />
       </file>
@@ -1119,6 +1124,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/sf/test/TestCallExpressService.java" timestamp="1550735514410">
         <mark key="[" line="10" column="25" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/generator.properties" timestamp="1551516551043">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/order/Cargo.java" timestamp="1551341654682">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -1324,10 +1334,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>notify</text>
+        <text>sf_cabinet,sf_city,sf_codes,sf_device,sf_district,sf_doctor,sf_doctor_master,sf_goods,sf_head_pic,sf_hospital,sf_lease_order,sf_notice_record,sf_order,sf_product,sf_product_price,sf_province,sf_proxy,sf_receive_address,sf_refund_notice_record,sf_refund_result_record,sf_return_notice_record,sf_sell_order,sf_sell_order_customer_info,sf_system_admin,sf_thirdparty,sf_thirdparty_order,sf_user_info</text>
       </register>
       <register name="-" type="4">
-        <text>notify</text>
+        <text>sf_cabinet,sf_city,sf_codes,sf_device,sf_district,sf_doctor,sf_doctor_master,sf_goods,sf_head_pic,sf_hospital,sf_lease_order,sf_notice_record,sf_order,sf_product,sf_product_price,sf_province,sf_proxy,sf_receive_address,sf_refund_notice_record,sf_refund_result_record,sf_return_notice_record,sf_sell_order,sf_sell_order_customer_info,sf_system_admin,sf_thirdparty,sf_thirdparty_order,sf_user_info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
