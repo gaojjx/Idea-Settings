@@ -30,7 +30,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/websocket/MapWebSocketController.java" timestamp="1535449531275">
         <mark key="[" line="33" column="83" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1550304975496">
+      <file name="$USER_HOME$/code/consul-demo/consul-consumer/src/main/resources/application.properties" timestamp="1551670252094">
         <mark key="[" line="6" column="69" />
         <mark key="]" line="7" column="48" />
         <mark key="^" line="7" column="48" />
@@ -239,6 +239,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/entity/Article.java" timestamp="1548834231057">
         <mark key="[" line="56" column="7" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.lease.provider/provider/Web/pom.xml" timestamp="1551669993176">
+        <mark key="[" line="42" column="19" />
       </file>
       <file name="$USER_HOME$/chat_log.sql" timestamp="1538015923736">
         <mark key="[" line="0" column="11" />
@@ -967,6 +970,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/mapper/UserDocMapper.java" timestamp="1533286274840">
         <mark key="[" line="28" column="41" />
       </file>
+      <file name="$USER_HOME$/code/consul-demo/consul-consumer/pom.xml" timestamp="1551669999851" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/config/WechatConfig.java" timestamp="1545368838200">
         <mark key="[" line="57" column="5" />
       </file>
