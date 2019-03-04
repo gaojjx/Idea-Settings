@@ -36,10 +36,6 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/sf/demo/src/main/java/com/yirdoc/demo/controller/RoutePushService.java" timestamp="1551408926888">
-        <mark key="]" line="21" column="19" />
-        <mark key="." line="21" column="19" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientActionLogMapper.xml" timestamp="1539656259135">
         <mark key="[" line="157" column="79" />
       </file>
@@ -57,6 +53,11 @@
       </file>
       <file name="$USER_HOME$/test/yirdoc.lease.provider/provider/Web/src/main/resources/application.yml" timestamp="1547011228900">
         <mark key="[" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-boot-pom.xml" timestamp="1551670994010">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/OrderXmlRequest.java" timestamp="1550214479429">
         <mark key="[" line="13" column="13" />
@@ -743,6 +744,11 @@
       <file name="/Maven Settings.txt.ft" timestamp="1533109068149">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/yirdoc/core/yirdoc-core-boot/1.1.0/yirdoc-core-boot-1.1.0.pom" timestamp="1551670952187">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="31" />
+        <mark key="." line="20" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/bhhx-console/src/main/java/com/yirdoc/bhhx/doctor/controller/CardServiceController.java" timestamp="1542614698199">
         <mark key="[" line="27" column="56" />
       </file>
@@ -1125,6 +1131,11 @@
       <file name="/XML Fragment (DefaultSFMethodTest.java:1948).xml" timestamp="1551345494329">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-provider-pom.xml" timestamp="1551671079525">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/sf/test/TestCallExpressService.java" timestamp="1550735514410">
         <mark key="[" line="10" column="25" />
       </file>
@@ -1229,6 +1240,11 @@
       </file>
       <file name="$USER_HOME$/test/provider/Web/src/main/java/com/yirdoc/lease/provider/Application.java" timestamp="1545728168081">
         <mark key="[" line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.lease.provider/provider/Web/src/main/java/com/yirdoc/lease/provider/Application.java" timestamp="1551670862949">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/DoctorPatientGroupService.java" timestamp="1536314611674">
         <mark key="[" line="162" column="57" />
@@ -1338,10 +1354,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sf_cabinet,sf_city,sf_codes,sf_device,sf_district,sf_doctor,sf_doctor_master,sf_goods,sf_head_pic,sf_hospital,sf_lease_order,sf_notice_record,sf_order,sf_product,sf_product_price,sf_province,sf_proxy,sf_receive_address,sf_refund_notice_record,sf_refund_result_record,sf_return_notice_record,sf_sell_order,sf_sell_order_customer_info,sf_system_admin,sf_thirdparty,sf_thirdparty_order,sf_user_info</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>sf_cabinet,sf_city,sf_codes,sf_device,sf_district,sf_doctor,sf_doctor_master,sf_goods,sf_head_pic,sf_hospital,sf_lease_order,sf_notice_record,sf_order,sf_product,sf_product_price,sf_province,sf_proxy,sf_receive_address,sf_refund_notice_record,sf_refund_result_record,sf_return_notice_record,sf_sell_order,sf_sell_order_customer_info,sf_system_admin,sf_thirdparty,sf_thirdparty_order,sf_user_info</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
@@ -1350,34 +1366,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCS5hbmQK</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICog5paH5qGj5a6a5LmJ5LqG5bCG6L+RNTDkuKrlsZ7mgKcK</text>
+        <text encoding="base64">CQkJCS5hbmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSB0ZXJyeSBvbiAxNS03LTIyLgo=</text>
+        <text encoding="base64">ICog5paH5qGj5a6a5LmJ5LqG5bCG6L+RNTDkuKrlsZ7mgKcK</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICog6YeN5YaZTmFtZUNvZGVy77yM6Kej5Yaz5Y2V5LiL5YiS57q/5Y+Y5Y+M5LiL5YiS57q/55qE6Zeu6aKYCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSB0ZXJyeSBvbiAxNS03LTIyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlvcmRlci5zZXRTZkNvbmZpZyh0aGlzLmlzZk1ldGhvZC5nZXRDb25maWcoKSk7Cg==</text>
+        <text encoding="base64">ICog6YeN5YaZTmFtZUNvZGVy77yM6Kej5Yaz5Y2V5LiL5YiS57q/5Y+Y5Y+M5LiL5YiS57q/55qE6Zeu6aKYCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">CQlvcmRlci5zZXRTZkNvbmZpZyh0aGlzLmlzZk1ldGhvZC5nZXRDb25maWcoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmaW5hbCBTdHJpbmcgc2VydmljZU5hbWUgPSB0LmdldFNlcnZpY2VOYW1lKCkucmVwbGFjZSgiU2VydmljZSIsICIiKTsK</text>
+        <text encoding="base64">CQlvcmRlci5zZXRTZkNvbmZpZyh0aGlzLmlzZk1ldGhvZC5nZXRDb25maWcoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmaW5hbCBTdHJpbmcgc2VydmljZU5hbWUgPSB0LmdldFNlcnZpY2VOYW1lKCkucmVwbGFjZSgiU2VydmljZSIsICIiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
