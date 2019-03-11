@@ -284,7 +284,7 @@
       <file name="/dummy.sql" timestamp="1551318986878">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551949049380">
+      <file name="/Dummy.txt" timestamp="1552285596699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -899,8 +899,11 @@
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/service/impl/UserServiceImpl.java" timestamp="1540281540574">
         <mark key="[" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-pom.xml" timestamp="1552284386867">
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-pom.xml" timestamp="1552285170245">
         <mark key="[" line="25" column="21" />
+        <mark key="]" line="43" column="24" />
+        <mark key="^" line="43" column="24" />
+        <mark key="." line="43" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/WayBillRouteRequest.java" timestamp="1550906065615">
         <mark key="[" line="22" column="62" />
