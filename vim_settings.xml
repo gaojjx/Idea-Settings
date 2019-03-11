@@ -388,7 +388,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/controller/PatientDailyLogController.java" timestamp="1537425165735">
         <mark key="[" line="45" column="30" />
       </file>
-      <file name="$USER_HOME$/code/consul-demo/consul-feign-demo/src/main/resources/application.properties" timestamp="1552267986037" />
       <file name="$USER_HOME$/Projects/yirdoc/base/util-core/pom.xml" timestamp="1546825476371">
         <mark key="[" line="26" column="17" />
       </file>
@@ -411,6 +410,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientGroupMemberMapper.xml" timestamp="1536307746604">
         <mark key="[" line="119" column="97" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.lease.provider/provider/Model/pom.xml" timestamp="1552284451951">
+        <mark key="[" line="6" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1543481631214">
         <mark key="[" line="161" column="52" />
@@ -462,6 +464,7 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-consumer-pom.xml" timestamp="1551706534202">
         <mark key="[" line="30" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.lease.provider/provider/pom.xml" timestamp="1552284458556" />
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/SfCabinetService.java" timestamp="1545816582832">
         <mark key="[" line="27" column="0" />
       </file>
@@ -895,6 +898,9 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/service/impl/UserServiceImpl.java" timestamp="1540281540574">
         <mark key="[" line="10" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-pom.xml" timestamp="1552284386867">
+        <mark key="[" line="25" column="21" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/WayBillRouteRequest.java" timestamp="1550906065615">
         <mark key="[" line="22" column="62" />
