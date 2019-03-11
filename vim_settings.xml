@@ -284,7 +284,7 @@
       <file name="/dummy.sql" timestamp="1551318986878">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552285596699">
+      <file name="/Dummy.txt" timestamp="1551949049380">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -411,9 +411,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/resources/mapping/PatientGroupMemberMapper.xml" timestamp="1536307746604">
         <mark key="[" line="119" column="97" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.lease.provider/provider/Model/pom.xml" timestamp="1552284451951">
-        <mark key="[" line="6" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/UserServiceImpl.java" timestamp="1543481631214">
         <mark key="[" line="161" column="52" />
       </file>
@@ -423,10 +420,10 @@
       <file name="$USER_HOME$/lease.sql" timestamp="1545802134521">
         <mark key="[" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/provider.properties" timestamp="1552287718021">
-        <mark key="[" line="10" column="42" />
-        <mark key="]" line="10" column="42" />
-        <mark key="." line="10" column="42" />
+      <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/src/main/resources/provider.properties" timestamp="1551769519420">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
       </file>
       <file name="$USER_HOME$/code/consul-demo/consul-demo/src/main/resources/application.properties" timestamp="1548576395220">
         <mark key="[" line="5" column="0" />
@@ -449,7 +446,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/test/resources/test-config.xml" timestamp="1551063463216">
         <mark key="[" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bukele.provider/provider/pom.xml" timestamp="1552288034583" />
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/controller/DoctorController.java" timestamp="1550366006892">
         <mark key="[" line="147" column="0" />
       </file>
@@ -465,7 +461,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-consumer-pom.xml" timestamp="1551706534202">
         <mark key="[" line="30" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.lease.provider/provider/pom.xml" timestamp="1552284458556" />
       <file name="$USER_HOME$/Projects/yirdoc/base/code-generator/dist/yirdoc.lease.provider/provider/Service/src/main/java/com/yirdoc/lease/provider/service/SfCabinetService.java" timestamp="1545816582832">
         <mark key="[" line="27" column="0" />
       </file>
@@ -557,9 +552,6 @@
         <mark key="[" line="6" column="31" />
         <mark key="]" line="6" column="31" />
         <mark key="." line="6" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bukele.provider/provider/Model/pom.xml" timestamp="1552288022108">
-        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx.doctor/src/main/java/com/yirdoc/bhhx/doctor/Application.java" timestamp="1536743462980">
         <mark key="[" line="10" column="0" />
@@ -670,9 +662,6 @@
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/impl/TagServiceImpl.java" timestamp="1534405725283">
         <mark key="[" line="90" column="5" />
-      </file>
-      <file name="$USER_HOME$/bukele.sql" timestamp="1552132261503">
-        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/yirdoc/fengchao/wxpay/WechatProperties.java" timestamp="1545207514520">
         <mark key="[" line="4" column="0" />
@@ -903,12 +892,6 @@
       <file name="$USER_HOME$/Projects/yirdoc/fengchao/src/main/java/com/cn/hnust/service/impl/UserServiceImpl.java" timestamp="1540281540574">
         <mark key="[" line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/base/nexus/yirdoc-core-pom.xml" timestamp="1552285170245">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="43" column="24" />
-        <mark key="^" line="43" column="24" />
-        <mark key="." line="43" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/yirdoc/sf/sf-order/src/main/java/com/yirdoc/sf/order/bean/WayBillRouteRequest.java" timestamp="1550906065615">
         <mark key="[" line="22" column="62" />
       </file>
@@ -1094,10 +1077,10 @@
       <file name="$USER_HOME$/Projects/yirdoc/yirdoc.bhhx/src/main/java/com/yirdoc/bhhx/service/PatientCardPayLogService.java" timestamp="1543473057346">
         <mark key="[" line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.lease.provider/consumer/pom.xml" timestamp="1552289906955">
-        <mark key="[" line="10" column="11" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
+      <file name="$USER_HOME$/Projects/yirdoc/yirdoc.lease.provider/consumer/pom.xml" timestamp="1551948758665">
+        <mark key="[" line="6" column="31" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/test/yirdoc.lease/src/main/java/com/yirdoc/lease/controller/OrderMainController.java" timestamp="1546592456826">
         <mark key="[" line="65" column="79" />
@@ -1290,10 +1273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PgogICAgICAgIDxncm91cElkPmNvbS55aXJkb2MuY29yZTwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD55aXJkb2MtY29yZS1jb25zdW1lcjwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4KICAgIDwvcGFyZW50Pg==</text>
+        <text encoding="base64">dmFsdWUg</text>
       </register>
       <register name="-" type="4">
-        <text>order_main</text>
+        <text encoding="base64">dmFsdWUg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiaGh4XD4=</text>
@@ -1302,34 +1285,34 @@
         <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBQYXRpZW50Q2FyZFNlcnZpY2VNb2RlbCBnZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUoTG9uZyBwYXRpZW50Q2FyZElkLCBTaG9ydCBjYXJkU2VydmljZVR5cGUpIHsKICAgICAgICBpZiAocGF0aWVudENhcmRJZCA9PSBudWxsIHx8IGNhcmRTZXJ2aWNlVHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aWVudENhcmRTZXJ2aWNlVGltZU1hcHBlci5nZXRNb2RlbEJ5UGF0aWVudENhcmRJZEFuZFR5cGUocGF0aWVudENhcmRJZCwgY2FyZFNlcnZpY2VUeXBlKTsKICAgIH0=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">PgogICAgICAgIDxncm91cElkPmNvbS55aXJkb2MuY29yZTwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD55aXJkb2MtY29yZS1jb25zdW1lcjwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4KICAgIDwvcGFyZW50Pg==</text>
+        <text encoding="base64">Ci0g5L+u5aSNcGFja2FnZeeUn+aIkGphcuWMheWksei0pQ==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CkFVVE9fSU5DUkVNRU5UID0gNjIzMQpBVkdfUk9XX0xFTkdUSCA9IDAKREVGQVVMVCBDSEFSQUNURVIgU0VUID0gdXRmOApDT0xMQVRFID0gdXRmOF91bmljb2RlX2NpCktFWV9CTE9DS19TSVpFID0gMApNQVhfUk9XUyA9IDAKTUlOX1JPV1MgPSAwClJPV19GT1JNQVQgPSBEeW5hbWljClNUQVRTX1NBTVBMRV9QQUdFUyA9IDA7</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmBkYXRhX3N0YXR1c2AgdGlueWludCgyNTUpIE5PVCBOVUxMIERFRkFVTFQgMSwKYGNyZWF0ZV90aW1lYCB0aW1lc3RhbXAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCwKYHVwZGF0ZV90aW1lYCB0aW1lc3RhbXAgTk9UIE5VTEwgREVGQVVMVCBDVVJSRU5UX1RJTUVTVEFNUCBPTiBVUERBVEUgQ1VSUkVOVF9USU1FU1RBTVAs</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZmVpZ24uaHlzdHJpeC4K</text>
       </register>
       <register name="s" type="4">
         <text encoding="base64">ICJcbiI=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ci0g5L+u5aSNcGFja2FnZeeUn+aIkGphcuWMheWksei0pQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZmVpZ24uaHlzdHJpeC4K</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZmVpZ24uY2xpZW50LmNvbmZpZwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ZmVpZ24uaHR0cGNsaWVudC5jb25uZWN0aW9uLXRpbWVvdXQ9MTAwMDAwCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS55aXJkb2MubGVhc2UucHJvdmlkZXIuY29uc3VtZXIuT3JkZXJNYWluQ29uc3VtZXI7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">c2VydmVyLmNvbm5lY3Rpb24tdGltZW91dD0tMQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
